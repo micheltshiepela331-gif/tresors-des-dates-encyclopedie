@@ -1,0 +1,22 @@
+{
+  "chronologie": "Calculée à partir de l'Exode en 1446 av. J.-C.",
+  "parties": [
+    {
+      "numero": 1,
+      "titre": "De la Création au déluge",
+      "evenements": [
+        { "annee": -4114, "titre": "Création d'Adam", "reference": "Genèse 1-2" },
+        { "annee": -3984, "titre": "Naissance de Seth (Adam a 130 ans)", "reference": "Genèse 5:3" },
+        { "annee": -3879, "titre": "Naissance d'Énosch (Seth a 105 ans)", "reference": "Genèse 5:6" },
+        { "annee": -3789, "titre": "Naissance de Kénan (Énosch a 90 ans)", "reference": "Genèse 5:9" },
+        { "annee": -3719, "titre": "Naissance de Mahalaleel (Kénan a 70 ans)", "reference": "Genèse 5:12" },
+        { "annee": -3654, "titre": "Naissance de Jéred (Mahalaleel a 65 ans)", "reference": "Genèse 5:15" },
+        { "annee": -3492, "titre": "Naissance d'Hénoc (Jéred a 162 ans)", "reference": "Genèse 5:18" },
+        { "annee": -3427, "titre": "Naissance de Metuschélah (Hénoc a 65 ans)", "reference": "Genèse 5:21" },
+        { "annee": -3240, "titre": "Naissance de Lémec (Metuschélah a 187 ans)", "reference": "Genèse 5:25" },
+        { "annee": -3058, "titre": "Naissance de Noé (Lémec a 182 ans)", "reference": "Genèse 5:28-29" },
+        { "annee": -2458, "titre": "Le déluge (Noé a 600 ans)", "reference": "Genèse 7:6" }
+      ]
+    }
+  ]
+}

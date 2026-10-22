@@ -1,22 +1,5686 @@
 {
-  "chronologie": "Calculée à partir de l'Exode en 1446 av. J.-C.",
-  "parties": [
+ "titre": "Trésors des dates — Encyclopédie du temps biblique",
+ "auteur": "Michel Tshiepela",
+ "chronologie": "Avant Moïse : âges de la Genèse comptés à partir de l’Exode en 1446 av. J.-C. (1 Rois 6:1 ; Exode 12:40 ; Actes 7:4). Rois selon Thiele. Empires et Église selon les historiens.",
+ "mise_a_jour": "2026-10-22",
+ "parties": [
+  {
+   "numero": 1,
+   "titre": "De la Création au déluge",
+   "evenements": [
     {
-      "numero": 1,
-      "titre": "De la Création au déluge",
-      "evenements": [
-        { "annee": -4114, "titre": "Création d'Adam", "reference": "Genèse 1-2" },
-        { "annee": -3984, "titre": "Naissance de Seth (Adam a 130 ans)", "reference": "Genèse 5:3" },
-        { "annee": -3879, "titre": "Naissance d'Énosch (Seth a 105 ans)", "reference": "Genèse 5:6" },
-        { "annee": -3789, "titre": "Naissance de Kénan (Énosch a 90 ans)", "reference": "Genèse 5:9" },
-        { "annee": -3719, "titre": "Naissance de Mahalaleel (Kénan a 70 ans)", "reference": "Genèse 5:12" },
-        { "annee": -3654, "titre": "Naissance de Jéred (Mahalaleel a 65 ans)", "reference": "Genèse 5:15" },
-        { "annee": -3492, "titre": "Naissance d'Hénoc (Jéred a 162 ans)", "reference": "Genèse 5:18" },
-        { "annee": -3427, "titre": "Naissance de Metuschélah (Hénoc a 65 ans)", "reference": "Genèse 5:21" },
-        { "annee": -3240, "titre": "Naissance de Lémec (Metuschélah a 187 ans)", "reference": "Genèse 5:25" },
-        { "annee": -3058, "titre": "Naissance de Noé (Lémec a 182 ans)", "reference": "Genèse 5:28-29" },
-        { "annee": -2458, "titre": "Le déluge (Noé a 600 ans)", "reference": "Genèse 7:6" }
-      ]
+     "annee": -4174,
+     "titre": "Création",
+     "niveau": 1,
+     "reference": "Genèse 1-2",
+     "fiche": "Dates comptées avec les âges de Genèse 5 et 11, à partir de l'Exode en 1446 av. J.-C. (1 Rois 6:1) et des 430 ans en Égypte (Exode 12:40).",
+     "sur_la_feuille": "Sur ta feuille : 4004"
+    },
+    {
+     "annee": -4170,
+     "titre": "La chute, sortie d'Éden",
+     "niveau": 2,
+     "reference": "Genèse 3",
+     "fiche": "Le péché entre dans le monde ; les chérubins gardent le chemin de l'arbre de vie. Date inconnue, peu après la Création."
+    },
+    {
+     "annee": -4100,
+     "titre": "Naissance de Caïn et Abel",
+     "niveau": 3,
+     "reference": "Genèse 4:1-2",
+     "fiche": "Date inconnue."
+    },
+    {
+     "annee": -4046,
+     "titre": "Mort d'Abel, fuite de Caïn",
+     "niveau": 2,
+     "reference": "Genèse 4:8-16",
+     "fiche": "Caïn tue Abel et part au pays de Nod. Il bâtit une ville, Hénoc. Sa lignée : Hénoc, Irad, Mehujaël, Metuschaël, Lémec, puis Jabal, Jubal et Tubal-Caïn (Genèse 4:17-22). Peu avant la naissance de Seth."
+    },
+    {
+     "annee": -4044,
+     "titre": "Naissance de Seth",
+     "niveau": 2,
+     "reference": "Genèse 4:25 ; 5:3",
+     "fiche": "Adam a 130 ans. Seth remplace Abel : c'est la lignée de la promesse."
+    },
+    {
+     "annee": -3939,
+     "titre": "Énosch : on invoque l'Éternel",
+     "niveau": 3,
+     "reference": "Genèse 4:26",
+     "fiche": "Seth a 105 ans."
+    },
+    {
+     "annee": -3244,
+     "titre": "Mort d'Adam",
+     "niveau": 3,
+     "reference": "Genèse 5:5",
+     "fiche": "À 930 ans. Lémec, le père de Noé, a déjà 56 ans."
+    },
+    {
+     "annee": -3200,
+     "titre": "Naissance de l'écriture",
+     "niveau": 2,
+     "reference": "Tablettes d'Uruk",
+     "fiche": "À Sumer, les premiers signes écrits sur l'argile. Dates des historiens."
+    },
+    {
+     "annee": -3187,
+     "titre": "Hénoc enlevé",
+     "niveau": 2,
+     "reference": "Genèse 5:24 ; Hébreux 11:5",
+     "fiche": "Hénoc marche avec Dieu, puis Dieu le prend, à 365 ans."
+    },
+    {
+     "annee": -3118,
+     "titre": "Naissance de Noé",
+     "niveau": 2,
+     "reference": "Genèse 5:29",
+     "fiche": "Lémec a 182 ans."
+    },
+    {
+     "annee": -3000,
+     "titre": "Sumer, premiers rois",
+     "niveau": 2,
+     "reference": "Liste royale sumérienne",
+     "fiche": "Les premières villes-royaumes de Mésopotamie. Les historiens les datent avant le déluge biblique : c'est un débat."
+    },
+    {
+     "annee": -2638,
+     "titre": "Dieu donne 120 ans",
+     "niveau": 3,
+     "reference": "Genèse 6:3",
+     "fiche": "Corruption de la terre ; Noé construit l'arche et prêche la justice (2 Pierre 2:5)."
+    },
+    {
+     "annee": -2616,
+     "titre": "Naissance de Sem",
+     "niveau": 3,
+     "reference": "Genèse 5:32 ; 11:10",
+     "fiche": "Noé a 502 ans."
+    },
+    {
+     "annee": -2518,
+     "titre": "Déluge : Noé entre dans l'arche",
+     "niveau": 1,
+     "reference": "Genèse 7:11",
+     "fiche": "Noé a 600 ans, le 17e jour du 2e mois. Mathusalem meurt cette année-là.",
+     "sur_la_feuille": "Sur ta feuille : 2400"
     }
-  ]
+   ]
+  },
+  {
+   "numero": 2,
+   "titre": "De la sortie de l’arche à la déportation à Babylone",
+   "evenements": [
+    {
+     "annee": -2517,
+     "titre": "Sortie de l'arche",
+     "niveau": 2,
+     "reference": "Genèse 8:14 - 9:17",
+     "fiche": "Noé a 601 ans. Il n'y a que 8 personnes sur la terre : Noé, sa femme, Sem, Cham, Japhet et leurs femmes (1 Pierre 3:20). L'arc-en-ciel, signe de l'alliance."
+    },
+    {
+     "annee": -2516,
+     "titre": "Naissance d'Arpacschad",
+     "niveau": 3,
+     "reference": "Genèse 11:10",
+     "fiche": "Deux ans après le déluge."
+    },
+    {
+     "annee": -2500,
+     "titre": "Les fils de Japhet",
+     "niveau": 2,
+     "reference": "Genèse 10:2-5",
+     "fiche": "Gomer, Magog, Madaï (les Mèdes), Javan (les Grecs), Tubal, Méschec, Tiras : les peuples des îles et du nord, vers l'Europe et l'Asie. Date inconnue."
+    },
+    {
+     "annee": -2490,
+     "titre": "Les fils de Cham",
+     "niveau": 2,
+     "reference": "Genèse 10:6-20",
+     "fiche": "Cusch (l'Éthiopie, père de Nimrod), Mitsraïm (l'Égypte), Puth (la Libye), Canaan. Nimrod fonde Babel et Ninive. Date inconnue."
+    },
+    {
+     "annee": -2480,
+     "titre": "Les fils de Sem",
+     "niveau": 2,
+     "reference": "Genèse 10:21-31",
+     "fiche": "Élam, Assur (l'Assyrie), Arpacschad, Lud, Aram (la Syrie). De Sem vient Héber, d'où le nom « Hébreux ». Date inconnue."
+    },
+    {
+     "annee": -2450,
+     "titre": "Nimrod, le vaillant chasseur",
+     "niveau": 2,
+     "reference": "Genèse 10:8-12 ; Michée 5:6",
+     "fiche": "Petit-fils de Cham. Son royaume : Babel, Érec, Akkad, puis Ninive et Calach. Toutes ces villes ont été retrouvées ; Calach s'appelle aujourd'hui Nimroud. Mais aucune inscription ne porte son nom. Rois proposés : Sargon d'Akkad, Enmerkar d'Uruk (un récit sumérien parle d'une langue unique confondue), Gilgamesh, ou Ninus des Grecs. Rien n'est prouvé. Date inconnue."
+    },
+    {
+     "annee": -2417,
+     "titre": "Tour de Babel",
+     "niveau": 2,
+     "reference": "Genèse 10:25 ; 11:1-9",
+     "fiche": "Au temps de Péleg, « la terre fut partagée ». Les langues sont confondues et les peuples dispersés. Les ziggourats de Mésopotamie, comme celle de Babylone, ressemblent à cette tour.",
+     "sur_la_feuille": "Sur ta feuille : placée avant le déluge"
+    },
+    {
+     "annee": -2334,
+     "titre": "Sargon d'Akkad",
+     "niveau": 2,
+     "reference": "Genèse 10:10",
+     "fiche": "Sargon unifie la Mésopotamie : c'est l'empire d'Akkad.",
+     "sur_la_feuille": "Sur ta feuille : 2234, empire sumérien"
+    },
+    {
+     "annee": -2296,
+     "titre": "Naissance de Térach",
+     "niveau": 3,
+     "reference": "Genèse 11:24-26"
+    },
+    {
+     "annee": -2168,
+     "titre": "Mort de Noé",
+     "niveau": 3,
+     "reference": "Genèse 9:29",
+     "fiche": "À 950 ans, 350 ans après le déluge."
+    },
+    {
+     "annee": -2166,
+     "titre": "Naissance d'Abram à Ur",
+     "niveau": 2,
+     "reference": "Genèse 11:26-28",
+     "fiche": "À Ur des Chaldéens. Térach a 130 ans (Actes 7:4)."
+    },
+    {
+     "annee": -2112,
+     "titre": "Ur, grande capitale",
+     "niveau": 2,
+     "reference": "Fouilles de Leonard Woolley, 1922-1934",
+     "fiche": "Ur est au sud de l'Irak actuel, près de Nassiriya, sur l'Euphrate. Sous la 3e dynastie (2112-2004), le roi Ur-Nammu y bâtit une grande ziggourat pour le dieu de la lune. Abraham grandit dans cette ville riche et idolâtre (Josué 24:2)."
+    },
+    {
+     "annee": -2100,
+     "titre": "Départ d'Ur pour Harân",
+     "niveau": 2,
+     "reference": "Genèse 11:31 ; Actes 7:2-4",
+     "fiche": "Dieu apparaît à Abram en Mésopotamie. Térach part avec Abram, Saraï et Lot ; ils s'arrêtent à Harân (sud de la Turquie actuelle). Date approximative."
+    },
+    {
+     "annee": -2091,
+     "titre": "Appel d'Abraham",
+     "niveau": 1,
+     "reference": "Genèse 12:1-4",
+     "fiche": "Après la mort de Térach à Harân, Abram part pour Canaan à 75 ans. Il est justifié par la foi (Genèse 15:6)."
+    },
+    {
+     "annee": -2090.8,
+     "titre": "Abram à Sichem et Béthel",
+     "niveau": 3,
+     "reference": "Genèse 12:6-8",
+     "fiche": "Dieu promet le pays à sa descendance ; Abram bâtit des autels."
+    },
+    {
+     "annee": -2090.3,
+     "titre": "Abram descend en Égypte",
+     "niveau": 3,
+     "reference": "Genèse 12:10-20",
+     "fiche": "Pendant une famine. Date approximative."
+    },
+    {
+     "annee": -2088,
+     "titre": "Abram et Lot se séparent",
+     "niveau": 3,
+     "reference": "Genèse 13",
+     "fiche": "Lot choisit la plaine de Sodome ; Abram s'installe à Hébron, près des chênes de Mamré. Date approximative."
+    },
+    {
+     "annee": -2085,
+     "titre": "Melchisédek bénit Abram",
+     "niveau": 3,
+     "reference": "Genèse 14:18-20 ; Hébreux 7",
+     "fiche": "Date approximative."
+    },
+    {
+     "annee": -2080,
+     "titre": "Naissance d'Ismaël",
+     "niveau": 3,
+     "reference": "Genèse 16:16",
+     "fiche": "Abram a 86 ans. Ismaël est le père des Arabes du désert (Genèse 25:12-18)."
+    },
+    {
+     "annee": -2067.2,
+     "titre": "Alliance de la circoncision",
+     "niveau": 3,
+     "reference": "Genèse 17",
+     "fiche": "Abram devient Abraham à 99 ans."
+    },
+    {
+     "annee": -2066.9,
+     "titre": "Sodome et Gomorrhe détruites",
+     "niveau": 2,
+     "reference": "Genèse 19 ; Luc 17:28-29",
+     "fiche": "Le feu et le soufre tombent du ciel ; Lot est sauvé."
+    },
+    {
+     "annee": -2066,
+     "titre": "Naissance d'Isaac",
+     "niveau": 2,
+     "reference": "Genèse 21:5",
+     "fiche": "Abraham a 100 ans, Sara 90."
+    },
+    {
+     "annee": -2050,
+     "titre": "Sacrifice d'Isaac",
+     "niveau": 2,
+     "reference": "Genèse 22 ; Hébreux 11:17",
+     "fiche": "Sur le mont Morija, là où sera bâti le temple (2 Chroniques 3:1). Date approximative."
+    },
+    {
+     "annee": -2029,
+     "titre": "Mort de Sara",
+     "niveau": 3,
+     "reference": "Genèse 23",
+     "fiche": "À 127 ans, à Hébron."
+    },
+    {
+     "annee": -2026,
+     "titre": "Isaac épouse Rébecca",
+     "niveau": 3,
+     "reference": "Genèse 24 ; 25:20",
+     "fiche": "Isaac a 40 ans."
+    },
+    {
+     "annee": -2006,
+     "titre": "Naissance d'Ésaü et Jacob",
+     "niveau": 2,
+     "reference": "Genèse 25:26",
+     "fiche": "Isaac a 60 ans. Ésaü est le père des Édomites."
+    },
+    {
+     "annee": -1991,
+     "titre": "Mort d'Abraham",
+     "niveau": 3,
+     "reference": "Genèse 25:7-9",
+     "fiche": "À 175 ans. Il a aussi eu six fils de Ketura (Genèse 25:1-4)."
+    },
+    {
+     "annee": -1930,
+     "titre": "Jacob part chez Laban",
+     "niveau": 3,
+     "reference": "Genèse 28",
+     "fiche": "Le songe de l'échelle à Béthel. Date approximative."
+    },
+    {
+     "annee": -1920,
+     "titre": "Les douze fils de Jacob",
+     "niveau": 2,
+     "reference": "Genèse 29-30 ; 35:16-26",
+     "fiche": "Ruben, Siméon, Lévi, Juda, Dan, Nephthali, Gad, Aser, Issacar, Zabulon, Joseph, Benjamin : les douze tribus. Dates approximatives."
+    },
+    {
+     "annee": -1916,
+     "titre": "Naissance de Joseph",
+     "niveau": 3,
+     "reference": "Genèse 30:22-24",
+     "fiche": "Jacob a 91 ans."
+    },
+    {
+     "annee": -1899,
+     "titre": "Joseph vendu par ses frères",
+     "niveau": 2,
+     "reference": "Genèse 37",
+     "fiche": "Joseph a 17 ans."
+    },
+    {
+     "annee": -1886,
+     "titre": "Joseph gouverneur d'Égypte",
+     "niveau": 2,
+     "reference": "Genèse 41:46",
+     "fiche": "Joseph a 30 ans. Isaac meurt la même année, à 180 ans."
+    },
+    {
+     "annee": -1876,
+     "titre": "Jacob descend en Égypte",
+     "niveau": 1,
+     "reference": "Genèse 46 ; Exode 12:40",
+     "fiche": "Jacob a 130 ans ; 70 personnes. Début des 430 ans en Égypte."
+    },
+    {
+     "annee": -1859,
+     "titre": "Mort de Jacob",
+     "niveau": 3,
+     "reference": "Genèse 49 ; 47:28",
+     "fiche": "À 147 ans, après avoir béni ses fils."
+    },
+    {
+     "annee": -1850,
+     "titre": "Jérusalem dans les textes d'exécration",
+     "niveau": 3,
+     "reference": "Textes d'exécration égyptiens (vers 1850 av. J.-C.)",
+     "fiche": "Des poteries égyptiennes portent le nom « Rushalimum » : c'est la plus ancienne mention connue de Jérusalem."
+    },
+    {
+     "annee": -1806,
+     "titre": "Mort de Joseph",
+     "niveau": 3,
+     "reference": "Genèse 50:26",
+     "fiche": "À 110 ans."
+    },
+    {
+     "annee": -1792,
+     "titre": "Hammourabi",
+     "niveau": 2,
+     "reference": "Code d'Hammourabi",
+     "fiche": "Roi de Babylone de 1792 à 1750 av. J.-C. Son code de lois est gravé sur une grande pierre noire, au musée du Louvre."
+    },
+    {
+     "annee": -1526,
+     "titre": "Naissance de Moïse",
+     "niveau": 2,
+     "reference": "Exode 2",
+     "fiche": "Moïse a 80 ans à l'Exode (Exode 7:7)."
+    },
+    {
+     "annee": -1447,
+     "titre": "Les dix plaies d'Égypte",
+     "niveau": 2,
+     "reference": "Exode 7-12",
+     "fiche": "Date approximative : juste avant la sortie."
+    },
+    {
+     "annee": -1446,
+     "titre": "Exode",
+     "niveau": 1,
+     "reference": "Exode 12-14 ; 1 Rois 6:1",
+     "fiche": "Sortie d'Égypte, Pharaon détruit dans la mer. Autre date proposée par beaucoup d'archéologues : vers 1270 av. J.-C.",
+     "sur_la_feuille": "Sur ta feuille : tu hésitais entre 1500 et 1200"
+    },
+    {
+     "annee": -1445.97,
+     "titre": "La mer Rouge : l'armée de Pharaon engloutie",
+     "niveau": 1,
+     "reference": "Exode 14 ; 15:4",
+     "fiche": "Israël passe à pied sec ; les chars de Pharaon sont engloutis."
+    },
+    {
+     "annee": -1445.8,
+     "titre": "Le Sinaï : la Loi, le tabernacle",
+     "niveau": 2,
+     "reference": "Exode 19-40",
+     "fiche": "Trois mois après la sortie d'Égypte (Exode 19:1)."
+    },
+    {
+     "annee": -1444,
+     "titre": "Les espions : Israël refuse d'entrer",
+     "niveau": 3,
+     "reference": "Nombres 13-14",
+     "fiche": "Dieu annonce 40 ans de marche au désert."
+    },
+    {
+     "annee": -1407,
+     "titre": "Mort de Moïse sur le mont Nebo",
+     "niveau": 2,
+     "reference": "Deutéronome 34",
+     "fiche": "À 120 ans. Josué lui succède."
+    },
+    {
+     "annee": -1406,
+     "titre": "Entrée en Canaan",
+     "niveau": 2,
+     "reference": "Josué",
+     "fiche": "Josué fait entrer Israël dans le pays."
+    },
+    {
+     "annee": -1405.5,
+     "titre": "Adoni-Tsédek, roi de Jérusalem",
+     "niveau": 3,
+     "reference": "Josué 10:1-27",
+     "fiche": "Roi jébusien de Jérusalem, il s'allie à quatre rois contre Josué et est vaincu à Gabaon, le jour où le soleil s'arrête."
+    },
+    {
+     "annee": -1405,
+     "titre": "Chute de Jéricho",
+     "niveau": 3,
+     "reference": "Josué 6"
+    },
+    {
+     "annee": -1390,
+     "titre": "Mort de Josué",
+     "niveau": 3,
+     "reference": "Josué 24:29",
+     "fiche": "À 110 ans. Puis vient le temps des juges."
+    },
+    {
+     "annee": -1380,
+     "titre": "Juda attaque Jérusalem",
+     "niveau": 3,
+     "reference": "Juges 1:8 ; 1:21",
+     "fiche": "La ville est brûlée, mais les Jébusiens restent dans la forteresse."
+    },
+    {
+     "annee": -1350,
+     "titre": "Lettres d'Abdi-Heba (Amarna)",
+     "niveau": 3,
+     "reference": "Lettres d'Amarna, EA 285-290",
+     "fiche": "Abdi-Heba, roi d'« Urusalim », écrit au pharaon d'Égypte pour demander de l'aide contre les « Habiru ». Preuve historique d'un roi à Jérusalem avant David."
+    },
+    {
+     "annee": -1105,
+     "titre": "Naissance de Samuel",
+     "niveau": 3,
+     "reference": "1 Samuel 1",
+     "fiche": "Fils d'Anne, la femme qui priait. Date approximative."
+    },
+    {
+     "annee": -1100,
+     "titre": "Ruth et Boaz",
+     "niveau": 2,
+     "reference": "Ruth 1-4",
+     "fiche": "Ruth la Moabite, arrière-grand-mère de David. Date approximative, au temps des juges."
+    },
+    {
+     "annee": -1060,
+     "titre": "L'arche prise par les Philistins",
+     "niveau": 3,
+     "reference": "1 Samuel 4",
+     "fiche": "Mort d'Éli. « Ikabod » : la gloire est partie. Date approximative."
+    },
+    {
+     "annee": -1050,
+     "titre": "Saül, premier roi",
+     "niveau": 2,
+     "reference": "1 Samuel 10",
+     "fiche": "Début de la royauté en Israël."
+    },
+    {
+     "annee": -1050,
+     "titre": "L'alphabet phénicien",
+     "niveau": 3,
+     "reference": "Inscription d'Ahiram",
+     "fiche": "L'ancêtre des alphabets hébreu, grec et latin."
+    },
+    {
+     "annee": -1003,
+     "titre": "David prend la forteresse de Sion",
+     "niveau": 2,
+     "reference": "2 Samuel 5:6-9 ; 1 Chroniques 11:4-8",
+     "fiche": "David prend Jébus aux Jébusiens et en fait sa capitale : la « cité de David »."
+    },
+    {
+     "annee": -966,
+     "titre": "Premier temple",
+     "niveau": 1,
+     "reference": "1 Rois 6-8",
+     "fiche": "Construction du temple de Salomon ; la gloire de Dieu remplit la maison."
+    },
+    {
+     "annee": -931,
+     "titre": "Division du royaume",
+     "niveau": 1,
+     "reference": "1 Rois 12",
+     "fiche": "Israël au nord, Juda au sud."
+    },
+    {
+     "annee": -790,
+     "titre": "Joas d'Israël pille Jérusalem",
+     "niveau": 3,
+     "reference": "2 Rois 14:13-14",
+     "fiche": "Il abat une partie des murs et emporte les trésors du temple."
+    },
+    {
+     "annee": -753,
+     "titre": "Fondation de Rome",
+     "niveau": 2,
+     "reference": "Tite-Live, Histoire de Rome",
+     "fiche": "Selon la tradition romaine. Rome n'est encore qu'une petite ville."
+    },
+    {
+     "annee": -722,
+     "titre": "Chute de Samarie",
+     "niveau": 1,
+     "reference": "2 Rois 17",
+     "fiche": "L'Assyrie déporte le royaume du Nord."
+    },
+    {
+     "annee": -701,
+     "titre": "Sennachérib devant Jérusalem",
+     "niveau": 3,
+     "reference": "2 Rois 18-19",
+     "fiche": "Ézéchias prie ; l'ange de l'Éternel frappe le camp assyrien."
+    },
+    {
+     "annee": -605,
+     "titre": "Daniel emmené à Babylone",
+     "niveau": 2,
+     "reference": "Daniel 1",
+     "fiche": "Première déportation."
+    },
+    {
+     "annee": -597,
+     "titre": "Jojakin et Ézéchiel déportés",
+     "niveau": 3,
+     "reference": "2 Rois 24",
+     "fiche": "Deuxième déportation."
+    },
+    {
+     "annee": -586,
+     "titre": "Temple détruit, captivité",
+     "niveau": 1,
+     "reference": "2 Rois 25",
+     "fiche": "Nabuchodonosor II brûle le temple et emmène Juda à Babylone."
+    }
+   ]
+  },
+  {
+   "numero": 3,
+   "titre": "De Babylone à Rome (la statue de Daniel)",
+   "evenements": [
+    {
+     "annee": -539,
+     "titre": "Cyrus prend Babylone",
+     "niveau": 1,
+     "reference": "Daniel 5",
+     "fiche": "Fin de la tête d'or, début de l'argent."
+    },
+    {
+     "annee": -538,
+     "titre": "Édit de Cyrus : rebâtir le temple",
+     "niveau": 2,
+     "reference": "Esdras 1:1-4 ; Ésaïe 44:28",
+     "fiche": "Cyrus permet aux Juifs de rentrer et de rebâtir le temple. Environ 50 000 personnes reviennent avec Zorobabel (Esdras 2:64-65)."
+    },
+    {
+     "annee": -520,
+     "titre": "Édit de Darius : finir le temple",
+     "niveau": 3,
+     "reference": "Esdras 6:1-12",
+     "fiche": "Après un arrêt des travaux, Darius Ier confirme l'édit de Cyrus. Aggée et Zacharie encouragent le peuple."
+    },
+    {
+     "annee": -516,
+     "titre": "Second temple achevé",
+     "niveau": 2,
+     "reference": "Esdras 6",
+     "fiche": "Commencé vers 536 sous Zorobabel, qui était gouverneur, pas roi.",
+     "sur_la_feuille": "Sur ta feuille : 538, « le roi Zorobabel »"
+    },
+    {
+     "annee": -509,
+     "titre": "République romaine",
+     "niveau": 3,
+     "reference": "Tite-Live, livre 2",
+     "fiche": "Rome chasse son dernier roi."
+    },
+    {
+     "annee": -490,
+     "titre": "Marathon",
+     "niveau": 3,
+     "reference": "Hérodote, Histoires 6",
+     "fiche": "Les Grecs battent Darius Ier."
+    },
+    {
+     "annee": -480,
+     "titre": "Salamine",
+     "niveau": 3,
+     "reference": "Daniel 11:2 ; Hérodote 8",
+     "fiche": "Les Grecs battent Xerxès (Assuérus)."
+    },
+    {
+     "annee": -479,
+     "titre": "Esther reine",
+     "niveau": 3,
+     "reference": "Esther 2",
+     "fiche": "Sous Xerxès (Assuérus)."
+    },
+    {
+     "annee": -458,
+     "titre": "Esdras à Jérusalem",
+     "niveau": 3,
+     "reference": "Esdras 7"
+    },
+    {
+     "annee": -445.6,
+     "titre": "Les murs rebâtis en 52 jours",
+     "niveau": 3,
+     "reference": "Néhémie 6:15"
+    },
+    {
+     "annee": -445.25,
+     "titre": "Édit d'Artaxerxès pour Néhémie",
+     "niveau": 2,
+     "reference": "Néhémie 2:1-8 ; Daniel 9:25",
+     "fiche": "Au mois de Nisan, la 20e année d'Artaxerxès Ier (445/444 av. J.-C.), le roi permet à Néhémie de rebâtir la ville et les murs de Jérusalem. Point de départ des 70 semaines pour un des calculs."
+    },
+    {
+     "annee": -430,
+     "titre": "Malachie, dernier prophète",
+     "niveau": 3,
+     "reference": "Malachie",
+     "fiche": "Ensuite, environ 400 ans de silence prophétique."
+    },
+    {
+     "annee": -356,
+     "titre": "Naissance d'Alexandre",
+     "niveau": 2,
+     "reference": "Plutarque, Vie d'Alexandre",
+     "fiche": "Fils de Philippe II de Macédoine."
+    },
+    {
+     "annee": -333,
+     "titre": "Issos",
+     "niveau": 3,
+     "reference": "Daniel 8:6 ; Arrien, Anabase 2",
+     "fiche": "Alexandre bat Darius III."
+    },
+    {
+     "annee": -332,
+     "titre": "Alexandre à Jérusalem",
+     "niveau": 2,
+     "reference": "Josèphe, Antiquités 11 ; Daniel 8",
+     "fiche": "Alexandre le Grand traverse la région ; selon Flavius Josèphe, il vient à Jérusalem."
+    },
+    {
+     "annee": -331,
+     "titre": "Gaugamèles : fin des Perses",
+     "niveau": 2,
+     "reference": "Daniel 8:7",
+     "fiche": "Alexandre détruit l'empire perse : fin de l'argent, début de l'airain."
+    },
+    {
+     "annee": -323,
+     "titre": "Mort d'Alexandre",
+     "niveau": 2,
+     "reference": "Daniel 8:8",
+     "fiche": "Son royaume est partagé en quatre."
+    },
+    {
+     "annee": -301,
+     "titre": "Ipsos : quatre royaumes",
+     "niveau": 2,
+     "reference": "Daniel 8:8",
+     "fiche": "L'empire d'Alexandre est partagé entre ses généraux."
+    },
+    {
+     "annee": -250,
+     "titre": "La Septante",
+     "niveau": 3,
+     "reference": "Lettre d'Aristée",
+     "fiche": "L'Ancien Testament traduit en grec à Alexandrie (vers 250)."
+    },
+    {
+     "annee": -221,
+     "titre": "Qin Shi Huang unifie la Chine",
+     "niveau": 2,
+     "reference": "Sima Qian, Mémoires historiques",
+     "fiche": "Premier empereur de Chine."
+    },
+    {
+     "annee": -198,
+     "titre": "La Judée passe aux Séleucides",
+     "niveau": 3,
+     "reference": "Daniel 11:16",
+     "fiche": "Antiochos III la prend aux Ptolémées."
+    },
+    {
+     "annee": -190,
+     "titre": "Magnésie",
+     "niveau": 3,
+     "reference": "Daniel 11:18",
+     "fiche": "Rome bat Antiochos III : la puissance romaine arrive en Orient."
+    },
+    {
+     "annee": -168,
+     "titre": "Rome chasse Antiochos d'Égypte",
+     "niveau": 3,
+     "reference": "Daniel 11:30",
+     "fiche": "Furieux, Antiochos se tourne contre Jérusalem."
+    },
+    {
+     "annee": -167,
+     "titre": "Antiochus profane le temple",
+     "niveau": 2,
+     "reference": "Daniel 11:31",
+     "fiche": "L'abomination dans le temple."
+    },
+    {
+     "annee": -164,
+     "titre": "Temple purifié : fête de la Dédicace",
+     "niveau": 3,
+     "reference": "Daniel 8:14 ; Jean 10:22",
+     "fiche": "Jésus est au temple pendant cette fête (Jean 10:22)."
+    },
+    {
+     "annee": -146,
+     "titre": "Carthage et Corinthe détruites",
+     "niveau": 2,
+     "reference": "Polybe, Histoires 38",
+     "fiche": "Rome domine la Méditerranée."
+    },
+    {
+     "annee": -63,
+     "titre": "Pompée prend Jérusalem",
+     "niveau": 1,
+     "reference": "Josèphe, Antiquités 14",
+     "fiche": "Rome entre à Jérusalem : début des jambes de fer pour Israël."
+    },
+    {
+     "annee": -40,
+     "titre": "Les Parthes prennent Jérusalem",
+     "niveau": 3,
+     "reference": "Josèphe, Antiquités 14:330-369"
+    },
+    {
+     "annee": -37,
+     "titre": "Hérode prend Jérusalem",
+     "niveau": 3,
+     "reference": "Josèphe, Antiquités 14:465-491",
+     "fiche": "Avec l'aide de Rome."
+    },
+    {
+     "annee": -31,
+     "titre": "Actium",
+     "niveau": 3,
+     "reference": "Plutarque, Vie d'Antoine",
+     "fiche": "Octave (Auguste) devient seul maître."
+    },
+    {
+     "annee": -20,
+     "titre": "Hérode agrandit le temple",
+     "niveau": 2,
+     "reference": "Jean 2:20 ; Josèphe, Antiquités 15:380-425",
+     "fiche": "Hérode le Grand, roi édomite placé par Rome et mal aimé des Juifs, agrandit le temple de Zorobabel pour gagner le peuple et montrer sa grandeur. Il construit aussi des temples païens pour l'empereur Auguste (Césarée, Samarie) et place un aigle d'or romain sur la porte du temple. Les travaux durent jusqu'en 63-64 ap. J.-C. : « Il a fallu 46 ans pour bâtir ce temple » (Jean 2:20).",
+     "sur_la_feuille": "Sur ta feuille : placée après l'an 0"
+    }
+   ]
+  },
+  {
+   "numero": 4,
+   "titre": "L’an 0 : la naissance du Christ, de Jean-Baptiste à Patmos",
+   "evenements": [
+    {
+     "annee": -5.5,
+     "titre": "Naissance de Jean-Baptiste",
+     "niveau": 3,
+     "reference": "Luc 1:57-80",
+     "fiche": "Six mois avant Jésus."
+    },
+    {
+     "annee": -5,
+     "titre": "Naissance de Jésus",
+     "niveau": 1,
+     "reference": "Luc 2",
+     "fiche": "Vers 6-4 av. J.-C., sous Auguste."
+    },
+    {
+     "annee": -4.3,
+     "titre": "L'aigle d'or arraché du temple",
+     "niveau": 3,
+     "reference": "Josèphe, Antiquités 17:149-167",
+     "fiche": "Des étudiants de la Loi arrachent l'aigle romain placé par Hérode ; il les fait brûler vifs, peu avant sa mort."
+    },
+    {
+     "annee": 8,
+     "titre": "Jésus au temple à 12 ans",
+     "niveau": 3,
+     "reference": "Luc 2:41-52"
+    },
+    {
+     "annee": 29,
+     "titre": "Baptême de Jésus",
+     "niveau": 2,
+     "reference": "Luc 3:1-22",
+     "fiche": "La 15e année de Tibère. Le Saint-Esprit descend comme une colombe. Début du ministère."
+    },
+    {
+     "annee": 29.2,
+     "titre": "Tentation au désert",
+     "niveau": 3,
+     "reference": "Matthieu 4:1-11",
+     "fiche": "40 jours."
+    },
+    {
+     "annee": 29.4,
+     "titre": "Noces de Cana",
+     "niveau": 3,
+     "reference": "Jean 2:1-11",
+     "fiche": "Premier miracle."
+    },
+    {
+     "annee": 30.5,
+     "titre": "Sermon sur la montagne",
+     "niveau": 3,
+     "reference": "Matthieu 5-7"
+    },
+    {
+     "annee": 31.3,
+     "titre": "Multiplication des pains",
+     "niveau": 3,
+     "reference": "Jean 6",
+     "fiche": "5 000 hommes nourris."
+    },
+    {
+     "annee": 32,
+     "titre": "Mort de Jean-Baptiste",
+     "niveau": 3,
+     "reference": "Matthieu 14:1-12",
+     "fiche": "Décapité par Hérode Antipas."
+    },
+    {
+     "annee": 32.6,
+     "titre": "Transfiguration",
+     "niveau": 3,
+     "reference": "Matthieu 17:1-9",
+     "fiche": "Moïse et Élie apparaissent avec Jésus."
+    },
+    {
+     "annee": 33.1,
+     "titre": "Résurrection de Lazare",
+     "niveau": 3,
+     "reference": "Jean 11"
+    },
+    {
+     "annee": 33.24,
+     "titre": "Entrée à Jérusalem",
+     "niveau": 3,
+     "reference": "Jean 12:12-19",
+     "fiche": "Le dimanche des Rameaux."
+    },
+    {
+     "annee": 33.26,
+     "titre": "Sainte Cène",
+     "niveau": 3,
+     "reference": "Luc 22:14-20"
+    },
+    {
+     "annee": 33.27,
+     "titre": "La croix",
+     "niveau": 1,
+     "reference": "Matthieu 27 ; Jean 19",
+     "fiche": "Vers 30 ou 33. Un vendredi."
+    },
+    {
+     "annee": 33.28,
+     "titre": "Résurrection",
+     "niveau": 1,
+     "reference": "Matthieu 28 ; 1 Corinthiens 15",
+     "fiche": "Le premier jour de la semaine."
+    },
+    {
+     "annee": 33.38,
+     "titre": "Ascension",
+     "niveau": 2,
+     "reference": "Actes 1:9-11",
+     "fiche": "40 jours après la résurrection."
+    },
+    {
+     "annee": 33.41,
+     "titre": "Pentecôte",
+     "niveau": 1,
+     "reference": "Actes 2",
+     "fiche": "Effusion du Saint-Esprit, 50 jours après Pâques : naissance de l'Église. Le matin : la lumière se lève à l'Est (Matthieu 24:27)."
+    },
+    {
+     "annee": 34,
+     "titre": "Étienne lapidé : persécution à Jérusalem",
+     "niveau": 2,
+     "reference": "Actes 7-8",
+     "fiche": "L'Église de Jérusalem est dispersée."
+    },
+    {
+     "annee": 34.5,
+     "titre": "L'eunuque éthiopien baptisé",
+     "niveau": 2,
+     "reference": "Actes 8:26-40",
+     "fiche": "Philippe baptise l'intendant de la reine Candace d'Éthiopie (Koush), qui rentre en Afrique en se réjouissant : le premier Africain baptisé dont la Bible parle."
+    },
+    {
+     "annee": 35,
+     "titre": "Conversion de Paul",
+     "niveau": 3,
+     "reference": "Actes 9"
+    },
+    {
+     "annee": 44,
+     "titre": "Jacques tué par Hérode Agrippa",
+     "niveau": 3,
+     "reference": "Actes 12:2"
+    },
+    {
+     "annee": 45,
+     "titre": "Theudas, faux messie",
+     "niveau": 3,
+     "reference": "Actes 5:36 ; Josèphe, Antiquités 20:97-98",
+     "fiche": "Il promet de partager le Jourdain ; les Romains le tuent."
+    },
+    {
+     "annee": 46,
+     "titre": "1er voyage de Paul",
+     "niveau": 3,
+     "reference": "Actes 13-14",
+     "fiche": "Chypre et la Galatie, avec Barnabas."
+    },
+    {
+     "annee": 49,
+     "titre": "Concile de Jérusalem",
+     "niveau": 3,
+     "reference": "Actes 15"
+    },
+    {
+     "annee": 49.6,
+     "titre": "2e voyage de Paul",
+     "niveau": 3,
+     "reference": "Actes 15:36 - 18:22",
+     "fiche": "La Macédoine et la Grèce : Philippes, Thessalonique, Athènes, Corinthe."
+    },
+    {
+     "annee": 52,
+     "titre": "Thomas arrive en Inde",
+     "niveau": 2,
+     "reference": "Actes de Thomas ; tradition des chrétiens de saint Thomas",
+     "fiche": "Selon la tradition, l'apôtre Thomas débarque au Kerala, dans le sud de l'Inde, et y fonde des Églises qui existent encore."
+    },
+    {
+     "annee": 53,
+     "titre": "3e voyage de Paul",
+     "niveau": 3,
+     "reference": "Actes 18:23 - 21:17",
+     "fiche": "Trois ans à Éphèse."
+    },
+    {
+     "annee": 55,
+     "titre": "« L'Égyptien », faux prophète",
+     "niveau": 3,
+     "reference": "Actes 21:38 ; Josèphe, Guerre 2:261-263",
+     "fiche": "Il entraîne des milliers d'hommes au mont des Oliviers ; ils sont dispersés par les Romains."
+    },
+    {
+     "annee": 57,
+     "titre": "Paul arrêté à Jérusalem",
+     "niveau": 3,
+     "reference": "Actes 21-26",
+     "fiche": "Prisonnier deux ans à Césarée."
+    },
+    {
+     "annee": 60,
+     "titre": "Paul arrive à Rome",
+     "niveau": 3,
+     "reference": "Actes 28",
+     "fiche": "Vers 60-61."
+    },
+    {
+     "annee": 60,
+     "titre": "Matthieu en Éthiopie (tradition)",
+     "niveau": 3,
+     "reference": "Rufin ; Socrate le Scolastique, Histoire ecclésiastique 1:19",
+     "fiche": "Une tradition ancienne dit que l'apôtre Matthieu a prêché en Éthiopie. Ce n'est pas certain."
+    },
+    {
+     "annee": 63.5,
+     "titre": "Fin des travaux du temple",
+     "niveau": 3,
+     "reference": "Josèphe, Antiquités 20:219",
+     "fiche": "Environ 18 000 ouvriers se retrouvent sans travail. Six ans plus tard, le temple est détruit."
+    },
+    {
+     "annee": 64,
+     "titre": "Néron persécute les chrétiens",
+     "niveau": 2,
+     "reference": "Tacite, Annales 15",
+     "fiche": "Après l'incendie de Rome."
+    },
+    {
+     "annee": 66.4,
+     "titre": "Grande révolte juive contre Rome",
+     "niveau": 2,
+     "reference": "Josèphe, Guerre des Juifs 2 ; 6:312-313 ; Matthieu 24:24",
+     "fiche": "Au printemps 66. Selon Josèphe, ce qui poussa surtout les Juifs à la guerre fut une prophétie de leurs Écritures annonçant qu'un homme de leur pays dominerait le monde. Jésus avait averti : « Il s'élèvera de faux christs » (Matthieu 24:24)."
+    },
+    {
+     "annee": 67,
+     "titre": "Pierre et Paul martyrs",
+     "niveau": 3,
+     "reference": "Eusèbe, Histoire ecclésiastique 2",
+     "fiche": "Vers 64-67, à Rome."
+    },
+    {
+     "annee": 68,
+     "titre": "Les chrétiens fuient à Pella",
+     "niveau": 3,
+     "reference": "Luc 21:20-21 ; Eusèbe, Histoire ecclésiastique 3:5",
+     "fiche": "Avertis par la parole de Jésus, les chrétiens de Jérusalem quittent la ville avant le siège."
+    },
+    {
+     "annee": 70.28,
+     "titre": "Titus assiège Jérusalem",
+     "niveau": 2,
+     "reference": "Josèphe, Guerre des Juifs 5",
+     "fiche": "Le siège commence vers avril 70, à la Pâque ; la ville est pleine de pèlerins. La famine s'installe."
+    },
+    {
+     "annee": 70.6,
+     "titre": "Le temple brûle",
+     "niveau": 1,
+     "reference": "Matthieu 24:2 ; Josèphe, Guerre 6:4",
+     "fiche": "Fin août 70, le jour même où Nabuchodonosor avait brûlé le premier temple, selon Josèphe. « Il ne restera pas ici pierre sur pierre » (Matthieu 24:2)."
+    },
+    {
+     "annee": 70.7,
+     "titre": "Titus détruit Jérusalem",
+     "niveau": 1,
+     "reference": "Luc 19:43-44 ; 21:20 ; Josèphe, Guerre 6-7",
+     "fiche": "Septembre 70 : la ville haute tombe. Josèphe compte plus d'un million de morts et 97 000 prisonniers vendus comme esclaves. Le chandelier du temple est emporté à Rome."
+    },
+    {
+     "annee": 72,
+     "titre": "Mort de Thomas en Inde",
+     "niveau": 3,
+     "reference": "Tradition de Mylapore (Chennai)",
+     "fiche": "Selon la tradition, il est tué d'un coup de lance près de Chennai."
+    },
+    {
+     "annee": 72,
+     "titre": "Début du Colisée à Rome",
+     "niveau": 2,
+     "reference": "Suétone, Vespasien 9 ; inscription du Colisée",
+     "fiche": "L'empereur Vespasien fait bâtir le grand amphithéâtre. Selon une inscription retrouvée, il est payé avec le butin pris à Jérusalem en 70 ; beaucoup de prisonniers juifs travaillent dans les carrières et les chantiers."
+    },
+    {
+     "annee": 73.3,
+     "titre": "Chute de Massada",
+     "niveau": 3,
+     "reference": "Josèphe, Guerre des Juifs 7",
+     "fiche": "Dernière forteresse de la révolte, au bord de la mer Morte (73 ou 74)."
+    },
+    {
+     "annee": 80.5,
+     "titre": "Inauguration du Colisée",
+     "niveau": 2,
+     "reference": "Suétone, Titus 7 ; Dion Cassius 66:25",
+     "fiche": "L'empereur Titus l'inaugure par 100 jours de jeux : combats de gladiateurs et milliers d'animaux sauvages tués. Il peut recevoir environ 50 000 spectateurs. Terminé sous Domitien."
+    },
+    {
+     "annee": 81,
+     "titre": "Arc de Titus à Rome",
+     "niveau": 3,
+     "reference": "L'arc existe encore",
+     "fiche": "On y voit les soldats romains porter le chandelier du temple de Jérusalem."
+    },
+    {
+     "annee": 95,
+     "titre": "Jean à Patmos",
+     "niveau": 2,
+     "reference": "Apocalypse 1:9",
+     "fiche": "Sous Domitien.",
+     "sur_la_feuille": "Sur ta feuille : vers 90"
+    }
+   ]
+  },
+  {
+   "numero": 5,
+   "titre": "L’histoire de l’Église jusqu’à aujourd’hui",
+   "evenements": [
+    {
+     "annee": 107,
+     "titre": "Ignace d'Antioche livré aux lions à Rome",
+     "niveau": 2,
+     "reference": "Ignace, Lettre aux Romains 4 ; Eusèbe 3:36",
+     "fiche": "Il écrit : « Je suis le froment de Dieu, moulu par la dent des bêtes. » La tradition place sa mort au Colisée. Beaucoup de chrétiens sont morts dans les arènes de l'Empire ; pour le Colisée lui-même, les sources anciennes sont peu nombreuses."
+    },
+    {
+     "annee": 132,
+     "titre": "Bar Kokhba proclamé messie",
+     "niveau": 2,
+     "reference": "Dion Cassius, livre 69 ; Talmud de Jérusalem, Taanit 4:5",
+     "fiche": "Simon bar Kosiba prend la tête d'une nouvelle révolte. Le grand rabbin Akiba le proclame messie et l'appelle « Bar Kokhba », fils de l'étoile (Nombres 24:17). Les chrétiens juifs refusent de le suivre."
+    },
+    {
+     "annee": 135,
+     "titre": "Révolte de Bar Kokhba écrasée",
+     "niveau": 2,
+     "reference": "Dion Cassius, livre 69",
+     "fiche": "Chute de Bétar. Environ 580 000 morts selon Dion Cassius. Les Juifs sont chassés de Jérusalem : début de la grande dispersion."
+    },
+    {
+     "annee": 135.5,
+     "titre": "Aelia Capitolina",
+     "niveau": 3,
+     "reference": "Dion Cassius, livre 69",
+     "fiche": "Hadrien fait de Jérusalem une ville romaine païenne."
+    },
+    {
+     "annee": 155,
+     "titre": "Polycarpe martyr",
+     "niveau": 2,
+     "reference": "Martyre de Polycarpe",
+     "fiche": "Disciple de Jean, à 86 ans. Il refuse d'adorer l'empereur et est condamné au bûcher à Smyrne, sous Antonin. Selon le récit, le feu l'entoure sans le consumer, et il est achevé d'un coup de poignard.",
+     "sur_la_feuille": "Sur ta feuille : placé vers 100"
+    },
+    {
+     "annee": 160,
+     "titre": "Les catacombes de Rome",
+     "niveau": 3,
+     "reference": "Cimetières souterrains chrétiens",
+     "fiche": "Les chrétiens y enterrent leurs morts et y prient près des martyrs. Les historiens pensent qu'ils servaient surtout de cimetières, et moins souvent de cachettes."
+    },
+    {
+     "annee": 165,
+     "titre": "Justin martyr",
+     "niveau": 3,
+     "reference": "Actes du martyre de Justin",
+     "fiche": "Philosophe devenu chrétien, il défend la foi devant l'empereur ; décapité à Rome avec six compagnons."
+    },
+    {
+     "annee": 177,
+     "titre": "Martyrs de Lyon",
+     "niveau": 3,
+     "reference": "Eusèbe, Histoire ecclésiastique 5",
+     "fiche": "Irénée devient ensuite évêque de Lyon."
+    },
+    {
+     "annee": 177.4,
+     "titre": "Blandine dans l'arène de Lyon",
+     "niveau": 3,
+     "reference": "Lettre des Églises de Lyon et Vienne (Eusèbe 5:1)",
+     "fiche": "Jeune servante, livrée aux bêtes puis tuée ; elle répétait : « Je suis chrétienne. »"
+    },
+    {
+     "annee": 203.2,
+     "titre": "Perpétue et Félicité à Carthage",
+     "niveau": 2,
+     "reference": "Passion de Perpétue et Félicité",
+     "fiche": "Deux jeunes mères africaines livrées aux bêtes dans l'amphithéâtre de Carthage, le 7 mars 203. Perpétue a écrit elle-même le récit de sa prison."
+    },
+    {
+     "annee": 303,
+     "titre": "Grande persécution",
+     "niveau": 3,
+     "reference": "Eusèbe, Histoire ecclésiastique 8",
+     "fiche": "Sous Dioclétien, de 303 à 311."
+    },
+    {
+     "annee": 311,
+     "titre": "Eusèbe : Les martyrs de Palestine",
+     "niveau": 3,
+     "reference": "Eusèbe de Césarée",
+     "fiche": "Témoin de la grande persécution, il raconte la mort des martyrs qu'il a connus."
+    },
+    {
+     "annee": 313,
+     "titre": "Édit de Milan",
+     "niveau": 2,
+     "reference": "Eusèbe, Histoire ecclésiastique 10",
+     "fiche": "Constantin donne la liberté aux chrétiens."
+    },
+    {
+     "annee": 325,
+     "titre": "Concile de Nicée",
+     "niveau": 1,
+     "reference": "Eusèbe, Vie de Constantin 3"
+    },
+    {
+     "annee": 330,
+     "titre": "Le royaume d'Aksoum devient chrétien",
+     "niveau": 2,
+     "reference": "Rufin, Histoire ecclésiastique 10:9-10 ; monnaies du roi Ezana",
+     "fiche": "Frumence évangélise l'Éthiopie ; le roi Ezana se convertit. Ses pièces de monnaie portent bientôt la croix."
+    },
+    {
+     "annee": 380,
+     "titre": "Christianisme religion de l'Empire : début de l'âge sombre",
+     "niveau": 2,
+     "reference": "Édit de Thessalonique",
+     "fiche": "Théodose impose le christianisme à tout l'Empire. L'Église s'unit à l'État ; sur ta feuille, c'est le 1er âge sombre."
+    },
+    {
+     "annee": 381,
+     "titre": "Concile de Constantinople",
+     "niveau": 3,
+     "reference": "Symbole de Nicée-Constantinople",
+     "fiche": "Il complète le credo de Nicée sur le Saint-Esprit."
+    },
+    {
+     "annee": 395,
+     "titre": "Empire divisé en deux",
+     "niveau": 2,
+     "reference": "Daniel 2:33",
+     "fiche": "Occident et Orient : les deux jambes de fer."
+    },
+    {
+     "annee": 401,
+     "titre": "Patrick enlevé par des pirates",
+     "niveau": 3,
+     "reference": "Confession de Patrick 1",
+     "fiche": "Né vers 385 en Bretagne romaine (l'actuelle Grande-Bretagne), il est enlevé à 16 ans et vendu comme esclave en Irlande. Il garde les troupeaux et prie ; six ans plus tard, il s'enfuit."
+    },
+    {
+     "annee": 404,
+     "titre": "Télémaque arrête les combats de gladiateurs",
+     "niveau": 2,
+     "reference": "Théodoret, Histoire ecclésiastique 5:26",
+     "fiche": "Un moine d'Orient descend dans l'arène du Colisée pour séparer les gladiateurs ; la foule le lapide. Après sa mort, l'empereur Honorius interdit les combats de gladiateurs."
+    },
+    {
+     "annee": 405,
+     "titre": "Jérôme : la Bible en latin",
+     "niveau": 3,
+     "reference": "La Vulgate",
+     "fiche": "La Bible de l'Église d'Occident pendant 1 000 ans."
+    },
+    {
+     "annee": 431,
+     "titre": "Concile d'Éphèse",
+     "niveau": 3,
+     "reference": "Actes du concile d'Éphèse",
+     "fiche": "Marie y est appelée « mère de Dieu »."
+    },
+    {
+     "annee": 432,
+     "titre": "Patrick part en Irlande",
+     "niveau": 2,
+     "reference": "Confession de Patrick",
+     "fiche": "Il revient comme missionnaire chez ceux qui l'avaient tenu esclave et évangélise toute l'Irlande. Il meurt vers 461, le 17 mars selon la tradition."
+    },
+    {
+     "annee": 451,
+     "titre": "Concile de Chalcédoine",
+     "niveau": 3,
+     "reference": "Définition de Chalcédoine",
+     "fiche": "Jésus, vrai Dieu et vrai homme."
+    },
+    {
+     "annee": 476,
+     "titre": "Chute de Rome (Occident)",
+     "niveau": 2,
+     "reference": "Daniel 2:41"
+    },
+    {
+     "annee": 496,
+     "titre": "Baptême de Clovis",
+     "niveau": 3,
+     "reference": "Grégoire de Tours, Histoire des Francs",
+     "fiche": "Premier roi des Francs baptisé."
+    },
+    {
+     "annee": 590,
+     "titre": "Grégoire le Grand, pape",
+     "niveau": 3,
+     "reference": "Registre des lettres de Grégoire",
+     "fiche": "Il envoie des missionnaires en Angleterre."
+    },
+    {
+     "annee": 597,
+     "titre": "Æthelbert, 1er roi anglais chrétien",
+     "niveau": 2,
+     "reference": "Bède, Histoire ecclésiastique 1:26",
+     "fiche": "Le roi du Kent est baptisé après l'arrivée d'Augustin de Cantorbéry."
+    },
+    {
+     "annee": 606,
+     "titre": "Boniface III, « évêque universel »",
+     "niveau": 2,
+     "reference": "Décret de l'empereur Phocas",
+     "fiche": "L'empereur reconnaît l'évêque de Rome comme chef de toutes les Églises. Boniface est pape en 607 ; Branham retient 606 pour le début de Thyatire."
+    },
+    {
+     "annee": 614,
+     "titre": "Les Perses prennent Jérusalem",
+     "niveau": 3,
+     "reference": "Antiochus Stratégos, Prise de Jérusalem",
+     "fiche": "Massacre et pillage."
+    },
+    {
+     "annee": 622,
+     "titre": "Naissance de l'islam : l'Hégire",
+     "niveau": 2,
+     "reference": "Ibn Hicham, Vie de Mahomet",
+     "fiche": "Mahomet, né vers 570 à La Mecque, part pour Médine. Il meurt en 632."
+    },
+    {
+     "annee": 629,
+     "titre": "Héraclius reprend Jérusalem",
+     "niveau": 3,
+     "reference": "Chroniques byzantines"
+    },
+    {
+     "annee": 638,
+     "titre": "Le calife Omar prend Jérusalem",
+     "niveau": 2,
+     "reference": "Théophane, Chronographie",
+     "fiche": "Le patriarche Sophrone lui remet la ville, sans massacre."
+    },
+    {
+     "annee": 641,
+     "titre": "Conquête de l'Égypte",
+     "niveau": 3,
+     "reference": "Jean de Nikiou, Chronique",
+     "fiche": "Le général Amr prend l'Égypte et Alexandrie."
+    },
+    {
+     "annee": 691,
+     "titre": "Le Dôme du Rocher",
+     "niveau": 2,
+     "reference": "Inscription du Dôme, an 72 de l'Hégire",
+     "fiche": "Construit sur l'emplacement du temple."
+    },
+    {
+     "annee": 710,
+     "titre": "Mosquée Al-Aqsa",
+     "niveau": 3,
+     "reference": "Papyrus d'Aphrodito",
+     "fiche": "Au sud de l'esplanade du temple."
+    },
+    {
+     "annee": 800.98,
+     "titre": "Charlemagne couronné empereur",
+     "niveau": 2,
+     "reference": "Annales royales des Francs",
+     "fiche": "Le pape Léon III le couronne : alliance du pape et des rois d'Occident."
+    },
+    {
+     "annee": 800.99,
+     "titre": "Charlemagne, « père de l'Europe »",
+     "niveau": 3,
+     "reference": "Annales royales des Francs",
+     "fiche": "Son empire réunit une grande partie de l'Europe de l'Ouest ; on l'appelle souvent le père de l'Europe."
+    },
+    {
+     "annee": 845,
+     "titre": "Massacre des Pauliciens",
+     "niveau": 3,
+     "reference": "Chroniques byzantines (Théophane continué)",
+     "fiche": "Sous l'impératrice Théodora, vers 843-856, des dizaines de milliers de Pauliciens sont tués."
+    },
+    {
+     "annee": 969,
+     "titre": "Les Fatimides d'Égypte",
+     "niveau": 3,
+     "reference": "Chroniques arabes"
+    },
+    {
+     "annee": 1054,
+     "titre": "Schisme : Rome et Constantinople se séparent",
+     "niveau": 2,
+     "reference": "Bulle d'excommunication du 16 juillet 1054",
+     "fiche": "Le légat du pape et le patriarche de Constantinople s'excommunient. Naissance de l'Église catholique romaine d'un côté, de l'Église orthodoxe de l'autre."
+    },
+    {
+     "annee": 1073,
+     "titre": "Les Turcs seldjoukides",
+     "niveau": 3,
+     "reference": "Chroniques arabes"
+    },
+    {
+     "annee": 1095.9,
+     "titre": "Appel à la première croisade",
+     "niveau": 2,
+     "reference": "Foucher de Chartres, Histoire de Jérusalem",
+     "fiche": "Le pape Urbain II appelle les chevaliers d'Europe à prendre Jérusalem."
+    },
+    {
+     "annee": 1099.5,
+     "titre": "Les croisés prennent Jérusalem",
+     "niveau": 2,
+     "reference": "Gesta Francorum",
+     "fiche": "Massacre des habitants musulmans et juifs. Royaume latin de Jérusalem."
+    },
+    {
+     "annee": 1187.5,
+     "titre": "Saladin à Hattin",
+     "niveau": 2,
+     "reference": "Baha ad-Din, Vie de Saladin",
+     "fiche": "Saladin, sultan d'Égypte et de Syrie, écrase l'armée des croisés."
+    },
+    {
+     "annee": 1187.75,
+     "titre": "Saladin reprend Jérusalem",
+     "niveau": 2,
+     "reference": "Baha ad-Din, Vie de Saladin"
+    },
+    {
+     "annee": 1190,
+     "titre": "Troisième croisade",
+     "niveau": 3,
+     "reference": "Itinerarium Regis Ricardi",
+     "fiche": "Richard Cœur de Lion ne reprend pas Jérusalem."
+    },
+    {
+     "annee": 1204.3,
+     "titre": "Les croisés pillent Constantinople",
+     "niveau": 2,
+     "reference": "Geoffroi de Villehardouin, La Conquête de Constantinople",
+     "fiche": "La 4e croisade se retourne contre la grande ville chrétienne d'Orient."
+    },
+    {
+     "annee": 1206,
+     "titre": "Gengis Khan, chef des Mongols",
+     "niveau": 2,
+     "reference": "Histoire secrète des Mongols"
+    },
+    {
+     "annee": 1209.5,
+     "titre": "Croisade contre les Albigeois",
+     "niveau": 3,
+     "reference": "Pierre des Vaux-de-Cernay, Histoire albigeoise",
+     "fiche": "Le pape lance une croisade dans le sud de la France. Massacre de Béziers (22 juillet 1209)."
+    },
+    {
+     "annee": 1229,
+     "titre": "Frédéric II obtient Jérusalem",
+     "niveau": 3,
+     "reference": "Traité de Jaffa, 1229"
+    },
+    {
+     "annee": 1231,
+     "titre": "L'Inquisition",
+     "niveau": 2,
+     "reference": "Bulle Excommunicamus, 1231",
+     "fiche": "Tribunaux de l'Église contre ceux qu'elle appelle hérétiques ; Vaudois et Albigeois sont poursuivis."
+    },
+    {
+     "annee": 1244,
+     "titre": "Sac de Jérusalem par les Khwarezmiens",
+     "niveau": 3,
+     "reference": "Chroniques latines et arabes"
+    },
+    {
+     "annee": 1260,
+     "titre": "Les Mamelouks",
+     "niveau": 3,
+     "reference": "Chroniques mameloukes"
+    },
+    {
+     "annee": 1291.4,
+     "titre": "Fin des croisades : chute d'Acre",
+     "niveau": 3,
+     "reference": "Mai 1291",
+     "fiche": "Dernière ville des croisés en Terre sainte."
+    },
+    {
+     "annee": 1309,
+     "titre": "Les papes à Avignon",
+     "niveau": 2,
+     "reference": "1309-1377",
+     "fiche": "Les papes quittent Rome et s'installent en France pendant près de 70 ans."
+    },
+    {
+     "annee": 1324,
+     "titre": "Pèlerinage de Mansa Moussa",
+     "niveau": 3,
+     "reference": "Al-Umari ; Ibn Khaldoun",
+     "fiche": "Le roi du Mali traverse l'Égypte avec tant d'or que son prix chute au Caire."
+    },
+    {
+     "annee": 1347,
+     "titre": "La peste noire",
+     "niveau": 2,
+     "reference": "Chroniques du XIVe siècle",
+     "fiche": "Un tiers environ de la population d'Europe meurt."
+    },
+    {
+     "annee": 1378,
+     "titre": "Grand schisme d'Occident",
+     "niveau": 2,
+     "reference": "1378-1417",
+     "fiche": "Deux papes, puis trois, en même temps, qui s'excommunient les uns les autres."
+    },
+    {
+     "annee": 1412.02,
+     "titre": "Naissance de Jeanne d'Arc",
+     "niveau": 3,
+     "reference": "Procès de réhabilitation (1456)",
+     "fiche": "Née vers le 6 janvier 1412 à Domrémy, en Lorraine, dans une famille de paysans."
+    },
+    {
+     "annee": 1415,
+     "titre": "Jan Hus brûlé",
+     "niveau": 3,
+     "reference": "Concile de Constance"
+    },
+    {
+     "annee": 1429.35,
+     "titre": "Jeanne d'Arc délivre Orléans",
+     "niveau": 3,
+     "reference": "Procès de condamnation et de réhabilitation",
+     "fiche": "À 17 ans, elle dit agir sur l'ordre de voix venues de Dieu ; elle conduit l'armée française pendant la guerre de Cent Ans."
+    },
+    {
+     "annee": 1431.41,
+     "titre": "Jeanne d'Arc brûlée à Rouen",
+     "niveau": 2,
+     "reference": "Procès de condamnation de Jeanne d'Arc (1431)",
+     "fiche": "Le 30 mai 1431, à 19 ans, elle est condamnée comme hérétique par un tribunal d'Église et brûlée vive. Un second procès la déclare innocente en 1456."
+    },
+    {
+     "annee": 1453,
+     "titre": "Chute de Constantinople",
+     "niveau": 3,
+     "reference": "Chroniques byzantines",
+     "fiche": "Fin de l'Empire d'Orient."
+    },
+    {
+     "annee": 1455,
+     "titre": "Bible de Gutenberg",
+     "niveau": 2,
+     "reference": "Première Bible imprimée",
+     "fiche": "Mayence, Allemagne."
+    },
+    {
+     "annee": 1482.5,
+     "titre": "Diogo Cão au fleuve Congo",
+     "niveau": 2,
+     "reference": "Padrão de Diogo Cão ; chroniques portugaises",
+     "fiche": "Premier Européen à l'embouchure du fleuve Congo ; il y plante une colonne de pierre."
+    },
+    {
+     "annee": 1491,
+     "titre": "Baptême du roi du Kongo",
+     "niveau": 3,
+     "reference": "Nzinga a Nkuwu, baptisé João Ier",
+     "fiche": "Premier roi d'Afrique centrale baptisé, par des missionnaires portugais."
+    },
+    {
+     "annee": 1492.78,
+     "titre": "Christophe Colomb en Amérique",
+     "niveau": 2,
+     "reference": "Journal de bord de Colomb",
+     "fiche": "12 octobre 1492."
+    },
+    {
+     "annee": 1498.4,
+     "titre": "Vasco de Gama en Inde",
+     "niveau": 2,
+     "reference": "Journal du voyage de Vasco de Gama",
+     "fiche": "Il ouvre la route maritime de l'Europe vers l'Inde par l'Afrique."
+    },
+    {
+     "annee": 1517,
+     "titre": "Luther : la justification",
+     "niveau": 1,
+     "reference": "Romains 1:17 ; les 95 thèses",
+     "fiche": "Les 95 thèses.",
+     "sur_la_feuille": "Sur ta feuille : 1500"
+    },
+    {
+     "annee": 1517.9,
+     "titre": "Les Turcs ottomans prennent Jérusalem",
+     "niveau": 2,
+     "reference": "Registres ottomans de Jérusalem",
+     "fiche": "Ils prennent aussi l'Égypte. Domination turque pendant 400 ans."
+    },
+    {
+     "annee": 1519,
+     "titre": "Zwingli à Zurich",
+     "niveau": 3,
+     "reference": "Les 67 thèses (1523)"
+    },
+    {
+     "annee": 1522.7,
+     "titre": "Premier tour du monde",
+     "niveau": 2,
+     "reference": "Antonio Pigafetta, Relation du premier voyage",
+     "fiche": "Le navire de Magellan revient en Espagne avec 18 survivants."
+    },
+    {
+     "annee": 1525,
+     "titre": "Premiers anabaptistes",
+     "niveau": 3,
+     "reference": "Zurich, 21 janvier 1525"
+    },
+    {
+     "annee": 1526,
+     "titre": "Nouveau Testament de Tyndale",
+     "niveau": 3,
+     "reference": "Première édition imprimée en anglais"
+    },
+    {
+     "annee": 1526,
+     "titre": "Début de la traite atlantique",
+     "niveau": 2,
+     "reference": "Base Slave Voyages",
+     "fiche": "Premier voyage direct d'esclaves de l'Afrique vers les Amériques. Pendant plus de 300 ans, environ 12,5 millions d'Africains sont déportés."
+    },
+    {
+     "annee": 1535,
+     "titre": "Bible d'Olivétan",
+     "niveau": 3,
+     "reference": "Première Bible protestante en français",
+     "fiche": "Préface de Calvin."
+    },
+    {
+     "annee": 1536,
+     "titre": "Calvin à Genève",
+     "niveau": 3,
+     "reference": "Institution de la religion chrétienne"
+    },
+    {
+     "annee": 1539,
+     "titre": "Soliman bâtit les murailles de Jérusalem",
+     "niveau": 3,
+     "reference": "Inscriptions des portes de Jérusalem",
+     "fiche": "Les murailles qu'on voit encore aujourd'hui."
+    },
+    {
+     "annee": 1563,
+     "titre": "Le Livre des martyrs de John Foxe",
+     "niveau": 2,
+     "reference": "Foxe, Actes et monuments",
+     "fiche": "Il raconte les martyrs depuis les premiers chrétiens jusqu'aux protestants brûlés en Angleterre."
+    },
+    {
+     "annee": 1572,
+     "titre": "Massacre de la Saint-Barthélemy",
+     "niveau": 3,
+     "reference": "Les huguenots de France",
+     "fiche": "Des milliers de protestants tués en France."
+    },
+    {
+     "annee": 1607.37,
+     "titre": "Jamestown, 1re colonie anglaise",
+     "niveau": 3,
+     "reference": "Récits de John Smith",
+     "fiche": "En Virginie, mai 1607."
+    },
+    {
+     "annee": 1611,
+     "titre": "Bible King James",
+     "niveau": 2,
+     "reference": "Authorized Version",
+     "fiche": "La Bible anglaise du roi Jacques Ier."
+    },
+    {
+     "annee": 1620.87,
+     "titre": "Le Mayflower",
+     "niveau": 2,
+     "reference": "William Bradford, De la colonie de Plymouth",
+     "fiche": "Les Pères pèlerins, des protestants anglais, arrivent en Amérique en novembre 1620 pour vivre librement leur foi."
+    },
+    {
+     "annee": 1660,
+     "titre": "Le Miroir des martyrs",
+     "niveau": 3,
+     "reference": "Thieleman van Braght",
+     "fiche": "Martyrologe des anabaptistes, de Jésus jusqu'au XVIIe siècle."
+    },
+    {
+     "annee": 1665.7,
+     "titre": "Sabbataï Tsevi, faux messie",
+     "niveau": 3,
+     "reference": "Gershom Scholem, Sabbataï Tsevi",
+     "fiche": "À Smyrne, il se déclare messie ; une grande partie du monde juif le suit. En 1666, il se convertit à l'islam sous la menace du sultan."
+    },
+    {
+     "annee": 1687.5,
+     "titre": "Newton : la gravitation",
+     "niveau": 2,
+     "reference": "Newton, Principia Mathematica, 1687",
+     "fiche": "Il explique par une même loi la chute d'une pomme et le mouvement de la Lune."
+    },
+    {
+     "annee": 1727,
+     "titre": "Réveil morave",
+     "niveau": 3,
+     "reference": "Herrnhut, 13 août 1727"
+    },
+    {
+     "annee": 1738,
+     "titre": "Wesley : la sanctification",
+     "niveau": 2,
+     "reference": "Hébreux 12:14 ; Journal de Wesley"
+    },
+    {
+     "annee": 1740,
+     "titre": "Grand Réveil",
+     "niveau": 3,
+     "reference": "Whitefield, Jonathan Edwards"
+    },
+    {
+     "annee": 1752.45,
+     "titre": "Franklin et la foudre",
+     "niveau": 2,
+     "reference": "Lettre de Benjamin Franklin, octobre 1752",
+     "fiche": "Avec un cerf-volant dans l'orage, il prouve que la foudre est de l'électricité ; il invente le paratonnerre."
+    },
+    {
+     "annee": 1769.5,
+     "titre": "Révolution industrielle",
+     "niveau": 2,
+     "reference": "Brevet de James Watt, 1769",
+     "fiche": "Les machines remplacent la force des hommes et des animaux."
+    },
+    {
+     "annee": 1776.5,
+     "titre": "Indépendance des États-Unis",
+     "niveau": 2,
+     "reference": "Déclaration d'indépendance, 4 juillet 1776"
+    },
+    {
+     "annee": 1787.7,
+     "titre": "Constitution des États-Unis",
+     "niveau": 3,
+     "reference": "Constitution du 17 septembre 1787"
+    },
+    {
+     "annee": 1789.33,
+     "titre": "George Washington, 1er président",
+     "niveau": 3,
+     "reference": "30 avril 1789"
+    },
+    {
+     "annee": 1789.54,
+     "titre": "Révolution française",
+     "niveau": 2,
+     "reference": "Prise de la Bastille, 14 juillet 1789"
+    },
+    {
+     "annee": 1793,
+     "titre": "William Carey part en Inde",
+     "niveau": 2,
+     "reference": "Début des missions modernes",
+     "fiche": "Le « père des missions »."
+    },
+    {
+     "annee": 1807.2,
+     "titre": "Abolition de la traite britannique",
+     "niveau": 3,
+     "reference": "Loi du 25 mars 1807",
+     "fiche": "Grâce au combat du chrétien William Wilberforce."
+    },
+    {
+     "annee": 1830,
+     "titre": "Réveils de Finney",
+     "niveau": 3,
+     "reference": "Rochester, 1830"
+    },
+    {
+     "annee": 1841,
+     "titre": "Livingstone en Afrique",
+     "niveau": 3,
+     "reference": "Livingstone, Voyages missionnaires (1857)",
+     "fiche": "Médecin et missionnaire, explorateur de l'Afrique centrale."
+    },
+    {
+     "annee": 1869.2,
+     "titre": "Mendeleïev : le tableau des éléments",
+     "niveau": 3,
+     "reference": "Mendeleïev, 1869"
+    },
+    {
+     "annee": 1870.33,
+     "titre": "Naissance de William Seymour",
+     "niveau": 2,
+     "reference": "2 mai 1870, Louisiane",
+     "fiche": "Fils d'anciens esclaves, à Centerville. Il meurt le 28 septembre 1922 à Los Angeles."
+    },
+    {
+     "annee": 1877.05,
+     "titre": "Naissance de F. F. Bosworth",
+     "niveau": 2,
+     "reference": "17 janvier 1877, Nebraska",
+     "fiche": "Né à Utica. Il meurt le 23 janvier 1958."
+    },
+    {
+     "annee": 1877.6,
+     "titre": "Stanley atteint l'océan par le Congo",
+     "niveau": 3,
+     "reference": "Stanley, À travers le continent mystérieux"
+    },
+    {
+     "annee": 1878,
+     "titre": "Missions protestantes au Congo",
+     "niveau": 2,
+     "reference": "Livingstone Inland Mission ; Baptist Missionary Society",
+     "fiche": "Arrivée des premiers missionnaires protestants au Congo."
+    },
+    {
+     "annee": 1879.8,
+     "titre": "La lumière électrique",
+     "niveau": 2,
+     "reference": "Brevet d'Edison, 1879",
+     "fiche": "« Plusieurs alors le liront, et la connaissance augmentera » (Daniel 12:4)."
+    },
+    {
+     "annee": 1880,
+     "titre": "Bible Louis Segond",
+     "niveau": 2,
+     "reference": "Ancien et Nouveau Testament",
+     "fiche": "La Bible française la plus lue en Afrique francophone."
+    },
+    {
+     "annee": 1882,
+     "titre": "Premiers retours en Palestine",
+     "niveau": 3,
+     "reference": "Ézéchiel 37:21",
+     "fiche": "Première vague d'immigration juive (aliya)."
+    },
+    {
+     "annee": 1885.1,
+     "titre": "Conférence de Berlin : partage de l'Afrique",
+     "niveau": 2,
+     "reference": "Acte général de Berlin, 26 février 1885",
+     "fiche": "Les pays d'Europe se partagent l'Afrique sans les Africains."
+    },
+    {
+     "annee": 1885.8,
+     "titre": "Mort de l'évêque Hannington en Ouganda",
+     "niveau": 3,
+     "reference": "Journal de James Hannington",
+     "fiche": "Le 29 octobre 1885, l'évêque anglican est tué sur l'ordre du roi Mwanga, avec ses porteurs."
+    },
+    {
+     "annee": 1886.1,
+     "titre": "La première voiture",
+     "niveau": 3,
+     "reference": "Brevet de Carl Benz, 29 janvier 1886"
+    },
+    {
+     "annee": 1886.42,
+     "titre": "Les martyrs de l'Ouganda",
+     "niveau": 2,
+     "reference": "Récits des missionnaires ; J. F. Faupel, African Holocaust",
+     "fiche": "Le 3 juin 1886, à Namugongo, une trentaine de jeunes chrétiens de la cour du roi Mwanga sont brûlés vifs parce qu'ils refusent de renier Christ. En tout, 45 martyrs (catholiques et anglicans) entre 1885 et 1887."
+    },
+    {
+     "annee": 1897.66,
+     "titre": "Congrès de Bâle : Theodor Herzl",
+     "niveau": 2,
+     "reference": "Premier congrès sioniste, août 1897",
+     "fiche": "Herzl appelle à un État pour le peuple juif."
+    },
+    {
+     "annee": 1901,
+     "titre": "Topeka : parler en langues",
+     "niveau": 2,
+     "reference": "Actes 2:4",
+     "fiche": "École biblique de Charles Parham."
+    },
+    {
+     "annee": 1903.96,
+     "titre": "Le premier avion",
+     "niveau": 2,
+     "reference": "Frères Wright, 17 décembre 1903"
+    },
+    {
+     "annee": 1905.5,
+     "titre": "Einstein : la relativité",
+     "niveau": 3,
+     "reference": "Annalen der Physik, 1905"
+    },
+    {
+     "annee": 1906,
+     "titre": "Pentecôte, Azusa Street",
+     "niveau": 2,
+     "reference": "Joël 2:28",
+     "fiche": "William Seymour, Los Angeles, 1906-1909.",
+     "sur_la_feuille": "Date ajoutée"
+    },
+    {
+     "annee": 1906.5,
+     "titre": "Bosworth reçoit le Saint-Esprit",
+     "niveau": 3,
+     "reference": "Zion City, 1906",
+     "fiche": "Lors du réveil venu d'Azusa Street."
+    },
+    {
+     "annee": 1909.26,
+     "titre": "Naissance de William Branham",
+     "niveau": 1,
+     "reference": "Malachie 4:5",
+     "fiche": "Né le 6 avril 1909 dans le Kentucky. Sur ta feuille : Élie de Malachie 4."
+    },
+    {
+     "annee": 1912.5,
+     "titre": "Bosworth : le réveil de Dallas",
+     "niveau": 3,
+     "reference": "Dallas, Texas, 1912",
+     "fiche": "Grandes réunions de guérison qui durent plusieurs mois."
+    },
+    {
+     "annee": 1914.57,
+     "titre": "Début de la 1re Guerre mondiale",
+     "niveau": 1,
+     "reference": "Matthieu 24:6-7",
+     "fiche": "Le 28 juillet 1914. Environ 18 à 20 millions de morts. Sur ta feuille : la 1re guerre."
+    },
+    {
+     "annee": 1917.94,
+     "titre": "Les Anglais entrent dans Jérusalem",
+     "niveau": 2,
+     "reference": "Proclamation d'Allenby ; lettre Balfour",
+     "fiche": "Fin de 400 ans de domination turque. La déclaration Balfour (2 novembre 1917) promet un foyer national juif."
+    },
+    {
+     "annee": 1918.07,
+     "titre": "Naissance d'Oral Roberts",
+     "niveau": 2,
+     "reference": "24 janvier 1918, Oklahoma",
+     "fiche": "Évangéliste de guérison pentecôtiste. Mort le 15 décembre 2009."
+    },
+    {
+     "annee": 1918.2,
+     "titre": "La grippe espagnole",
+     "niveau": 2,
+     "reference": "1918-1920 ; Luc 21:11",
+     "fiche": "Environ 50 millions de morts dans le monde, plus que la 1re Guerre mondiale. Elle touche aussi l'Afrique et le Congo."
+    },
+    {
+     "annee": 1918.85,
+     "titre": "Naissance de Billy Graham",
+     "niveau": 2,
+     "reference": "7 novembre 1918, Caroline du Nord",
+     "fiche": "Évangéliste baptiste, grandes croisades dans le monde entier. Mort le 21 février 2018."
+    },
+    {
+     "annee": 1918.86,
+     "titre": "Fin de la 1re Guerre mondiale",
+     "niveau": 2,
+     "reference": "Armistice du 11 novembre 1918",
+     "fiche": "Le traité de Versailles est signé en 1919."
+    },
+    {
+     "annee": 1924,
+     "titre": "Bosworth : « Christ le Guérisseur »",
+     "niveau": 3,
+     "reference": "Livre, 1924",
+     "fiche": "Son livre sur la guérison divine, encore lu aujourd'hui."
+    },
+    {
+     "annee": 1933.44,
+     "titre": "Branham : la lumière à la rivière Ohio",
+     "niveau": 2,
+     "reference": "11 juin 1933, Jeffersonville",
+     "fiche": "Pendant un baptême, une lumière descend au-dessus de lui."
+    },
+    {
+     "annee": 1933.45,
+     "titre": "Branham : les sept visions",
+     "niveau": 3,
+     "reference": "Juin 1933",
+     "fiche": "Sept visions sur la fin des temps."
+    },
+    {
+     "annee": 1939.67,
+     "titre": "Début de la 2e Guerre mondiale",
+     "niveau": 1,
+     "reference": "Matthieu 24:6-7",
+     "fiche": "Le 1er septembre 1939, l'Allemagne envahit la Pologne. Environ 60 à 70 millions de morts, la guerre la plus meurtrière de l'histoire. Sur ta feuille : la 2e guerre."
+    },
+    {
+     "annee": 1941,
+     "titre": "La Shoah",
+     "niveau": 2,
+     "reference": "1941-1945",
+     "fiche": "Environ six millions de Juifs tués par l'Allemagne nazie."
+    },
+    {
+     "annee": 1945.35,
+     "titre": "Fin de la guerre en Europe",
+     "niveau": 2,
+     "reference": "8 mai 1945",
+     "fiche": "L'Allemagne capitule."
+    },
+    {
+     "annee": 1945.6,
+     "titre": "Bombes atomiques sur le Japon",
+     "niveau": 2,
+     "reference": "6 et 9 août 1945",
+     "fiche": "Hiroshima et Nagasaki."
+    },
+    {
+     "annee": 1945.67,
+     "titre": "Fin de la 2e Guerre mondiale",
+     "niveau": 2,
+     "reference": "2 septembre 1945",
+     "fiche": "Le Japon capitule. L'ONU est créée en octobre 1945."
+    },
+    {
+     "annee": 1946.35,
+     "titre": "Branham : la visite de l'ange",
+     "niveau": 1,
+     "reference": "7 mai 1946",
+     "fiche": "Début de son ministère de guérison."
+    },
+    {
+     "annee": 1947.62,
+     "titre": "Indépendance de l'Inde",
+     "niveau": 3,
+     "reference": "15 août 1947"
+    },
+    {
+     "annee": 1948.3,
+     "titre": "Bosworth rejoint Branham",
+     "niveau": 3,
+     "reference": "1948",
+     "fiche": "Bosworth, alors âgé de 71 ans, accompagne ses campagnes et enseigne la foi aux malades."
+    },
+    {
+     "annee": 1948.37,
+     "titre": "Indépendance d'Israël",
+     "niveau": 1,
+     "reference": "Ésaïe 66:8 ; Ézéchiel 37 ; Matthieu 24:32",
+     "fiche": "Le 14 mai 1948, David Ben Gourion proclame l'État d'Israël à Tel-Aviv. Après près de 1 900 ans de dispersion, la nation juive est rassemblée sur sa terre. « Un pays naît-il en un jour ? » (Ésaïe 66:8)."
+    },
+    {
+     "annee": 1948.5,
+     "titre": "Gordon Lindsay : « La Voix de la guérison »",
+     "niveau": 3,
+     "reference": "Revue The Voice of Healing, 1948",
+     "fiche": "Lindsay organise les campagnes de Branham et fonde une revue qui fait connaître les évangélistes de guérison."
+    },
+    {
+     "annee": 1948.6,
+     "titre": "T. L. Osborn : début des campagnes",
+     "niveau": 3,
+     "reference": "Osborn, Healing the Sick",
+     "fiche": "Après avoir vu Branham prier pour les malades (1947), il commence ses grandes campagnes, d'abord en Jamaïque."
+    },
+    {
+     "annee": 1950.07,
+     "titre": "Branham : la photo de la lumière",
+     "niveau": 2,
+     "reference": "24 janvier 1950, Houston",
+     "fiche": "Photo prise au Sam Houston Coliseum."
+    },
+    {
+     "annee": 1951.85,
+     "titre": "Branham et Bosworth en Afrique du Sud",
+     "niveau": 2,
+     "reference": "Octobre-novembre 1951",
+     "fiche": "Grande campagne ; la réunion de Durban rassemble des foules immenses."
+    },
+    {
+     "annee": 1954.8,
+     "titre": "Branham en Inde",
+     "niveau": 3,
+     "reference": "Octobre 1954, Bombay"
+    },
+    {
+     "annee": 1957.23,
+     "titre": "Traité de Rome : naissance de l'Europe unie",
+     "niveau": 2,
+     "reference": "Traité de Rome, 25 mars 1957",
+     "fiche": "Six pays fondent la Communauté économique européenne, ancêtre de l'Union européenne. Sur ta feuille, dans les prophéties : l'union des nations."
+    },
+    {
+     "annee": 1960.49,
+     "titre": "Indépendance du Congo",
+     "niveau": 1,
+     "reference": "30 juin 1960",
+     "fiche": "Joseph Kasa-Vubu président, Patrice Lumumba Premier ministre. Beaucoup de pays d'Afrique deviennent indépendants la même année."
+    },
+    {
+     "annee": 1963.16,
+     "titre": "La nuée sur l'Arizona",
+     "niveau": 3,
+     "reference": "28 février 1963",
+     "fiche": "Une nuée en forme de cercle photographiée dans le ciel, avant les sceaux."
+    },
+    {
+     "annee": 1963.21,
+     "titre": "Ouverture des sept sceaux",
+     "niveau": 1,
+     "reference": "Apocalypse 5-8",
+     "fiche": "Jeffersonville, du 17 au 24 mars 1963."
+    },
+    {
+     "annee": 1965.98,
+     "titre": "Mort de William Branham",
+     "niveau": 1,
+     "reference": "24 décembre 1965",
+     "fiche": "Après un accident de voiture."
+    },
+    {
+     "annee": 1967.43,
+     "titre": "Jérusalem réunifiée",
+     "niveau": 2,
+     "reference": "Luc 21:24",
+     "fiche": "Guerre des Six Jours, juin 1967."
+    },
+    {
+     "annee": 1969.55,
+     "titre": "L'homme marche sur la Lune",
+     "niveau": 2,
+     "reference": "Mission Apollo 11, 20 juillet 1969",
+     "fiche": "Neil Armstrong."
+    },
+    {
+     "annee": 1991.6,
+     "titre": "Le Web ouvert à tous",
+     "niveau": 3,
+     "reference": "Tim Berners-Lee, 1991"
+    },
+    {
+     "annee": 1991.98,
+     "titre": "Fin de l'Union soviétique",
+     "niveau": 3,
+     "reference": "26 décembre 1991"
+    },
+    {
+     "annee": 1993.83,
+     "titre": "Naissance de l'Union européenne",
+     "niveau": 2,
+     "reference": "Traité de Maastricht, en vigueur le 1er novembre 1993",
+     "fiche": "L'euro arrive en 2002."
+    },
+    {
+     "annee": 2020.19,
+     "titre": "Pandémie de Covid-19",
+     "niveau": 1,
+     "reference": "OMS, 11 mars 2020 ; Luc 21:11",
+     "fiche": "Apparue à Wuhan, en Chine, fin 2019. L'OMS la déclare pandémie le 11 mars 2020 ; le monde entier se confine. Environ 7 millions de morts déclarés ; l'OMS estime le vrai nombre bien plus haut. Fin de l'urgence mondiale le 5 mai 2023."
+    },
+    {
+     "annee": 2040,
+     "titre": "Antéchrist au monde",
+     "niveau": 1,
+     "reference": "2 Thessaloniciens 2:3",
+     "fiche": "Prophétie, sans date. Ordre de ta feuille."
+    },
+    {
+     "annee": 2052,
+     "titre": "Les 144 000 d'Israël",
+     "niveau": 1,
+     "reference": "Apocalypse 7:4",
+     "fiche": "Prophétie, sans date."
+    },
+    {
+     "annee": 2064,
+     "titre": "Élie et Moïse, deux témoins",
+     "niveau": 1,
+     "reference": "Apocalypse 11:3",
+     "fiche": "Prophétie, sans date."
+    },
+    {
+     "annee": 2076,
+     "titre": "La marque de la bête",
+     "niveau": 1,
+     "reference": "Apocalypse 13:16",
+     "fiche": "Prophétie, sans date."
+    },
+    {
+     "annee": 2088,
+     "titre": "Union des nations",
+     "niveau": 2,
+     "reference": "Daniel 2:43 ; Apocalypse 17:12",
+     "fiche": "Les pieds de fer et d'argile. Sur ta feuille aussi : une union autour de la papauté (à confirmer)."
+    },
+    {
+     "annee": 2100,
+     "titre": "L'enlèvement",
+     "niveau": 1,
+     "reference": "1 Thessaloniciens 4:16-17",
+     "fiche": "Prophétie, sans date."
+    }
+   ]
+  }
+ ],
+ "bandes": [
+  {
+   "nom": "Statue de Daniel",
+   "elements": [
+    {
+     "debut": -605,
+     "fin": -539,
+     "titre": "Tête d'or : Babylone"
+    },
+    {
+     "debut": -539,
+     "fin": -331,
+     "titre": "Argent : Mèdes et Perses"
+    },
+    {
+     "debut": -331,
+     "fin": -63,
+     "titre": "Airain : les Grecs"
+    },
+    {
+     "debut": -63,
+     "fin": 395,
+     "titre": "Fer : Rome"
+    },
+    {
+     "debut": 395,
+     "fin": 1453,
+     "titre": "Deux jambes : Occident et Orient",
+     "fiche": "En 395, l'Empire est divisé. L'Occident tombe en 476, l'Orient en 1453."
+    },
+    {
+     "debut": 1453,
+     "fin": 2110,
+     "titre": "Pieds et orteils (prophétie)",
+     "fiche": "Fer mêlé d'argile : interprétation prophétique."
+    }
+   ]
+  },
+  {
+   "nom": "Le temple",
+   "elements": [
+    {
+     "debut": -1445,
+     "fin": -966,
+     "titre": "Le tabernacle",
+     "fiche": "Exode 25-40. La tente de la rencontre, du Sinaï jusqu'au temple."
+    },
+    {
+     "debut": -966,
+     "fin": -586,
+     "titre": "Premier temple (Salomon)",
+     "fiche": "1 Rois 6-8. Bâti de 966 à 959 av. J.-C., brûlé par Nabuchodonosor en 586."
+    },
+    {
+     "debut": -586,
+     "fin": -536,
+     "titre": "Temple en ruines",
+     "fiche": "La captivité à Babylone (Lamentations)."
+    },
+    {
+     "debut": -536,
+     "fin": -516,
+     "titre": "Reconstruction (Zorobabel)",
+     "fiche": "Esdras 3-6. Interrompue, puis reprise avec Aggée et Zacharie."
+    },
+    {
+     "debut": -516,
+     "fin": -20,
+     "titre": "Second temple",
+     "fiche": "Esdras 6:15. Profané par Antiochus (167), purifié en 164."
+    },
+    {
+     "debut": -20,
+     "fin": 70,
+     "titre": "Temple agrandi par Hérode",
+     "fiche": "Jean 2:20. Travaux jusqu'en 63-64 ; brûlé par Titus en 70."
+    },
+    {
+     "debut": 70,
+     "fin": 2030,
+     "titre": "Pas de temple",
+     "fiche": "Depuis 70, il n'y a plus de temple à Jérusalem. Le Dôme du Rocher est bâti sur l'esplanade en 691."
+    }
+   ]
+  },
+  {
+   "nom": "Guerres et pandémies",
+   "elements": [
+    {
+     "debut": 1914.57,
+     "fin": 1918.86,
+     "titre": "1re Guerre mondiale",
+     "fiche": "Du 28 juillet 1914 au 11 novembre 1918 (Matthieu 24:6-7)."
+    },
+    {
+     "debut": 1939.67,
+     "fin": 1945.67,
+     "titre": "2e Guerre mondiale",
+     "fiche": "Du 1er septembre 1939 au 2 septembre 1945 (Matthieu 24:6-7)."
+    },
+    {
+     "debut": 1918.2,
+     "fin": 1920,
+     "titre": "Grippe espagnole",
+     "fiche": "1918-1920 : environ 50 millions de morts."
+    },
+    {
+     "debut": 2020.19,
+     "fin": 2023.34,
+     "titre": "Covid-19",
+     "fiche": "Du 11 mars 2020 au 5 mai 2023, selon l'OMS."
+    }
+   ]
+  },
+  {
+   "nom": "Les maîtres de Jérusalem",
+   "elements": [
+    {
+     "debut": -2100,
+     "fin": -1003,
+     "titre": "Salem, puis Jébus (Jébusiens)",
+     "fiche": "Melchisédek, roi de Salem (Genèse 14:18). Puis les Jébusiens, un peuple de Canaan, fils de Cham (Genèse 10:15-16), tiennent la ville jusqu'à David (Josué 15:63 ; Juges 1:21). Vers 1350 av. J.-C., la ville est sous l'autorité de l'Égypte."
+    },
+    {
+     "debut": -1003,
+     "fin": -586,
+     "titre": "Rois de la lignée de David",
+     "fiche": "2 Samuel 5:6-9. Pillages par Schischak d'Égypte (925) et par Joas d'Israël (2 Rois 14:13) ; Sennachérib l'assiège sans la prendre (701)."
+    },
+    {
+     "debut": -586,
+     "fin": -539,
+     "titre": "Babylone",
+     "fiche": "2 Rois 25. La ville et le temple sont détruits."
+    },
+    {
+     "debut": -539,
+     "fin": -332,
+     "titre": "Perses",
+     "fiche": "Esdras ; Néhémie."
+    },
+    {
+     "debut": -332,
+     "fin": -301,
+     "titre": "Alexandre et ses généraux",
+     "fiche": "Josèphe, Antiquités 11-12."
+    },
+    {
+     "debut": -301,
+     "fin": -198,
+     "titre": "Ptolémées d'Égypte",
+     "fiche": "Polybe ; Daniel 11."
+    },
+    {
+     "debut": -198,
+     "fin": -164,
+     "titre": "Séleucides",
+     "fiche": "Daniel 11:16, 31."
+    },
+    {
+     "debut": -164,
+     "fin": -63,
+     "titre": "Rois juifs indépendants",
+     "fiche": "Le temple est repris et purifié en 164 ; une dynastie juive règne jusqu'à l'arrivée de Rome."
+    },
+    {
+     "debut": -63,
+     "fin": -40,
+     "titre": "Rome (Pompée)",
+     "fiche": "Josèphe, Antiquités 14."
+    },
+    {
+     "debut": -40,
+     "fin": -37,
+     "titre": "Parthes",
+     "fiche": "Les Parthes prennent la ville et y placent un roi (Josèphe, Antiquités 14:330-369)."
+    },
+    {
+     "debut": -37,
+     "fin": -4,
+     "titre": "Hérode, roi sous Rome",
+     "fiche": "Josèphe, Antiquités 14:465-491."
+    },
+    {
+     "debut": -4,
+     "fin": 70,
+     "titre": "Rome : préfets et procurateurs",
+     "fiche": "Ponce Pilate de 26 à 36."
+    },
+    {
+     "debut": 70,
+     "fin": 135,
+     "titre": "Rome : la ville en ruines",
+     "fiche": "Après Titus."
+    },
+    {
+     "debut": 135,
+     "fin": 324,
+     "titre": "Rome païenne : Aelia Capitolina",
+     "fiche": "Hadrien rebâtit une ville romaine ; les Juifs y sont interdits (Dion Cassius 69)."
+    },
+    {
+     "debut": 324,
+     "fin": 614,
+     "titre": "Empire byzantin chrétien",
+     "fiche": "Constantin ; église du Saint-Sépulcre (335)."
+    },
+    {
+     "debut": 614,
+     "fin": 629,
+     "titre": "Perses sassanides",
+     "fiche": "Prise de 614 ; massacre et pillage (Antiochus Stratégos)."
+    },
+    {
+     "debut": 629,
+     "fin": 638,
+     "titre": "Byzance (Héraclius)",
+     "fiche": "Héraclius rapporte la croix à Jérusalem (630)."
+    },
+    {
+     "debut": 638,
+     "fin": 969,
+     "titre": "Califes arabes",
+     "fiche": "Omar, puis les Omeyyades et les Abbassides."
+    },
+    {
+     "debut": 969,
+     "fin": 1073,
+     "titre": "Fatimides d'Égypte",
+     "fiche": "Le calife al-Hakim détruit le Saint-Sépulcre (1009)."
+    },
+    {
+     "debut": 1073,
+     "fin": 1098,
+     "titre": "Turcs seldjoukides"
+    },
+    {
+     "debut": 1098,
+     "fin": 1099,
+     "titre": "Fatimides"
+    },
+    {
+     "debut": 1099,
+     "fin": 1187,
+     "titre": "Royaume des croisés",
+     "fiche": "Gesta Francorum."
+    },
+    {
+     "debut": 1187,
+     "fin": 1229,
+     "titre": "Saladin (Ayyoubides)",
+     "fiche": "Baha ad-Din, Vie de Saladin."
+    },
+    {
+     "debut": 1229,
+     "fin": 1244,
+     "titre": "Croisés par traité",
+     "fiche": "L'empereur Frédéric II obtient la ville par un accord (1229)."
+    },
+    {
+     "debut": 1244,
+     "fin": 1260,
+     "titre": "Khwarezmiens, puis Ayyoubides",
+     "fiche": "Sac de 1244."
+    },
+    {
+     "debut": 1260,
+     "fin": 1517,
+     "titre": "Mamelouks d'Égypte"
+    },
+    {
+     "debut": 1517,
+     "fin": 1917,
+     "titre": "Turcs ottomans",
+     "fiche": "Soliman bâtit les murailles (1537-1541)."
+    },
+    {
+     "debut": 1917,
+     "fin": 1948,
+     "titre": "Britanniques",
+     "fiche": "Proclamation d'Allenby (9 décembre 1917)."
+    },
+    {
+     "debut": 1948,
+     "fin": 1967,
+     "titre": "Ville partagée",
+     "fiche": "Israël à l'ouest, la Jordanie dans la vieille ville."
+    },
+    {
+     "debut": 1967,
+     "fin": 2030,
+     "titre": "Israël",
+     "fiche": "Jérusalem réunifiée en juin 1967 (Luc 21:24)."
+    }
+   ]
+  },
+  {
+   "nom": "Le peuple juif",
+   "elements": [
+    {
+     "debut": -1876,
+     "fin": -1446,
+     "titre": "En Égypte",
+     "fiche": "Exode 12:40. 430 ans."
+    },
+    {
+     "debut": -1446,
+     "fin": -1406,
+     "titre": "Au désert"
+    },
+    {
+     "debut": -1406,
+     "fin": -722,
+     "titre": "Dans le pays"
+    },
+    {
+     "debut": -722,
+     "fin": -586,
+     "titre": "Le Nord déporté en Assyrie",
+     "fiche": "2 Rois 17."
+    },
+    {
+     "debut": -586,
+     "fin": -538,
+     "titre": "Exil à Babylone",
+     "fiche": "Jérémie 25:11 : 70 ans de servitude (605-536)."
+    },
+    {
+     "debut": -538,
+     "fin": 70,
+     "titre": "En Judée, sous les empires",
+     "fiche": "Perses, Grecs, puis Romains."
+    },
+    {
+     "debut": 70,
+     "fin": 135,
+     "titre": "Première dispersion",
+     "fiche": "Après la destruction du temple par Titus, des milliers de Juifs sont tués ou vendus comme esclaves dans tout l'Empire."
+    },
+    {
+     "debut": 135,
+     "fin": 1882,
+     "titre": "La grande dispersion",
+     "fiche": "Après la révolte de Bar Kokhba (135), les Juifs sont chassés de Jérusalem et dispersés parmi toutes les nations (Deutéronome 28:64 ; Luc 21:24). Pendant tous les âges de l'Église, ils vivent sans pays."
+    },
+    {
+     "debut": 1882,
+     "fin": 1948,
+     "titre": "Le retour",
+     "fiche": "Ézéchiel 37:21. Des Juifs reviennent peu à peu sur la terre d'Israël."
+    },
+    {
+     "debut": 1948,
+     "fin": 2030,
+     "titre": "L'État d'Israël",
+     "fiche": "Depuis le 14 mai 1948. Jérusalem réunifiée en 1967."
+    }
+   ]
+  },
+  {
+   "nom": "Patriarches",
+   "elements": [
+    {
+     "debut": -4174,
+     "fin": -3244,
+     "titre": "Adam",
+     "fiche": "930 ans (Genèse 5:5)."
+    },
+    {
+     "debut": -4044,
+     "fin": -3132,
+     "titre": "Seth",
+     "fiche": "912 ans."
+    },
+    {
+     "debut": -3939,
+     "fin": -3034,
+     "titre": "Énosch",
+     "fiche": "905 ans."
+    },
+    {
+     "debut": -3849,
+     "fin": -2939,
+     "titre": "Kénan",
+     "fiche": "910 ans."
+    },
+    {
+     "debut": -3779,
+     "fin": -2884,
+     "titre": "Mahalaleel",
+     "fiche": "895 ans."
+    },
+    {
+     "debut": -3714,
+     "fin": -2752,
+     "titre": "Jéred",
+     "fiche": "962 ans."
+    },
+    {
+     "debut": -3552,
+     "fin": -3187,
+     "titre": "Hénoc",
+     "fiche": "Enlevé à 365 ans."
+    },
+    {
+     "debut": -3487,
+     "fin": -2518,
+     "titre": "Mathusalem",
+     "fiche": "969 ans, l'homme le plus âgé. Il meurt l'année du déluge."
+    },
+    {
+     "debut": -3300,
+     "fin": -2523,
+     "titre": "Lémec",
+     "fiche": "777 ans."
+    },
+    {
+     "debut": -3118,
+     "fin": -2168,
+     "titre": "Noé",
+     "fiche": "950 ans."
+    },
+    {
+     "debut": -2616,
+     "fin": -2016,
+     "titre": "Sem",
+     "fiche": "600 ans. Il vit encore quand Abraham a 150 ans."
+    },
+    {
+     "debut": -2516,
+     "fin": -2078,
+     "titre": "Arpacschad",
+     "fiche": "438 ans."
+    },
+    {
+     "debut": -2481,
+     "fin": -2048,
+     "titre": "Schélach",
+     "fiche": "433 ans."
+    },
+    {
+     "debut": -2451,
+     "fin": -1987,
+     "titre": "Héber",
+     "fiche": "464 ans. Il survit à Abraham."
+    },
+    {
+     "debut": -2417,
+     "fin": -2178,
+     "titre": "Péleg",
+     "fiche": "239 ans. De son temps, la terre fut partagée."
+    },
+    {
+     "debut": -2387,
+     "fin": -2148,
+     "titre": "Rehu",
+     "fiche": "239 ans."
+    },
+    {
+     "debut": -2355,
+     "fin": -2125,
+     "titre": "Serug",
+     "fiche": "230 ans."
+    },
+    {
+     "debut": -2325,
+     "fin": -2177,
+     "titre": "Nachor",
+     "fiche": "148 ans."
+    },
+    {
+     "debut": -2296,
+     "fin": -2091,
+     "titre": "Térach",
+     "fiche": "205 ans. Il meurt à Harân."
+    },
+    {
+     "debut": -2166,
+     "fin": -1991,
+     "titre": "Abraham",
+     "fiche": "175 ans."
+    },
+    {
+     "debut": -2080,
+     "fin": -1943,
+     "titre": "Ismaël",
+     "fiche": "137 ans."
+    },
+    {
+     "debut": -2066,
+     "fin": -1886,
+     "titre": "Isaac",
+     "fiche": "180 ans."
+    },
+    {
+     "debut": -2006,
+     "fin": -1859,
+     "titre": "Jacob (Israël)",
+     "fiche": "147 ans."
+    },
+    {
+     "debut": -1916,
+     "fin": -1806,
+     "titre": "Joseph",
+     "fiche": "110 ans."
+    },
+    {
+     "debut": -1529,
+     "fin": -1407,
+     "titre": "Aaron",
+     "fiche": "123 ans (Nombres 33:39)."
+    },
+    {
+     "debut": -1526,
+     "fin": -1406,
+     "titre": "Moïse",
+     "fiche": "120 ans (Deutéronome 34:7)."
+    }
+   ]
+  },
+  {
+   "nom": "Mésopotamie",
+   "elements": [
+    {
+     "debut": -3300,
+     "fin": -2900,
+     "titre": "Uruk (Érec) : premières villes, écriture",
+     "fiche": "Genèse 10:10 cite Érec. Dates des historiens, plus anciennes que le déluge biblique : débat."
+    },
+    {
+     "debut": -2900,
+     "fin": -2334,
+     "titre": "Cités de Sumer : Kish, Ur, Lagash",
+     "fiche": "Liste royale sumérienne. Gilgamesh et Enmerkar régnaient à Uruk dans cette période."
+    },
+    {
+     "debut": -2334,
+     "fin": -2154,
+     "titre": "Empire d'Akkad",
+     "fiche": "Sargon, puis Naram-Sin. Akkad est citée en Genèse 10:10."
+    },
+    {
+     "debut": -2112,
+     "fin": -2004,
+     "titre": "3e dynastie d'Ur",
+     "fiche": "Ur-Nammu bâtit la ziggourat d'Ur. Abraham est né à Ur."
+    },
+    {
+     "debut": -1894,
+     "fin": -1595,
+     "titre": "1re dynastie de Babylone",
+     "fiche": "Hammourabi (1792-1750)."
+    }
+   ]
+  },
+  {
+   "nom": "Égypte",
+   "elements": [
+    {
+     "debut": -3100,
+     "fin": -2686,
+     "titre": "Premiers rois : Narmer (Ménès)",
+     "fiche": "Unification de la Haute et de la Basse-Égypte. Mitsraïm, fils de Cham (Genèse 10:6). Dates des historiens, avant le déluge biblique : débat."
+    },
+    {
+     "debut": -2686,
+     "fin": -2181,
+     "titre": "Ancien Empire : les pyramides",
+     "fiche": "Khéops bâtit la grande pyramide de Gizeh vers 2560."
+    },
+    {
+     "debut": -2181,
+     "fin": -2055,
+     "titre": "Temps de troubles"
+    },
+    {
+     "debut": -2055,
+     "fin": -1650,
+     "titre": "Moyen Empire",
+     "fiche": "Dans notre calcul, Abraham descend en Égypte (Genèse 12:10) et Joseph gouverne sous ces rois."
+    },
+    {
+     "debut": -1650,
+     "fin": -1550,
+     "titre": "Les Hyksos",
+     "fiche": "Des rois venus de Canaan gouvernent le nord de l'Égypte."
+    },
+    {
+     "debut": -1550,
+     "fin": -1069,
+     "titre": "Nouvel Empire",
+     "fiche": "Thoutmôsis III, Amenhotep II (pharaon de l'Exode si l'on garde 1446 ?), Akhenaton, Toutânkhamon, Ramsès II (1279-1213, pharaon de l'Exode selon l'autre date)."
+    },
+    {
+     "debut": -945,
+     "fin": -924,
+     "titre": "Schischak",
+     "fiche": "Sheshonq Ier pille Jérusalem sous Roboam (1 Rois 14:25). Sa liste de victoires est gravée à Karnak."
+    },
+    {
+     "debut": -690,
+     "fin": -664,
+     "titre": "Tirhaka",
+     "fiche": "Pharaon venu de Koush (Éthiopie), il marche contre Sennachérib (2 Rois 19:9)."
+    },
+    {
+     "debut": -610,
+     "fin": -595,
+     "titre": "Néco II",
+     "fiche": "Il tue Josias à Meguiddo (2 Rois 23:29) ; battu par Nabuchodonosor à Karkemisch en 605 (Jérémie 46:2)."
+    },
+    {
+     "debut": -589,
+     "fin": -570,
+     "titre": "Hophra",
+     "fiche": "Jérémie 44:30."
+    },
+    {
+     "debut": -525,
+     "fin": -332,
+     "titre": "Sous les Perses",
+     "fiche": "Cambyse conquiert l'Égypte en 525."
+    }
+   ]
+  },
+  {
+   "nom": "Chine",
+   "elements": [
+    {
+     "debut": -2070,
+     "fin": -1600,
+     "titre": "Xia (légendaire)",
+     "fiche": "Sima Qian, Mémoires historiques. Aucune écriture de cette époque n'a été retrouvée."
+    },
+    {
+     "debut": -1600,
+     "fin": -1046,
+     "titre": "Dynastie Shang",
+     "fiche": "Premières écritures chinoises, gravées sur des os et des carapaces."
+    },
+    {
+     "debut": -1046,
+     "fin": -256,
+     "titre": "Dynastie Zhou",
+     "fiche": "Confucius vit à la fin de cette période (551-479 av. J.-C.)."
+    },
+    {
+     "debut": -221,
+     "fin": -206,
+     "titre": "Qin Shi Huang, 1er empereur",
+     "fiche": "Il unifie la Chine, commence la Grande Muraille et se fait enterrer avec une armée de soldats en terre cuite."
+    },
+    {
+     "debut": -206,
+     "fin": 220,
+     "titre": "Dynastie Han",
+     "fiche": "La route de la soie relie la Chine à Rome."
+    },
+    {
+     "debut": 220,
+     "fin": 589,
+     "titre": "Chine divisée"
+    },
+    {
+     "debut": 589,
+     "fin": 618,
+     "titre": "Sui"
+    },
+    {
+     "debut": 618,
+     "fin": 907,
+     "titre": "Dynastie Tang",
+     "fiche": "Âge d'or. Des missionnaires chrétiens arrivent en 635 (stèle de Xi'an)."
+    },
+    {
+     "debut": 907,
+     "fin": 960,
+     "titre": "Cinq dynasties"
+    },
+    {
+     "debut": 960,
+     "fin": 1279,
+     "titre": "Dynastie Song",
+     "fiche": "Imprimerie, boussole, poudre."
+    },
+    {
+     "debut": 1271,
+     "fin": 1368,
+     "titre": "Yuan : Kubilaï Khan",
+     "fiche": "La Chine sous les Mongols ; Marco Polo la visite."
+    },
+    {
+     "debut": 1368,
+     "fin": 1644,
+     "titre": "Dynastie Ming",
+     "fiche": "La Cité interdite ; la Grande Muraille actuelle."
+    },
+    {
+     "debut": 1644,
+     "fin": 1912,
+     "titre": "Dynastie Qing",
+     "fiche": "La dernière dynastie."
+    },
+    {
+     "debut": 1912,
+     "fin": 1949,
+     "titre": "République de Chine"
+    },
+    {
+     "debut": 1949,
+     "fin": 2030,
+     "titre": "République populaire",
+     "fiche": "Mao Zedong proclame la République populaire le 1er octobre 1949."
+    }
+   ]
+  },
+  {
+   "nom": "Inde",
+   "elements": [
+    {
+     "debut": -2600,
+     "fin": -1900,
+     "titre": "Civilisation de l'Indus",
+     "fiche": "Harappa et Mohenjo-daro. Dates des historiens."
+    },
+    {
+     "debut": -1500,
+     "fin": -500,
+     "titre": "Période védique",
+     "fiche": "Les Védas, textes sacrés de l'hindouisme."
+    },
+    {
+     "debut": -563,
+     "fin": -483,
+     "titre": "Bouddha",
+     "fiche": "Siddhartha Gautama. Dates discutées."
+    },
+    {
+     "debut": -322,
+     "fin": -185,
+     "titre": "Empire Maurya",
+     "fiche": "Chandragupta, puis Ashoka (268-232 av. J.-C.)."
+    },
+    {
+     "debut": 320,
+     "fin": 550,
+     "titre": "Empire Gupta",
+     "fiche": "Âge d'or : naissance des chiffres et du zéro qu'on utilise aujourd'hui."
+    },
+    {
+     "debut": 1206,
+     "fin": 1526,
+     "titre": "Sultanat de Delhi"
+    },
+    {
+     "debut": 1526,
+     "fin": 1857,
+     "titre": "Empire moghol",
+     "fiche": "Akbar (1556-1605) ; le Taj Mahal (1632-1653)."
+    },
+    {
+     "debut": 1858,
+     "fin": 1947,
+     "titre": "Inde britannique"
+    },
+    {
+     "debut": 1947,
+     "fin": 2030,
+     "titre": "Inde indépendante",
+     "fiche": "Le 15 août 1947, avec Gandhi et Nehru."
+    }
+   ]
+  },
+  {
+   "nom": "Afrique",
+   "elements": [
+    {
+     "debut": -1070,
+     "fin": 350,
+     "titre": "Koush : Napata et Méroé",
+     "fiche": "Les « pharaons noirs », comme Tirhaka (2 Rois 19:9). L'Éthiopie (Koush) de la Bible."
+    },
+    {
+     "debut": 100,
+     "fin": 940,
+     "titre": "Royaume d'Aksoum",
+     "fiche": "Éthiopie. Chrétien vers 330 avec le roi Ezana."
+    },
+    {
+     "debut": 300,
+     "fin": 1240,
+     "titre": "Empire du Ghana",
+     "fiche": "Royaume de l'or, au Sahel ouest-africain."
+    },
+    {
+     "debut": 1100,
+     "fin": 1450,
+     "titre": "Grand Zimbabwe",
+     "fiche": "Grande ville aux murailles de pierre."
+    },
+    {
+     "debut": 1235,
+     "fin": 1600,
+     "titre": "Empire du Mali",
+     "fiche": "Fondé par Soundiata Keïta. Mansa Moussa (1312-1337), sans doute l'homme le plus riche de l'histoire, fait le pèlerinage de La Mecque en 1324."
+    },
+    {
+     "debut": 1270,
+     "fin": 1974,
+     "titre": "Éthiopie : dynastie salomonienne",
+     "fiche": "Elle se dit descendante de Salomon et de la reine de Saba (1 Rois 10). Jusqu'à l'empereur Hailé Sélassié (1974)."
+    },
+    {
+     "debut": 1390,
+     "fin": 1914,
+     "titre": "Royaume du Kongo",
+     "fiche": "Le roi est baptisé en 1491."
+    },
+    {
+     "debut": 1464,
+     "fin": 1591,
+     "titre": "Empire songhaï",
+     "fiche": "Sonni Ali et Askia Mohammed ; Tombouctou."
+    },
+    {
+     "debut": 1585,
+     "fin": 1889,
+     "titre": "Empire Luba",
+     "fiche": "Au Katanga et au Kasaï, dans l'actuelle RDC."
+    },
+    {
+     "debut": 1665,
+     "fin": 1887,
+     "titre": "Empire Lunda",
+     "fiche": "Le Mwant Yav ; au Katanga et en Angola."
+    },
+    {
+     "debut": 1885,
+     "fin": 1908,
+     "titre": "État indépendant du Congo",
+     "fiche": "Propriété personnelle du roi Léopold II de Belgique."
+    },
+    {
+     "debut": 1908,
+     "fin": 1960,
+     "titre": "Congo belge"
+    },
+    {
+     "debut": 1960,
+     "fin": 2030,
+     "titre": "République démocratique du Congo",
+     "fiche": "Indépendance le 30 juin 1960."
+    }
+   ]
+  },
+  {
+   "nom": "Amériques",
+   "elements": [
+    {
+     "debut": -1200,
+     "fin": -400,
+     "titre": "Olmèques",
+     "fiche": "Mexique : les têtes géantes de pierre."
+    },
+    {
+     "debut": 250,
+     "fin": 900,
+     "titre": "Mayas, âge classique",
+     "fiche": "Pyramides, écriture et calendrier."
+    },
+    {
+     "debut": 1428,
+     "fin": 1521,
+     "titre": "Empire aztèque",
+     "fiche": "Tenochtitlan (Mexico). Conquis par Cortés (1519-1521)."
+    },
+    {
+     "debut": 1438,
+     "fin": 1533,
+     "titre": "Empire inca",
+     "fiche": "Pérou. Conquis par Pizarro (1532-1533)."
+    },
+    {
+     "debut": 1607,
+     "fin": 1776,
+     "titre": "Colonies anglaises d'Amérique",
+     "fiche": "Jamestown (1607), puis les Pères pèlerins du Mayflower (1620), des protestants venus chercher la liberté de culte."
+    },
+    {
+     "debut": 1776,
+     "fin": 2030,
+     "titre": "États-Unis",
+     "fiche": "Indépendance le 4 juillet 1776."
+    }
+   ]
+  },
+  {
+   "nom": "Europe",
+   "elements": [
+    {
+     "debut": -2000,
+     "fin": -1450,
+     "titre": "Crète minoenne",
+     "fiche": "Le palais de Cnossos."
+    },
+    {
+     "debut": -1600,
+     "fin": -1100,
+     "titre": "Mycènes",
+     "fiche": "Le monde de la guerre de Troie chantée par Homère."
+    },
+    {
+     "debut": -508,
+     "fin": -322,
+     "titre": "Athènes classique",
+     "fiche": "La démocratie ; Périclès ; Socrate, Platon, Aristote."
+    },
+    {
+     "debut": 481,
+     "fin": 843,
+     "titre": "Les Francs : de Clovis à Charlemagne"
+    },
+    {
+     "debut": 962,
+     "fin": 1806,
+     "titre": "Saint-Empire romain germanique",
+     "fiche": "Fondé par Otton Ier."
+    },
+    {
+     "debut": 1066,
+     "fin": 1087,
+     "titre": "Guillaume le Conquérant",
+     "fiche": "Conquiert l'Angleterre en 1066."
+    },
+    {
+     "debut": 1643,
+     "fin": 1715,
+     "titre": "Louis XIV",
+     "fiche": "Le Roi-Soleil."
+    },
+    {
+     "debut": 1789,
+     "fin": 1799,
+     "titre": "Révolution française"
+    },
+    {
+     "debut": 1804,
+     "fin": 1815,
+     "titre": "Napoléon Ier"
+    },
+    {
+     "debut": 1837,
+     "fin": 1901,
+     "titre": "Reine Victoria",
+     "fiche": "L'Empire britannique à son sommet."
+    },
+    {
+     "debut": 1951,
+     "fin": 1957,
+     "titre": "Communauté du charbon et de l'acier",
+     "fiche": "Traité de Paris : six pays mettent en commun le charbon et l'acier."
+    },
+    {
+     "debut": 1957,
+     "fin": 1993,
+     "titre": "Communauté économique européenne",
+     "fiche": "Traité de Rome, 25 mars 1957 : France, Allemagne de l'Ouest, Italie, Belgique, Pays-Bas, Luxembourg."
+    },
+    {
+     "debut": 1993,
+     "fin": 2030,
+     "titre": "Union européenne",
+     "fiche": "Traité de Maastricht, en vigueur le 1er novembre 1993. Monnaie commune, l'euro, en 2002. Aujourd'hui 27 pays."
+    }
+   ]
+  },
+  {
+   "nom": "Grands empires d'Asie",
+   "elements": [
+    {
+     "debut": -247,
+     "fin": 224,
+     "titre": "Parthes",
+     "fiche": "Les grands rivaux de Rome à l'Est."
+    },
+    {
+     "debut": 224,
+     "fin": 651,
+     "titre": "Perses sassanides",
+     "fiche": "Ils prennent Jérusalem en 614."
+    },
+    {
+     "debut": 632,
+     "fin": 1258,
+     "titre": "Califats arabes",
+     "fiche": "De l'Espagne à l'Inde ; Bagdad détruite par les Mongols en 1258."
+    },
+    {
+     "debut": 1206,
+     "fin": 1368,
+     "titre": "Empire mongol",
+     "fiche": "Gengis Khan (1206-1227) : le plus grand empire d'un seul tenant de l'histoire."
+    },
+    {
+     "debut": 1299,
+     "fin": 1922,
+     "titre": "Empire ottoman",
+     "fiche": "De la Turquie au Moyen-Orient et à l'Afrique du Nord."
+    },
+    {
+     "debut": 1547,
+     "fin": 1917,
+     "titre": "Tsars de Russie",
+     "fiche": "Ivan le Terrible, Pierre le Grand, Catherine II."
+    },
+    {
+     "debut": 1922,
+     "fin": 1991,
+     "titre": "Union soviétique (URSS)"
+    }
+   ]
+  },
+  {
+   "nom": "Grandes découvertes",
+   "elements": [
+    {
+     "debut": 1000,
+     "fin": 1001,
+     "titre": "Leif Erikson au Vinland",
+     "fiche": "Les Vikings atteignent l'Amérique du Nord vers l'an 1000 ; site de L'Anse aux Meadows, au Canada."
+    },
+    {
+     "debut": 1271,
+     "fin": 1295,
+     "titre": "Marco Polo",
+     "fiche": "De Venise à la Chine de Kubilaï Khan."
+    },
+    {
+     "debut": 1325,
+     "fin": 1354,
+     "titre": "Ibn Battuta",
+     "fiche": "Voyageur marocain : Afrique, Arabie, Inde, Chine, puis le Mali."
+    },
+    {
+     "debut": 1405,
+     "fin": 1433,
+     "titre": "Zheng He",
+     "fiche": "Les grandes flottes chinoises jusqu'en Arabie et en Afrique de l'Est."
+    },
+    {
+     "debut": 1434,
+     "fin": 1482,
+     "titre": "Les Portugais longent l'Afrique",
+     "fiche": "Henri le Navigateur ; passage du cap Bojador (1434)."
+    },
+    {
+     "debut": 1482,
+     "fin": 1484,
+     "titre": "Diogo Cão à l'embouchure du Congo",
+     "fiche": "Premier Européen à atteindre le fleuve Congo (1482) ; contact avec le royaume du Kongo."
+    },
+    {
+     "debut": 1487,
+     "fin": 1488,
+     "titre": "Bartolomeu Dias : cap de Bonne-Espérance",
+     "fiche": "Il contourne le sud de l'Afrique."
+    },
+    {
+     "debut": 1492,
+     "fin": 1504,
+     "titre": "Les 4 voyages de Christophe Colomb",
+     "fiche": "Arrivée aux Bahamas le 12 octobre 1492."
+    },
+    {
+     "debut": 1497,
+     "fin": 1499,
+     "titre": "Vasco de Gama en Inde",
+     "fiche": "Par la route du cap de Bonne-Espérance."
+    },
+    {
+     "debut": 1500,
+     "fin": 1501,
+     "titre": "Cabral au Brésil"
+    },
+    {
+     "debut": 1501,
+     "fin": 1502,
+     "titre": "Amerigo Vespucci",
+     "fiche": "Il comprend que c'est un nouveau continent ; il lui donne son nom : « Amérique » (1507)."
+    },
+    {
+     "debut": 1513,
+     "fin": 1514,
+     "titre": "Balboa voit le Pacifique"
+    },
+    {
+     "debut": 1519,
+     "fin": 1522,
+     "titre": "Magellan : 1er tour du monde",
+     "fiche": "Magellan meurt aux Philippines ; Elcano termine le voyage."
+    },
+    {
+     "debut": 1519,
+     "fin": 1533,
+     "titre": "Conquistadors : Cortés et Pizarro",
+     "fiche": "Chute des Aztèques (1521) et des Incas (1533)."
+    },
+    {
+     "debut": 1534,
+     "fin": 1542,
+     "titre": "Jacques Cartier au Canada"
+    },
+    {
+     "debut": 1768,
+     "fin": 1779,
+     "titre": "James Cook",
+     "fiche": "Australie, Nouvelle-Zélande, Pacifique."
+    },
+    {
+     "debut": 1795,
+     "fin": 1806,
+     "titre": "Mungo Park au Niger"
+    },
+    {
+     "debut": 1853,
+     "fin": 1873,
+     "titre": "Livingstone traverse l'Afrique",
+     "fiche": "Chutes Victoria (1855). Il meurt en Zambie en 1873."
+    },
+    {
+     "debut": 1871,
+     "fin": 1871,
+     "titre": "Stanley retrouve Livingstone",
+     "fiche": "À Ujiji, au bord du lac Tanganyika."
+    },
+    {
+     "debut": 1874,
+     "fin": 1877,
+     "titre": "Stanley descend le fleuve Congo",
+     "fiche": "De l'est jusqu'à l'océan Atlantique."
+    },
+    {
+     "debut": 1884,
+     "fin": 1885,
+     "titre": "Conférence de Berlin",
+     "fiche": "Les pays d'Europe se partagent l'Afrique ; le Congo devient la propriété de Léopold II."
+    }
+   ]
+  },
+  {
+   "nom": "Traite des esclaves",
+   "elements": [
+    {
+     "debut": 1526,
+     "fin": 1867,
+     "titre": "Traite atlantique",
+     "fiche": "Environ 12,5 millions d'Africains embarqués de force vers les Amériques, dont beaucoup depuis le Congo et l'Angola. Près de 2 millions meurent pendant la traversée."
+    },
+    {
+     "debut": 1807,
+     "fin": 1808,
+     "titre": "Abolition de la traite britannique",
+     "fiche": "William Wilberforce, chrétien évangélique, mène ce combat pendant 20 ans."
+    },
+    {
+     "debut": 1833,
+     "fin": 1834,
+     "titre": "Abolition de l'esclavage britannique"
+    },
+    {
+     "debut": 1848,
+     "fin": 1849,
+     "titre": "Abolition française"
+    },
+    {
+     "debut": 1865,
+     "fin": 1866,
+     "titre": "Abolition aux États-Unis",
+     "fiche": "13e amendement, après la guerre de Sécession."
+    }
+   ]
+  },
+  {
+   "nom": "Grandes inventions",
+   "elements": [
+    {
+     "debut": -3500,
+     "fin": -3400,
+     "titre": "La roue",
+     "fiche": "Mésopotamie, vers 3500 av. J.-C. (dates des historiens)."
+    },
+    {
+     "debut": -3200,
+     "fin": -3100,
+     "titre": "L'écriture cunéiforme",
+     "fiche": "Sumer : signes en forme de clous sur l'argile. Plus tard, les hiéroglyphes d'Égypte."
+    },
+    {
+     "debut": -1800,
+     "fin": -1050,
+     "titre": "L'alphabet",
+     "fiche": "Né chez des Sémites au Sinaï et en Canaan, puis l'alphabet phénicien (vers 1050). L'hébreu, le grec et notre alphabet en viennent : chacun peut apprendre à lire."
+    },
+    {
+     "debut": -2500,
+     "fin": -2400,
+     "titre": "Le verre",
+     "fiche": "Mésopotamie et Égypte (dates des historiens)."
+    },
+    {
+     "debut": -1200,
+     "fin": -1100,
+     "titre": "L'âge du fer",
+     "fiche": "Le fer remplace le bronze ; les Philistins le gardent pour eux (1 Samuel 13:19-22)."
+    },
+    {
+     "debut": -630,
+     "fin": -600,
+     "titre": "La monnaie",
+     "fiche": "Les premières pièces en Lydie (Turquie actuelle)."
+    },
+    {
+     "debut": -300,
+     "fin": -212,
+     "titre": "Euclide et Archimède",
+     "fiche": "La géométrie ; le levier et la poussée d'Archimède."
+    },
+    {
+     "debut": 105,
+     "fin": 106,
+     "titre": "Le papier",
+     "fiche": "Cai Lun, en Chine."
+    },
+    {
+     "debut": 820,
+     "fin": 830,
+     "titre": "L'algèbre",
+     "fiche": "Al-Khwarizmi à Bagdad ; il fait connaître les chiffres venus de l'Inde, avec le zéro."
+    },
+    {
+     "debut": 850,
+     "fin": 900,
+     "titre": "La poudre à canon",
+     "fiche": "Chine."
+    },
+    {
+     "debut": 1000,
+     "fin": 1037,
+     "titre": "Avicenne et la médecine",
+     "fiche": "Son Canon de la médecine est enseigné en Europe pendant 500 ans."
+    },
+    {
+     "debut": 1100,
+     "fin": 1120,
+     "titre": "La boussole",
+     "fiche": "Chine, puis l'Europe."
+    },
+    {
+     "debut": 1286,
+     "fin": 1287,
+     "titre": "Les lunettes",
+     "fiche": "En Italie : on peut lire plus longtemps."
+    },
+    {
+     "debut": 1300,
+     "fin": 1301,
+     "titre": "L'horloge mécanique"
+    },
+    {
+     "debut": 1450,
+     "fin": 1455,
+     "titre": "L'imprimerie de Gutenberg",
+     "fiche": "Les livres, et d'abord la Bible, se multiplient : la Réforme se répand grâce à elle."
+    },
+    {
+     "debut": 1590,
+     "fin": 1600,
+     "titre": "Le microscope",
+     "fiche": "Puis Leeuwenhoek voit les microbes (1674)."
+    },
+    {
+     "debut": 1608,
+     "fin": 1610,
+     "titre": "Le télescope",
+     "fiche": "Galilée observe le ciel (1609)."
+    },
+    {
+     "debut": 1643,
+     "fin": 1644,
+     "titre": "Le baromètre",
+     "fiche": "Torricelli."
+    },
+    {
+     "debut": 1769,
+     "fin": 1770,
+     "titre": "La machine à vapeur de Watt",
+     "fiche": "Début de la révolution industrielle."
+    },
+    {
+     "debut": 1800,
+     "fin": 1801,
+     "titre": "La pile électrique de Volta",
+     "fiche": "Le premier courant électrique continu."
+    },
+    {
+     "debut": 1825,
+     "fin": 1826,
+     "titre": "Le train à vapeur",
+     "fiche": "Première ligne de chemin de fer en Angleterre."
+    },
+    {
+     "debut": 1826,
+     "fin": 1839,
+     "titre": "La photographie",
+     "fiche": "Niépce, puis Daguerre."
+    },
+    {
+     "debut": 1837,
+     "fin": 1844,
+     "titre": "Le télégraphe de Morse",
+     "fiche": "1er message en 1844 : « Qu'est-ce que Dieu a fait ? » (Nombres 23:23)."
+    },
+    {
+     "debut": 1796,
+     "fin": 1797,
+     "titre": "Le premier vaccin",
+     "fiche": "Edward Jenner, contre la variole."
+    },
+    {
+     "debut": 1846,
+     "fin": 1847,
+     "titre": "L'anesthésie",
+     "fiche": "On peut opérer sans douleur."
+    },
+    {
+     "debut": 1867,
+     "fin": 1868,
+     "titre": "La dynamite",
+     "fiche": "Alfred Nobel."
+    },
+    {
+     "debut": 1876,
+     "fin": 1877,
+     "titre": "Le téléphone",
+     "fiche": "Graham Bell."
+    },
+    {
+     "debut": 1876.5,
+     "fin": 1877.5,
+     "titre": "Le moteur à essence",
+     "fiche": "Nikolaus Otto."
+    },
+    {
+     "debut": 1888,
+     "fin": 1889,
+     "titre": "Le pneu gonflable",
+     "fiche": "Dunlop."
+    },
+    {
+     "debut": 1895.5,
+     "fin": 1896.5,
+     "titre": "Les rayons X",
+     "fiche": "Röntgen : voir à l'intérieur du corps."
+    },
+    {
+     "debut": 1877,
+     "fin": 1878,
+     "titre": "Le phonographe et le microphone",
+     "fiche": "Edison enregistre la voix (1877) ; le microphone est mis au point en 1876-1878."
+    },
+    {
+     "debut": 1879,
+     "fin": 1880,
+     "titre": "L'ampoule électrique",
+     "fiche": "Edison ; bientôt le courant électrique dans les villes (1882)."
+    },
+    {
+     "debut": 1885,
+     "fin": 1886,
+     "titre": "La moto et la voiture",
+     "fiche": "Daimler (moto, 1885) et Benz (voiture, 1886)."
+    },
+    {
+     "debut": 1895,
+     "fin": 1896,
+     "titre": "Le cinéma et la radio",
+     "fiche": "Les frères Lumière ; Marconi."
+    },
+    {
+     "debut": 1903,
+     "fin": 1904,
+     "titre": "L'avion",
+     "fiche": "Les frères Wright, 17 décembre 1903."
+    },
+    {
+     "debut": 1926,
+     "fin": 1927,
+     "titre": "La télévision"
+    },
+    {
+     "debut": 1921,
+     "fin": 1922,
+     "titre": "L'insuline",
+     "fiche": "Elle sauve les diabétiques."
+    },
+    {
+     "debut": 1928,
+     "fin": 1929,
+     "titre": "La pénicilline",
+     "fiche": "Fleming : le premier antibiotique."
+    },
+    {
+     "debut": 1935,
+     "fin": 1936,
+     "titre": "Le radar"
+    },
+    {
+     "debut": 1942,
+     "fin": 1943,
+     "titre": "L'énergie nucléaire",
+     "fiche": "Premier réacteur ; puis la bombe atomique (1945)."
+    },
+    {
+     "debut": 1947,
+     "fin": 1948,
+     "titre": "Le transistor",
+     "fiche": "Base de toute l'électronique : radios, ordinateurs, téléphones."
+    },
+    {
+     "debut": 1953,
+     "fin": 1954,
+     "titre": "La structure de l'ADN",
+     "fiche": "Watson, Crick et Rosalind Franklin."
+    },
+    {
+     "debut": 1954,
+     "fin": 1955,
+     "titre": "Le panneau solaire"
+    },
+    {
+     "debut": 1960,
+     "fin": 1961,
+     "titre": "Le laser"
+    },
+    {
+     "debut": 1967,
+     "fin": 1968,
+     "titre": "La 1re greffe du cœur",
+     "fiche": "Christiaan Barnard, au Cap, en Afrique du Sud."
+    },
+    {
+     "debut": 1945,
+     "fin": 1946,
+     "titre": "L'ordinateur",
+     "fiche": "ENIAC."
+    },
+    {
+     "debut": 1957,
+     "fin": 1958,
+     "titre": "Le premier satellite",
+     "fiche": "Spoutnik."
+    },
+    {
+     "debut": 1969,
+     "fin": 1970,
+     "titre": "L'homme sur la Lune",
+     "fiche": "20 juillet 1969."
+    },
+    {
+     "debut": 1973,
+     "fin": 1974,
+     "titre": "Le téléphone portable"
+    },
+    {
+     "debut": 1981,
+     "fin": 1982,
+     "titre": "L'ordinateur personnel"
+    },
+    {
+     "debut": 1995,
+     "fin": 1996,
+     "titre": "Le GPS pour tous",
+     "fiche": "Se repérer partout grâce aux satellites."
+    },
+    {
+     "debut": 1989,
+     "fin": 1991,
+     "titre": "Internet pour tous : le Web",
+     "fiche": "Tim Berners-Lee."
+    },
+    {
+     "debut": 2007,
+     "fin": 2008,
+     "titre": "Le smartphone"
+    },
+    {
+     "debut": 2007.2,
+     "fin": 2008.2,
+     "titre": "L'argent par téléphone",
+     "fiche": "M-Pesa, lancé au Kenya en 2007 : l'Afrique invente le paiement par téléphone, puis le mobile money se répand partout, jusqu'au Congo."
+    },
+    {
+     "debut": 2022,
+     "fin": 2023,
+     "titre": "L'intelligence artificielle pour tous",
+     "fiche": "Des assistants qui parlent et écrivent, utilisés par des centaines de millions de personnes."
+    }
+   ]
+  },
+  {
+   "nom": "Grands savants",
+   "elements": [
+    {
+     "debut": 1473,
+     "fin": 1543,
+     "titre": "Copernic",
+     "fiche": "La Terre tourne autour du Soleil (livre publié en 1543)."
+    },
+    {
+     "debut": 1564,
+     "fin": 1642,
+     "titre": "Galilée",
+     "fiche": "Le télescope ; il défend Copernic et est condamné par l'Inquisition (1633)."
+    },
+    {
+     "debut": 1571,
+     "fin": 1630,
+     "titre": "Kepler",
+     "fiche": "Les lois du mouvement des planètes. Croyant, il disait vouloir « penser les pensées de Dieu après lui »."
+    },
+    {
+     "debut": 1643,
+     "fin": 1727,
+     "titre": "Isaac Newton",
+     "fiche": "La gravitation universelle et les lois du mouvement (Principia, 1687). Il a aussi beaucoup écrit sur Daniel et l'Apocalypse."
+    },
+    {
+     "debut": 1706,
+     "fin": 1790,
+     "titre": "Benjamin Franklin",
+     "fiche": "Prouve que la foudre est de l'électricité avec un cerf-volant (1752) et invente le paratonnerre."
+    },
+    {
+     "debut": 1743,
+     "fin": 1794,
+     "titre": "Lavoisier",
+     "fiche": "Père de la chimie moderne : « Rien ne se perd, rien ne se crée, tout se transforme »."
+    },
+    {
+     "debut": 1791,
+     "fin": 1867,
+     "titre": "Michael Faraday",
+     "fiche": "L'électricité et le magnétisme (1831) : base des moteurs et des centrales électriques. Chrétien fidèle toute sa vie."
+    },
+    {
+     "debut": 1822,
+     "fin": 1895,
+     "titre": "Louis Pasteur",
+     "fiche": "Les microbes ; le vaccin contre la rage (1885)."
+    },
+    {
+     "debut": 1834,
+     "fin": 1907,
+     "titre": "Dmitri Mendeleïev",
+     "fiche": "Le tableau périodique des éléments (1869)."
+    },
+    {
+     "debut": 1867,
+     "fin": 1934,
+     "titre": "Marie Curie",
+     "fiche": "La radioactivité ; deux prix Nobel (1903, 1911)."
+    },
+    {
+     "debut": 1879,
+     "fin": 1955,
+     "titre": "Albert Einstein",
+     "fiche": "La relativité (1905, 1915) : E = mc²."
+    }
+   ]
+  },
+  {
+   "nom": "Juges",
+   "elements": [
+    {
+     "debut": -1374,
+     "fin": -1334,
+     "titre": "Othniel",
+     "fiche": "Juges 3:7-11. Dates approximatives pour tous les juges."
+    },
+    {
+     "debut": -1316,
+     "fin": -1236,
+     "titre": "Éhud",
+     "fiche": "Juges 3:12-30. 80 ans de repos."
+    },
+    {
+     "debut": -1236,
+     "fin": -1235,
+     "titre": "Schamgar",
+     "fiche": "Juges 3:31."
+    },
+    {
+     "debut": -1216,
+     "fin": -1176,
+     "titre": "Débora et Barak",
+     "fiche": "Juges 4-5."
+    },
+    {
+     "debut": -1169,
+     "fin": -1129,
+     "titre": "Gédéon",
+     "fiche": "Juges 6-8. 300 hommes contre Madian."
+    },
+    {
+     "debut": -1129,
+     "fin": -1126,
+     "titre": "Abimélec",
+     "fiche": "Juges 9."
+    },
+    {
+     "debut": -1126,
+     "fin": -1103,
+     "titre": "Tola",
+     "fiche": "Juges 10:1-2."
+    },
+    {
+     "debut": -1103,
+     "fin": -1081,
+     "titre": "Jaïr",
+     "fiche": "Juges 10:3-5."
+    },
+    {
+     "debut": -1087,
+     "fin": -1081,
+     "titre": "Jephté",
+     "fiche": "Juges 11-12."
+    },
+    {
+     "debut": -1081,
+     "fin": -1056,
+     "titre": "Ibtsan, Élon, Abdon",
+     "fiche": "Juges 12:8-15."
+    },
+    {
+     "debut": -1100,
+     "fin": -1060,
+     "titre": "Éli, grand prêtre",
+     "fiche": "1 Samuel 1-4. Il juge Israël 40 ans."
+    },
+    {
+     "debut": -1075,
+     "fin": -1055,
+     "titre": "Samson",
+     "fiche": "Juges 13-16. 20 ans contre les Philistins."
+    }
+   ]
+  },
+  {
+   "nom": "Rois d'Israël",
+   "elements": [
+    {
+     "debut": -1050,
+     "fin": -1010,
+     "titre": "Saül",
+     "fiche": "Premier roi, oint par Samuel. Il désobéit et Dieu le rejette (1 Samuel 15)."
+    },
+    {
+     "debut": -1010,
+     "fin": -970,
+     "titre": "David",
+     "fiche": "Roi selon le cœur de Dieu. Prophètes : Samuel, Nathan, Gad. Dieu lui promet un trône éternel (2 Samuel 7)."
+    },
+    {
+     "debut": -970,
+     "fin": -931,
+     "titre": "Salomon",
+     "fiche": "Il bâtit le temple. Sa vieillesse se tourne vers les idoles ; le royaume sera divisé (1 Rois 11)."
+    },
+    {
+     "debut": -931,
+     "fin": -910,
+     "titre": "Jéroboam Ier",
+     "fiche": "Mauvais. Il fait deux veaux d'or à Béthel et Dan. Prophète : Achija (1 Rois 12-14)."
+    },
+    {
+     "debut": -910,
+     "fin": -909,
+     "titre": "Nadab",
+     "fiche": "Mauvais. Tué par Baescha."
+    },
+    {
+     "debut": -909,
+     "fin": -886,
+     "titre": "Baescha",
+     "fiche": "Mauvais. Prophète : Jéhu, fils de Hanani (1 Rois 16)."
+    },
+    {
+     "debut": -886,
+     "fin": -885,
+     "titre": "Éla",
+     "fiche": "Mauvais. Tué par Zimri."
+    },
+    {
+     "debut": -885,
+     "fin": -885,
+     "titre": "Zimri",
+     "fiche": "Règne 7 jours."
+    },
+    {
+     "debut": -885,
+     "fin": -874,
+     "titre": "Omri",
+     "fiche": "Mauvais. Il fonde Samarie."
+    },
+    {
+     "debut": -874,
+     "fin": -853,
+     "titre": "Achab",
+     "fiche": "Le pire roi, avec Jézabel et Baal. Prophète : Élie au mont Carmel (1 Rois 18)."
+    },
+    {
+     "debut": -853,
+     "fin": -852,
+     "titre": "Achazia",
+     "fiche": "Mauvais. Élie lui annonce sa mort (2 Rois 1)."
+    },
+    {
+     "debut": -852,
+     "fin": -841,
+     "titre": "Joram",
+     "fiche": "Mauvais. Prophète : Élisée (2 Rois 3-8)."
+    },
+    {
+     "debut": -841,
+     "fin": -814,
+     "titre": "Jéhu",
+     "fiche": "Il détruit la maison d'Achab et Baal, mais garde les veaux d'or. Oint sur ordre d'Élisée (2 Rois 9-10)."
+    },
+    {
+     "debut": -814,
+     "fin": -798,
+     "titre": "Joachaz",
+     "fiche": "Mauvais."
+    },
+    {
+     "debut": -798,
+     "fin": -782,
+     "titre": "Joas",
+     "fiche": "Mauvais. Élisée meurt sous son règne (2 Rois 13)."
+    },
+    {
+     "debut": -782,
+     "fin": -753,
+     "titre": "Jéroboam II",
+     "fiche": "Mauvais mais prospère. Prophètes : Jonas, Amos, Osée."
+    },
+    {
+     "debut": -753,
+     "fin": -753,
+     "titre": "Zacharie",
+     "fiche": "6 mois."
+    },
+    {
+     "debut": -752,
+     "fin": -752,
+     "titre": "Shallum",
+     "fiche": "1 mois."
+    },
+    {
+     "debut": -752,
+     "fin": -742,
+     "titre": "Menahem",
+     "fiche": "Il paie tribut à l'Assyrie."
+    },
+    {
+     "debut": -742,
+     "fin": -740,
+     "titre": "Pekachia",
+     "fiche": "Mauvais."
+    },
+    {
+     "debut": -740,
+     "fin": -732,
+     "titre": "Pékah",
+     "fiche": "Mauvais. Allié de la Syrie contre Juda (Ésaïe 7)."
+    },
+    {
+     "debut": -732,
+     "fin": -722,
+     "titre": "Osée (roi)",
+     "fiche": "Dernier roi d'Israël. Samarie tombe en 722 (2 Rois 17)."
+    }
+   ]
+  },
+  {
+   "nom": "Rois de Juda",
+   "elements": [
+    {
+     "debut": -931,
+     "fin": -913,
+     "titre": "Roboam",
+     "fiche": "Mauvais. Le royaume se divise sous lui. Prophète : Schemaeja."
+    },
+    {
+     "debut": -913,
+     "fin": -911,
+     "titre": "Abijam",
+     "fiche": "Mauvais."
+    },
+    {
+     "debut": -911,
+     "fin": -870,
+     "titre": "Asa",
+     "fiche": "Bon. Il ôte les idoles. Prophète : Azaria (2 Chroniques 15)."
+    },
+    {
+     "debut": -870,
+     "fin": -848,
+     "titre": "Josaphat",
+     "fiche": "Bon. Il enseigne la Loi au peuple. Prophète : Jahaziel."
+    },
+    {
+     "debut": -848,
+     "fin": -841,
+     "titre": "Joram",
+     "fiche": "Mauvais. Marié à une fille d'Achab."
+    },
+    {
+     "debut": -841,
+     "fin": -841,
+     "titre": "Achazia",
+     "fiche": "Mauvais. Tué par Jéhu."
+    },
+    {
+     "debut": -841,
+     "fin": -835,
+     "titre": "Athalie",
+     "fiche": "Reine mauvaise, fille d'Achab. Elle tue la famille royale ; Joas est caché."
+    },
+    {
+     "debut": -835,
+     "fin": -796,
+     "titre": "Joas",
+     "fiche": "Bon tant que vit le prêtre Jehojada. Il répare le temple."
+    },
+    {
+     "debut": -796,
+     "fin": -767,
+     "titre": "Amatsia",
+     "fiche": "Bon, mais pas de tout son cœur."
+    },
+    {
+     "debut": -767,
+     "fin": -740,
+     "titre": "Ozias",
+     "fiche": "Bon et puissant ; frappé de lèpre par orgueil. L'année de sa mort, Ésaïe voit le Seigneur (Ésaïe 6)."
+    },
+    {
+     "debut": -740,
+     "fin": -732,
+     "titre": "Jotham",
+     "fiche": "Bon. Prophètes : Ésaïe, Michée."
+    },
+    {
+     "debut": -732,
+     "fin": -716,
+     "titre": "Achaz",
+     "fiche": "Mauvais. Signe d'Emmanuel donné par Ésaïe (Ésaïe 7:14)."
+    },
+    {
+     "debut": -716,
+     "fin": -687,
+     "titre": "Ézéchias",
+     "fiche": "Très bon. Réforme, Pâque, délivrance contre Sennachérib. Prophète : Ésaïe."
+    },
+    {
+     "debut": -687,
+     "fin": -643,
+     "titre": "Manassé",
+     "fiche": "Le pire de Juda, puis repentant (2 Chroniques 33)."
+    },
+    {
+     "debut": -643,
+     "fin": -641,
+     "titre": "Amon",
+     "fiche": "Mauvais."
+    },
+    {
+     "debut": -641,
+     "fin": -609,
+     "titre": "Josias",
+     "fiche": "Très bon. Le livre de la Loi est retrouvé (622). Prophètes : Jérémie, Sophonie, la prophétesse Hulda."
+    },
+    {
+     "debut": -609,
+     "fin": -609,
+     "titre": "Joachaz",
+     "fiche": "3 mois, emmené en Égypte."
+    },
+    {
+     "debut": -609,
+     "fin": -598,
+     "titre": "Jojakim",
+     "fiche": "Mauvais. Il brûle le rouleau de Jérémie (Jérémie 36)."
+    },
+    {
+     "debut": -598,
+     "fin": -597,
+     "titre": "Jojakin",
+     "fiche": "3 mois, déporté à Babylone avec Ézéchiel."
+    },
+    {
+     "debut": -597,
+     "fin": -586,
+     "titre": "Sédécias",
+     "fiche": "Dernier roi de Juda. Il refuse d'écouter Jérémie ; Jérusalem tombe."
+    }
+   ]
+  },
+  {
+   "nom": "Prophètes",
+   "elements": [
+    {
+     "debut": -1070,
+     "fin": -1012,
+     "titre": "Samuel"
+    },
+    {
+     "debut": -870,
+     "fin": -850,
+     "titre": "Élie"
+    },
+    {
+     "debut": -850,
+     "fin": -795,
+     "titre": "Élisée"
+    },
+    {
+     "debut": -835,
+     "fin": -825,
+     "titre": "Joël",
+     "fiche": "Date discutée ; on le place souvent au temps du roi Joas."
+    },
+    {
+     "debut": -1000,
+     "fin": -970,
+     "titre": "Nathan",
+     "fiche": "Il reprend David (2 Samuel 12)."
+    },
+    {
+     "debut": -785,
+     "fin": -775,
+     "titre": "Jonas"
+    },
+    {
+     "debut": -760,
+     "fin": -750,
+     "titre": "Amos"
+    },
+    {
+     "debut": -755,
+     "fin": -725,
+     "titre": "Osée"
+    },
+    {
+     "debut": -740,
+     "fin": -690,
+     "titre": "Ésaïe"
+    },
+    {
+     "debut": -735,
+     "fin": -700,
+     "titre": "Michée",
+     "fiche": "Il annonce Bethléhem (Michée 5:1)."
+    },
+    {
+     "debut": -663,
+     "fin": -612,
+     "titre": "Nahum",
+     "fiche": "Il annonce la chute de Ninive (612)."
+    },
+    {
+     "debut": -640,
+     "fin": -621,
+     "titre": "Sophonie",
+     "fiche": "Au temps de Josias."
+    },
+    {
+     "debut": -609,
+     "fin": -598,
+     "titre": "Habacuc",
+     "fiche": "« Le juste vivra par la foi » (Habacuc 2:4)."
+    },
+    {
+     "debut": -586,
+     "fin": -583,
+     "titre": "Abdias",
+     "fiche": "Contre Édom, après la chute de Jérusalem."
+    },
+    {
+     "debut": -627,
+     "fin": -586,
+     "titre": "Jérémie"
+    },
+    {
+     "debut": -605,
+     "fin": -536,
+     "titre": "Daniel"
+    },
+    {
+     "debut": -593,
+     "fin": -571,
+     "titre": "Ézéchiel"
+    },
+    {
+     "debut": -520,
+     "fin": -518,
+     "titre": "Aggée, Zacharie"
+    },
+    {
+     "debut": -440,
+     "fin": -430,
+     "titre": "Malachie"
+    },
+    {
+     "debut": -5,
+     "fin": 30,
+     "titre": "Jean-Baptiste"
+    },
+    {
+     "debut": 30,
+     "fin": 95,
+     "titre": "Les apôtres"
+    }
+   ]
+  },
+  {
+   "nom": "Écriture de la Bible",
+   "elements": [
+    {
+     "debut": -1446,
+     "fin": -1406,
+     "titre": "Genèse à Deutéronome (Moïse)",
+     "fiche": "Les cinq livres de la Loi, écrits par Moïse au désert (Exode 24:4 ; Deutéronome 31:9). Dates approximatives, selon la tradition et les spécialistes conservateurs ; d'autres historiens proposent des dates plus tardives."
+    },
+    {
+     "debut": -1900,
+     "fin": -1850,
+     "titre": "Job (date inconnue)",
+     "fiche": "L'auteur et la date sont inconnus ; beaucoup le placent au temps des patriarches."
+    },
+    {
+     "debut": -1400,
+     "fin": -1370,
+     "titre": "Josué"
+    },
+    {
+     "debut": -1050,
+     "fin": -1000,
+     "titre": "Juges, Ruth",
+     "fiche": "Attribués à Samuel par la tradition juive."
+    },
+    {
+     "debut": -1010,
+     "fin": -450,
+     "titre": "Psaumes",
+     "fiche": "Surtout David, puis Asaph, les fils de Koré, Moïse (Psaume 90). Rassemblés jusqu'après l'exil."
+    },
+    {
+     "debut": -970,
+     "fin": -931,
+     "titre": "Proverbes, Ecclésiaste, Cantique",
+     "fiche": "Salomon. Une partie des Proverbes est recopiée sous Ézéchias (Proverbes 25:1)."
+    },
+    {
+     "debut": -930,
+     "fin": -900,
+     "titre": "1 et 2 Samuel"
+    },
+    {
+     "debut": -835,
+     "fin": -830,
+     "titre": "Joël",
+     "fiche": "Date discutée."
+    },
+    {
+     "debut": -785,
+     "fin": -760,
+     "titre": "Jonas"
+    },
+    {
+     "debut": -760,
+     "fin": -750,
+     "titre": "Amos"
+    },
+    {
+     "debut": -755,
+     "fin": -715,
+     "titre": "Osée"
+    },
+    {
+     "debut": -740,
+     "fin": -680,
+     "titre": "Ésaïe"
+    },
+    {
+     "debut": -735,
+     "fin": -700,
+     "titre": "Michée"
+    },
+    {
+     "debut": -660,
+     "fin": -630,
+     "titre": "Nahum"
+    },
+    {
+     "debut": -640,
+     "fin": -621,
+     "titre": "Sophonie"
+    },
+    {
+     "debut": -627,
+     "fin": -580,
+     "titre": "Jérémie"
+    },
+    {
+     "debut": -609,
+     "fin": -598,
+     "titre": "Habacuc"
+    },
+    {
+     "debut": -605,
+     "fin": -530,
+     "titre": "Daniel"
+    },
+    {
+     "debut": -593,
+     "fin": -570,
+     "titre": "Ézéchiel"
+    },
+    {
+     "debut": -586,
+     "fin": -585,
+     "titre": "Lamentations",
+     "fiche": "Après la chute de Jérusalem."
+    },
+    {
+     "debut": -585,
+     "fin": -584,
+     "titre": "Abdias"
+    },
+    {
+     "debut": -560,
+     "fin": -540,
+     "titre": "1 et 2 Rois",
+     "fiche": "Pendant l'exil."
+    },
+    {
+     "debut": -520,
+     "fin": -519,
+     "titre": "Aggée"
+    },
+    {
+     "debut": -520,
+     "fin": -480,
+     "titre": "Zacharie"
+    },
+    {
+     "debut": -470,
+     "fin": -430,
+     "titre": "Esther"
+    },
+    {
+     "debut": -450,
+     "fin": -430,
+     "titre": "1 et 2 Chroniques, Esdras",
+     "fiche": "Attribués à Esdras par la tradition juive."
+    },
+    {
+     "debut": -432,
+     "fin": -420,
+     "titre": "Néhémie"
+    },
+    {
+     "debut": -430,
+     "fin": -420,
+     "titre": "Malachie",
+     "fiche": "Le dernier livre de l'Ancien Testament."
+    },
+    {
+     "debut": 45,
+     "fin": 49,
+     "titre": "Jacques"
+    },
+    {
+     "debut": 49,
+     "fin": 50,
+     "titre": "Galates"
+    },
+    {
+     "debut": 50,
+     "fin": 51,
+     "titre": "1 et 2 Thessaloniciens"
+    },
+    {
+     "debut": 50,
+     "fin": 60,
+     "titre": "Matthieu"
+    },
+    {
+     "debut": 55,
+     "fin": 65,
+     "titre": "Marc"
+    },
+    {
+     "debut": 55,
+     "fin": 56,
+     "titre": "1 et 2 Corinthiens"
+    },
+    {
+     "debut": 57,
+     "fin": 58,
+     "titre": "Romains"
+    },
+    {
+     "debut": 60,
+     "fin": 62,
+     "titre": "Épîtres de prison",
+     "fiche": "Éphésiens, Philippiens, Colossiens, Philémon : Paul prisonnier à Rome."
+    },
+    {
+     "debut": 60,
+     "fin": 62,
+     "titre": "Luc, Actes",
+     "fiche": "Les Actes s'arrêtent avec Paul à Rome, vers 62."
+    },
+    {
+     "debut": 62,
+     "fin": 64,
+     "titre": "1 Timothée, Tite, 1 Pierre"
+    },
+    {
+     "debut": 64,
+     "fin": 68,
+     "titre": "2 Timothée, 2 Pierre, Hébreux",
+     "fiche": "2 Timothée est la dernière lettre de Paul, avant sa mort."
+    },
+    {
+     "debut": 65,
+     "fin": 80,
+     "titre": "Jude"
+    },
+    {
+     "debut": 85,
+     "fin": 95,
+     "titre": "Évangile de Jean, 1-3 Jean"
+    },
+    {
+     "debut": 95,
+     "fin": 96,
+     "titre": "Apocalypse",
+     "fiche": "Jean à Patmos, sous Domitien. Le dernier livre de la Bible."
+    }
+   ]
+  },
+  {
+   "nom": "Assyrie",
+   "elements": [
+    {
+     "debut": -745,
+     "fin": -727,
+     "titre": "Tiglath-Piléser III"
+    },
+    {
+     "debut": -727,
+     "fin": -722,
+     "titre": "Salmanasar V"
+    },
+    {
+     "debut": -722,
+     "fin": -705,
+     "titre": "Sargon II"
+    },
+    {
+     "debut": -705,
+     "fin": -681,
+     "titre": "Sennachérib"
+    },
+    {
+     "debut": -681,
+     "fin": -669,
+     "titre": "Assarhaddon"
+    },
+    {
+     "debut": -669,
+     "fin": -631,
+     "titre": "Assurbanipal"
+    },
+    {
+     "debut": -612,
+     "fin": -612,
+     "titre": "Chute de Ninive",
+     "fiche": "Ninive tombe en 612 (prophétie de Nahum)."
+    }
+   ]
+  },
+  {
+   "nom": "Babylone",
+   "elements": [
+    {
+     "debut": -626,
+     "fin": -605,
+     "titre": "Nabopolassar"
+    },
+    {
+     "debut": -605,
+     "fin": -562,
+     "titre": "Nabuchodonosor II",
+     "fiche": "Il prend Jérusalem, emmène Daniel et détruit le temple en 586. Le songe de la statue (Daniel 2)."
+    },
+    {
+     "debut": -562,
+     "fin": -560,
+     "titre": "Évil-Merodac",
+     "fiche": "Il libère le roi Jojakin de prison (2 Rois 25:27)."
+    },
+    {
+     "debut": -560,
+     "fin": -556,
+     "titre": "Nériglissar"
+    },
+    {
+     "debut": -556,
+     "fin": -553,
+     "titre": "Labashi-Marduk, puis Nabonide"
+    },
+    {
+     "debut": -553,
+     "fin": -539,
+     "titre": "Belschatsar (avec Nabonide)",
+     "fiche": "Nabonide est absent ; son fils Belschatsar gouverne Babylone. L'écriture sur le mur, la nuit de la chute (Daniel 5)."
+    }
+   ]
+  },
+  {
+   "nom": "Perses",
+   "elements": [
+    {
+     "debut": -559,
+     "fin": -530,
+     "titre": "Cyrus le Grand",
+     "fiche": "Roi de Perse en 559, maître de Babylone en 539. Annoncé par son nom en Ésaïe 44:28. Daniel parle aussi de « Darius le Mède » (Daniel 5:31)."
+    },
+    {
+     "debut": -530,
+     "fin": -522,
+     "titre": "Cambyse II",
+     "fiche": "Il conquiert l'Égypte."
+    },
+    {
+     "debut": -522,
+     "fin": -486,
+     "titre": "Darius Ier",
+     "fiche": "Il permet d'achever le second temple (Esdras 6). Battu par les Grecs à Marathon (490)."
+    },
+    {
+     "debut": -486,
+     "fin": -465,
+     "titre": "Xerxès Ier (Assuérus)",
+     "fiche": "Le roi du livre d'Esther. Battu par les Grecs à Salamine (480)."
+    },
+    {
+     "debut": -465,
+     "fin": -424,
+     "titre": "Artaxerxès Ier",
+     "fiche": "Il envoie Esdras (458) puis Néhémie (445)."
+    },
+    {
+     "debut": -423,
+     "fin": -404,
+     "titre": "Darius II"
+    },
+    {
+     "debut": -404,
+     "fin": -358,
+     "titre": "Artaxerxès II"
+    },
+    {
+     "debut": -358,
+     "fin": -338,
+     "titre": "Artaxerxès III"
+    },
+    {
+     "debut": -338,
+     "fin": -336,
+     "titre": "Arsès"
+    },
+    {
+     "debut": -336,
+     "fin": -330,
+     "titre": "Darius III",
+     "fiche": "Dernier roi perse, vaincu par Alexandre à Issos (333) et Gaugamèles (331)."
+    }
+   ]
+  },
+  {
+   "nom": "70 semaines de Daniel",
+   "elements": [
+    {
+     "debut": -457,
+     "fin": -408,
+     "titre": "7 semaines : Jérusalem rebâtie",
+     "fiche": "Daniel 9:25. Calcul le plus courant : on part du décret d'Artaxerxès donné à Esdras en 457 av. J.-C. 7 semaines d'années = 49 ans."
+    },
+    {
+     "debut": -408,
+     "fin": 27,
+     "titre": "62 semaines : jusqu'au Messie",
+     "fiche": "Daniel 9:25-26. 62 × 7 = 434 ans. Avec les 49 ans d'avant, 483 ans : on arrive vers 27 ap. J.-C., le baptême de Jésus. Autre calcul (Néhémie, 445/444, années de 360 jours) : on arrive en 33, à la croix."
+    },
+    {
+     "debut": 27,
+     "fin": 34,
+     "titre": "70e semaine ?",
+     "fiche": "Daniel 9:27. Les avis sont partagés : soit le ministère de Jésus et les premières années de l'Église, soit une semaine encore à venir à la fin des temps."
+    }
+   ]
+  },
+  {
+   "nom": "Macédoine et généraux",
+   "elements": [
+    {
+     "debut": -359,
+     "fin": -336,
+     "titre": "Philippe II",
+     "fiche": "Roi de Macédoine, père d'Alexandre. Il soumet la Grèce ; assassiné en 336."
+    },
+    {
+     "debut": -336,
+     "fin": -323,
+     "titre": "Alexandre le Grand",
+     "fiche": "Le bouc aux cornes (Daniel 8:5-8). Né en 356, mort à Babylone en 323, à 32 ans."
+    },
+    {
+     "debut": -323,
+     "fin": -301,
+     "titre": "Guerres des généraux",
+     "fiche": "Les généraux d'Alexandre se battent pour son empire. Après Ipsos (301), il reste quatre royaumes : Daniel 8:8."
+    },
+    {
+     "debut": -305,
+     "fin": -297,
+     "titre": "Cassandre (Macédoine)"
+    },
+    {
+     "debut": -297,
+     "fin": -168,
+     "titre": "Rois de Macédoine",
+     "fiche": "Jusqu'à la victoire de Rome à Pydna (168)."
+    }
+   ]
+  },
+  {
+   "nom": "Ptolémées (Égypte)",
+   "elements": [
+    {
+     "debut": -305,
+     "fin": -282,
+     "titre": "Ptolémée Ier",
+     "fiche": "Général d'Alexandre. Le « roi du midi » (Daniel 11:5)."
+    },
+    {
+     "debut": -282,
+     "fin": -246,
+     "titre": "Ptolémée II",
+     "fiche": "La Septante est traduite à Alexandrie sous son règne."
+    },
+    {
+     "debut": -246,
+     "fin": -222,
+     "titre": "Ptolémée III"
+    },
+    {
+     "debut": -222,
+     "fin": -204,
+     "titre": "Ptolémée IV"
+    },
+    {
+     "debut": -204,
+     "fin": -180,
+     "titre": "Ptolémée V"
+    },
+    {
+     "debut": -180,
+     "fin": -145,
+     "titre": "Ptolémée VI"
+    },
+    {
+     "debut": -145,
+     "fin": -51,
+     "titre": "Ptolémées suivants"
+    },
+    {
+     "debut": -51,
+     "fin": -30,
+     "titre": "Cléopâtre VII",
+     "fiche": "Dernière reine ; l'Égypte devient romaine en 30 av. J.-C."
+    }
+   ]
+  },
+  {
+   "nom": "Séleucides (Syrie)",
+   "elements": [
+    {
+     "debut": -305,
+     "fin": -281,
+     "titre": "Séleucos Ier",
+     "fiche": "Général d'Alexandre. Le « roi du nord » (Daniel 11)."
+    },
+    {
+     "debut": -281,
+     "fin": -261,
+     "titre": "Antiochos Ier"
+    },
+    {
+     "debut": -261,
+     "fin": -246,
+     "titre": "Antiochos II"
+    },
+    {
+     "debut": -246,
+     "fin": -225,
+     "titre": "Séleucos II"
+    },
+    {
+     "debut": -225,
+     "fin": -222,
+     "titre": "Séleucos III"
+    },
+    {
+     "debut": -222,
+     "fin": -187,
+     "titre": "Antiochos III le Grand",
+     "fiche": "Il prend la Judée aux Ptolémées (198). Battu par Rome à Magnésie (190)."
+    },
+    {
+     "debut": -187,
+     "fin": -175,
+     "titre": "Séleucos IV"
+    },
+    {
+     "debut": -175,
+     "fin": -164,
+     "titre": "Antiochos IV Épiphane",
+     "fiche": "Il profane le temple en 167 (Daniel 11:31). Rome l'a chassé d'Égypte en 168 (Daniel 11:30)."
+    },
+    {
+     "debut": -164,
+     "fin": -63,
+     "titre": "Séleucides suivants",
+     "fiche": "Pompée met fin au royaume en 63."
+    }
+   ]
+  },
+  {
+   "nom": "Rome : la République",
+   "elements": [
+    {
+     "debut": -753,
+     "fin": -509,
+     "titre": "Rome des rois",
+     "fiche": "Fondation de Rome en 753 selon la tradition."
+    },
+    {
+     "debut": -509,
+     "fin": -264,
+     "titre": "La République grandit",
+     "fiche": "Rome conquiert toute l'Italie."
+    },
+    {
+     "debut": -264,
+     "fin": -146,
+     "titre": "Guerres contre Carthage",
+     "fiche": "Trois guerres puniques. En 146, Rome détruit Carthage et Corinthe : elle domine la Méditerranée."
+    },
+    {
+     "debut": -146,
+     "fin": -63,
+     "titre": "Rome conquiert l'Orient",
+     "fiche": "Macédoine, Grèce, Asie, puis la Syrie."
+    },
+    {
+     "debut": -63,
+     "fin": -48,
+     "titre": "Pompée",
+     "fiche": "Il prend Jérusalem en 63."
+    },
+    {
+     "debut": -49,
+     "fin": -44,
+     "titre": "Jules César",
+     "fiche": "Assassiné en 44."
+    },
+    {
+     "debut": -44,
+     "fin": -27,
+     "titre": "Guerres civiles",
+     "fiche": "Octave bat Antoine et Cléopâtre à Actium (31)."
+    }
+   ]
+  },
+  {
+   "nom": "Empereurs romains",
+   "elements": [
+    {
+     "debut": -27,
+     "fin": 14,
+     "titre": "Auguste",
+     "fiche": "Naissance de Jésus sous son règne (Luc 2:1)."
+    },
+    {
+     "debut": 14,
+     "fin": 37,
+     "titre": "Tibère",
+     "fiche": "Ministère de Jésus, la croix (Luc 3:1)."
+    },
+    {
+     "debut": 37,
+     "fin": 41,
+     "titre": "Caligula"
+    },
+    {
+     "debut": 41,
+     "fin": 54,
+     "titre": "Claude",
+     "fiche": "Il chasse les Juifs de Rome (Actes 18:2)."
+    },
+    {
+     "debut": 54,
+     "fin": 68,
+     "titre": "Néron",
+     "fiche": "14 ans de règne. Persécution après l'incendie de Rome (64) ; Paul et Pierre meurent."
+    },
+    {
+     "debut": 68,
+     "fin": 69,
+     "titre": "Galba, Othon, Vitellius",
+     "fiche": "L'année des quatre empereurs."
+    },
+    {
+     "debut": 69,
+     "fin": 79,
+     "titre": "Vespasien"
+    },
+    {
+     "debut": 79,
+     "fin": 81,
+     "titre": "Titus",
+     "fiche": "Il a détruit Jérusalem en 70, avant d'être empereur."
+    },
+    {
+     "debut": 81,
+     "fin": 96,
+     "titre": "Domitien",
+     "fiche": "Jean exilé à Patmos."
+    },
+    {
+     "debut": 96,
+     "fin": 98,
+     "titre": "Nerva"
+    },
+    {
+     "debut": 98,
+     "fin": 117,
+     "titre": "Trajan"
+    },
+    {
+     "debut": 117,
+     "fin": 138,
+     "titre": "Hadrien",
+     "fiche": "Révolte de Bar Kokhba (132-135)."
+    },
+    {
+     "debut": 138,
+     "fin": 161,
+     "titre": "Antonin"
+    },
+    {
+     "debut": 161,
+     "fin": 180,
+     "titre": "Marc Aurèle"
+    },
+    {
+     "debut": 180,
+     "fin": 192,
+     "titre": "Commode"
+    },
+    {
+     "debut": 193,
+     "fin": 211,
+     "titre": "Septime Sévère"
+    },
+    {
+     "debut": 211,
+     "fin": 249,
+     "titre": "Sévères et autres"
+    },
+    {
+     "debut": 249,
+     "fin": 251,
+     "titre": "Dèce",
+     "fiche": "Persécution."
+    },
+    {
+     "debut": 251,
+     "fin": 284,
+     "titre": "Crise de l'Empire"
+    },
+    {
+     "debut": 284,
+     "fin": 305,
+     "titre": "Dioclétien",
+     "fiche": "Grande persécution (303-311)."
+    },
+    {
+     "debut": 306,
+     "fin": 337,
+     "titre": "Constantin",
+     "fiche": "Édit de Milan (313), concile de Nicée (325)."
+    },
+    {
+     "debut": 337,
+     "fin": 379,
+     "titre": "Fils de Constantin, Julien"
+    },
+    {
+     "debut": 379,
+     "fin": 395,
+     "titre": "Théodose",
+     "fiche": "Christianisme religion de l'Empire (380). À sa mort, l'Empire est divisé en deux."
+    },
+    {
+     "debut": 395,
+     "fin": 476,
+     "titre": "Occident",
+     "fiche": "Jusqu'à Romulus Augustule (476)."
+    },
+    {
+     "debut": 527,
+     "fin": 565,
+     "titre": "Justinien (Orient)"
+    }
+   ]
+  },
+  {
+   "nom": "Les croisades",
+   "elements": [
+    {
+     "debut": 1096,
+     "fin": 1099,
+     "titre": "1re croisade",
+     "fiche": "Appel d'Urbain II (1095). Prise de Jérusalem le 15 juillet 1099 (Gesta Francorum)."
+    },
+    {
+     "debut": 1147,
+     "fin": 1149,
+     "titre": "2e croisade",
+     "fiche": "Prêchée par Bernard de Clairvaux, après la chute d'Édesse. Échec devant Damas."
+    },
+    {
+     "debut": 1189,
+     "fin": 1192,
+     "titre": "3e croisade",
+     "fiche": "Richard Cœur de Lion, Philippe Auguste, Frédéric Barberousse, après la prise de Jérusalem par Saladin. Acre reprise ; Jérusalem non."
+    },
+    {
+     "debut": 1202,
+     "fin": 1204,
+     "titre": "4e croisade",
+     "fiche": "Détournée sur Constantinople : les croisés pillent la ville chrétienne d'Orient (1204)."
+    },
+    {
+     "debut": 1209,
+     "fin": 1229,
+     "titre": "Croisade contre les Albigeois",
+     "fiche": "Dans le sud de la France, contre des chrétiens déclarés hérétiques."
+    },
+    {
+     "debut": 1212,
+     "fin": 1212,
+     "titre": "Croisade des enfants",
+     "fiche": "Des milliers de jeunes partent ; beaucoup meurent ou sont vendus comme esclaves. Récit mêlé de légendes."
+    },
+    {
+     "debut": 1217,
+     "fin": 1221,
+     "titre": "5e croisade",
+     "fiche": "En Égypte, contre Damiette."
+    },
+    {
+     "debut": 1228,
+     "fin": 1229,
+     "titre": "6e croisade",
+     "fiche": "Frédéric II obtient Jérusalem par un traité, sans combat."
+    },
+    {
+     "debut": 1248,
+     "fin": 1254,
+     "titre": "7e croisade",
+     "fiche": "Louis IX (Saint Louis) en Égypte ; il est fait prisonnier."
+    },
+    {
+     "debut": 1270,
+     "fin": 1270,
+     "titre": "8e croisade",
+     "fiche": "Louis IX meurt devant Tunis."
+    },
+    {
+     "debut": 1271,
+     "fin": 1272,
+     "titre": "9e croisade",
+     "fiche": "Le prince Édouard d'Angleterre ; dernière croisade en Terre sainte."
+    },
+    {
+     "debut": 1291,
+     "fin": 1291,
+     "titre": "Chute d'Acre",
+     "fiche": "Fin des États croisés."
+    }
+   ]
+  },
+  {
+   "nom": "Papes (liste traditionnelle de Rome)",
+   "elements": [
+    {
+     "debut": 33,
+     "fin": 67,
+     "titre": "Pierre",
+     "fiche": "Premier pape selon la liste traditionnelle. Mort vers 64-67 sous Néron."
+    },
+    {
+     "debut": 67,
+     "fin": 76,
+     "titre": "Lin",
+     "fiche": "Vers 67-76."
+    },
+    {
+     "debut": 76,
+     "fin": 88,
+     "titre": "Anaclet"
+    },
+    {
+     "debut": 88,
+     "fin": 99,
+     "titre": "Clément Ier",
+     "fiche": "Auteur d'une lettre aux Corinthiens (vers 96)."
+    },
+    {
+     "debut": 99,
+     "fin": 107,
+     "titre": "Évariste"
+    },
+    {
+     "debut": 107,
+     "fin": 115,
+     "titre": "Alexandre Ier"
+    },
+    {
+     "debut": 115,
+     "fin": 125,
+     "titre": "Sixte Ier"
+    },
+    {
+     "debut": 125,
+     "fin": 136,
+     "titre": "Télesphore"
+    },
+    {
+     "debut": 136,
+     "fin": 140,
+     "titre": "Hygin"
+    },
+    {
+     "debut": 140,
+     "fin": 155,
+     "titre": "Pie Ier"
+    },
+    {
+     "debut": 155,
+     "fin": 166,
+     "titre": "Anicet",
+     "fiche": "Polycarpe vient à Rome le rencontrer, au sujet de la date de Pâques."
+    },
+    {
+     "debut": 166,
+     "fin": 175,
+     "titre": "Soter"
+    },
+    {
+     "debut": 175,
+     "fin": 189,
+     "titre": "Éleuthère"
+    },
+    {
+     "debut": 189,
+     "fin": 199,
+     "titre": "Victor Ier",
+     "fiche": "Débat sur la date de Pâques ; Irénée lui écrit."
+    },
+    {
+     "debut": 199,
+     "fin": 314,
+     "titre": "Papes du IIIe siècle",
+     "fiche": "Une vingtaine de papes."
+    },
+    {
+     "debut": 314,
+     "fin": 335,
+     "titre": "Sylvestre Ier",
+     "fiche": "Évêque de Rome sous Constantin."
+    },
+    {
+     "debut": 366,
+     "fin": 384,
+     "titre": "Damase Ier",
+     "fiche": "Il demande à Jérôme la traduction latine de la Bible."
+    },
+    {
+     "debut": 440,
+     "fin": 461,
+     "titre": "Léon Ier le Grand"
+    },
+    {
+     "debut": 590,
+     "fin": 604,
+     "titre": "Grégoire Ier le Grand",
+     "fiche": "Il envoie Augustin en Angleterre (597)."
+    },
+    {
+     "debut": 607,
+     "fin": 607,
+     "titre": "Boniface III",
+     "fiche": "Titre d'« évêque universel » reconnu par l'empereur Phocas."
+    },
+    {
+     "debut": 1073,
+     "fin": 1085,
+     "titre": "Grégoire VII"
+    },
+    {
+     "debut": 1088,
+     "fin": 1099,
+     "titre": "Urbain II",
+     "fiche": "Il lance la première croisade (1095)."
+    },
+    {
+     "debut": 1198,
+     "fin": 1216,
+     "titre": "Innocent III"
+    },
+    {
+     "debut": 1513,
+     "fin": 1521,
+     "titre": "Léon X",
+     "fiche": "Il excommunie Luther (1521)."
+    },
+    {
+     "debut": 1846,
+     "fin": 1878,
+     "titre": "Pie IX",
+     "fiche": "Le concile Vatican I proclame l'infaillibilité du pape (1870)."
+    },
+    {
+     "debut": 1958,
+     "fin": 1963,
+     "titre": "Jean XXIII",
+     "fiche": "Il ouvre le concile Vatican II (1962)."
+    },
+    {
+     "debut": 1978,
+     "fin": 2005,
+     "titre": "Jean-Paul II"
+    },
+    {
+     "debut": 2005,
+     "fin": 2013,
+     "titre": "Benoît XVI"
+    },
+    {
+     "debut": 2013,
+     "fin": 2025,
+     "titre": "François"
+    },
+    {
+     "debut": 2025,
+     "fin": 2030,
+     "titre": "Léon XIV",
+     "fiche": "Robert Francis Prevost, américain, élu le 8 mai 2025 : pape actuel."
+    }
+   ]
+  },
+  {
+   "nom": "Voyages de Paul",
+   "elements": [
+    {
+     "debut": 34,
+     "fin": 35,
+     "titre": "Conversion sur le chemin de Damas",
+     "fiche": "Actes 9:1-19 ; Galates 1:15-16."
+    },
+    {
+     "debut": 35,
+     "fin": 37,
+     "titre": "En Arabie, puis à Damas",
+     "fiche": "Galates 1:17. Il s'enfuit de Damas dans une corbeille (2 Corinthiens 11:32-33)."
+    },
+    {
+     "debut": 37,
+     "fin": 37.3,
+     "titre": "1re visite à Jérusalem",
+     "fiche": "Galates 1:18 : 15 jours avec Pierre, trois ans après sa conversion."
+    },
+    {
+     "debut": 37.3,
+     "fin": 43,
+     "titre": "À Tarse, en Cilicie",
+     "fiche": "Actes 9:30 ; Galates 1:21."
+    },
+    {
+     "debut": 43,
+     "fin": 46,
+     "titre": "À Antioche avec Barnabas",
+     "fiche": "Actes 11:25-26 : les disciples y sont appelés chrétiens pour la première fois. Collecte pour Jérusalem pendant la famine (Actes 11:28-30)."
+    },
+    {
+     "debut": 46,
+     "fin": 48,
+     "titre": "1er voyage missionnaire",
+     "fiche": "Actes 13-14, avec Barnabas : Chypre, Antioche de Pisidie, Iconium, Lystre (Paul est lapidé), Derbe, puis retour à Antioche."
+    },
+    {
+     "debut": 49,
+     "fin": 49.4,
+     "titre": "Concile de Jérusalem",
+     "fiche": "Actes 15 ; Galates 2:1-10."
+    },
+    {
+     "debut": 49.5,
+     "fin": 52,
+     "titre": "2e voyage missionnaire",
+     "fiche": "Actes 15:36 - 18:22, avec Silas : la vision du Macédonien, Philippes (prison et tremblement de terre), Thessalonique, Bérée, Athènes (l'Aréopage), Corinthe pendant 18 mois."
+    },
+    {
+     "debut": 53,
+     "fin": 57,
+     "titre": "3e voyage missionnaire",
+     "fiche": "Actes 18:23 - 21:17 : trois ans à Éphèse (53-56), la Macédoine, la Grèce, Troas (Eutychus ressuscité), adieux aux anciens à Milet."
+    },
+    {
+     "debut": 57,
+     "fin": 57.5,
+     "titre": "Arrêté au temple de Jérusalem",
+     "fiche": "Actes 21:27 - 23:30."
+    },
+    {
+     "debut": 57.5,
+     "fin": 59.5,
+     "titre": "Prisonnier à Césarée",
+     "fiche": "Actes 24-26 : devant Félix, Festus et le roi Agrippa II. Il en appelle à César."
+    },
+    {
+     "debut": 59.6,
+     "fin": 60.2,
+     "titre": "Voyage vers Rome, naufrage à Malte",
+     "fiche": "Actes 27-28."
+    },
+    {
+     "debut": 60.2,
+     "fin": 62,
+     "titre": "Prisonnier à Rome, dans sa maison",
+     "fiche": "Actes 28:30-31 : deux ans. Il écrit les épîtres de prison."
+    },
+    {
+     "debut": 62,
+     "fin": 66,
+     "titre": "Derniers voyages (selon la tradition)",
+     "fiche": "Crète (Tite 1:5), Éphèse, Macédoine, peut-être l'Espagne (Romains 15:24 ; Clément de Rome)."
+    },
+    {
+     "debut": 66,
+     "fin": 67,
+     "titre": "Second emprisonnement et mort à Rome",
+     "fiche": "2 Timothée 4:6-8. Décapité sous Néron, selon la tradition (Eusèbe 2:25)."
+    }
+   ]
+  },
+  {
+   "nom": "Hérode et ses fils",
+   "elements": [
+    {
+     "debut": -37,
+     "fin": -4,
+     "titre": "Hérode le Grand",
+     "fiche": "Il rénove le temple ; massacre des enfants de Bethléhem (Matthieu 2)."
+    },
+    {
+     "debut": -4,
+     "fin": 6,
+     "titre": "Archélaüs (Judée)",
+     "fiche": "Matthieu 2:22."
+    },
+    {
+     "debut": 6,
+     "fin": 26,
+     "titre": "Préfets romains"
+    },
+    {
+     "debut": 26,
+     "fin": 36,
+     "titre": "Ponce Pilate"
+    },
+    {
+     "debut": 41,
+     "fin": 44,
+     "titre": "Hérode Agrippa Ier",
+     "fiche": "Il fait tuer Jacques (Actes 12)."
+    },
+    {
+     "debut": 48,
+     "fin": 93,
+     "titre": "Agrippa II",
+     "fiche": "Paul parle devant lui (Actes 26)."
+    }
+   ]
+  },
+  {
+   "nom": "Persécutions romaines",
+   "elements": [
+    {
+     "debut": 64,
+     "fin": 68,
+     "titre": "Néron",
+     "fiche": "Après l'incendie de Rome, des chrétiens sont crucifiés, livrés aux bêtes ou brûlés comme des torches (Tacite, Annales 15:44). Pierre et Paul meurent."
+    },
+    {
+     "debut": 95,
+     "fin": 96,
+     "titre": "Domitien",
+     "fiche": "Jean exilé à Patmos. Des chrétiens refusent d'adorer l'empereur."
+    },
+    {
+     "debut": 112,
+     "fin": 117,
+     "titre": "Trajan",
+     "fiche": "Le gouverneur Pline exécute ceux qui refusent de sacrifier à l'empereur (Lettre de Pline, 112). Ignace d'Antioche est jeté aux lions à Rome."
+    },
+    {
+     "debut": 155,
+     "fin": 155,
+     "titre": "Polycarpe",
+     "fiche": "Brûlé à Smyrne."
+    },
+    {
+     "debut": 177,
+     "fin": 177,
+     "titre": "Marc Aurèle : Lyon",
+     "fiche": "Les martyrs de Lyon, dont Blandine, livrés aux bêtes dans l'arène."
+    },
+    {
+     "debut": 202,
+     "fin": 211,
+     "titre": "Septime Sévère",
+     "fiche": "En Afrique, à Carthage, Perpétue et Félicité sont livrées aux bêtes (203)."
+    },
+    {
+     "debut": 250,
+     "fin": 251,
+     "titre": "Dèce",
+     "fiche": "Tout le monde doit sacrifier à l'empereur et recevoir un certificat. Beaucoup de chrétiens se cachent."
+    },
+    {
+     "debut": 257,
+     "fin": 260,
+     "titre": "Valérien",
+     "fiche": "Cyprien, évêque de Carthage, est décapité (258)."
+    },
+    {
+     "debut": 303,
+     "fin": 311,
+     "titre": "Dioclétien",
+     "fiche": "La grande persécution : églises détruites, Écritures brûlées, chrétiens torturés et tués."
+    }
+   ]
+  },
+  {
+   "nom": "Sept âges de l'Église",
+   "elements": [
+    {
+     "debut": 53,
+     "fin": 170,
+     "titre": "1 · Éphèse · Paul · le matin",
+     "fiche": "Apocalypse 2:1-7. Le soleil se lève à l'Est, en Asie : la Pentecôte, la pleine lumière. Animal : le lion (Apocalypse 4:7). Joël 2:25 : la sauterelle commence à dévorer. Sur ta feuille : 55-170 ; Branham donne 53-170."
+    },
+    {
+     "debut": 170,
+     "fin": 312,
+     "titre": "2 · Smyrne · Irénée",
+     "fiche": "Apocalypse 2:8-11. L'âge des persécutions. Joël 2:25 : le jélek. Animal : le veau, la bête de sacrifice (Apocalypse 4:7)."
+    },
+    {
+     "debut": 312,
+     "fin": 606,
+     "titre": "3 · Pergame · Martin",
+     "fiche": "Apocalypse 2:12-17. L'Église s'unit à l'État. Joël 2:25 : le hasil."
+    },
+    {
+     "debut": 606,
+     "fin": 1520,
+     "titre": "4 · Thyatire · Colomba",
+     "fiche": "Apocalypse 2:18-29. L'âge des ténèbres, le fond du V. Joël 2:25 : le gazam. Ézéchiel 47:3 : l'eau jusqu'aux chevilles."
+    },
+    {
+     "debut": 1520,
+     "fin": 1750,
+     "titre": "5 · Sardes · Luther",
+     "fiche": "Apocalypse 3:1-6. La lumière revient : la justification, l'eau (1 Jean 5:8). Ézéchiel 47:4 : l'eau jusqu'aux genoux. Animal : l'homme."
+    },
+    {
+     "debut": 1750,
+     "fin": 1906,
+     "titre": "6 · Philadelphie · Wesley",
+     "fiche": "Apocalypse 3:7-13. La sanctification, le sang (1 Jean 5:8). Ézéchiel 47:4 : l'eau jusqu'aux reins. La porte ouverte des missions."
+    },
+    {
+     "debut": 1906,
+     "fin": 2100,
+     "titre": "7 · Laodicée · Branham · le soir",
+     "fiche": "Apocalypse 3:14-22. De 1906 jusqu'à l'enlèvement : le don de la Pentecôte rendu à l'Église. Le soleil se couche à l'Ouest, en Amérique : le baptême du Saint-Esprit, l'Esprit (1 Jean 5:8). Ézéchiel 47:5 : un torrent. Zacharie 14:7 : vers le soir la lumière paraîtra. Animal : l'aigle. Matthieu 24:27-28 : l'éclair va de l'Orient à l'Occident ; les aigles s'assemblent."
+    }
+   ]
+  },
+  {
+   "nom": "Témoins de l'Église",
+   "elements": [
+    {
+     "debut": 30,
+     "fin": 100,
+     "titre": "Jean l'apôtre",
+     "fiche": "Il meurt vers 100, le dernier des apôtres. Polycarpe est son disciple. Réf. : Irénée, Contre les hérésies 3."
+    },
+    {
+     "debut": 69,
+     "fin": 155,
+     "titre": "Polycarpe",
+     "fiche": "Évêque de Smyrne, disciple de Jean. Brûlé vers 155 sous l'empereur Antonin pour avoir refusé de renier Christ. Réf. : Martyre de Polycarpe."
+    },
+    {
+     "debut": 130,
+     "fin": 202,
+     "titre": "Irénée",
+     "fiche": "Disciple de Polycarpe, évêque de Lyon. Il défend la foi contre les fausses doctrines. Réf. : Contre les hérésies."
+    },
+    {
+     "debut": 347,
+     "fin": 420,
+     "titre": "Jérôme",
+     "fiche": "Traduit la Bible en latin (la Vulgate)."
+    },
+    {
+     "debut": 354,
+     "fin": 430,
+     "titre": "Augustin d'Hippone",
+     "fiche": "Évêque en Afrique du Nord ; « Les Confessions »."
+    },
+    {
+     "debut": 597,
+     "fin": 604,
+     "titre": "Augustin de Cantorbéry",
+     "fiche": "Missionnaire en Angleterre ; il baptise le roi Æthelbert."
+    },
+    {
+     "debut": 316,
+     "fin": 397,
+     "titre": "Martin de Tours",
+     "fiche": "Évangélise les campagnes de Gaule."
+    },
+    {
+     "debut": 385,
+     "fin": 461,
+     "titre": "Patrick d'Irlande",
+     "fiche": "Né en Bretagne romaine (Grande-Bretagne), ni en Suisse ni en Suède. Esclave en Irlande dans sa jeunesse, il y revient comme missionnaire en 432. Il n'est pas mort martyr. Réf. : Confession de Patrick."
+    },
+    {
+     "debut": 521,
+     "fin": 597,
+     "titre": "Colomba",
+     "fiche": "Évangélise l'Écosse depuis l'île d'Iona."
+    },
+    {
+     "debut": 660,
+     "fin": 872,
+     "titre": "Les Pauliciens",
+     "fiche": "Arménie et Asie Mineure. Fondés vers 660 par Constantin de Mananali, qui prêchait à partir des Évangiles et des lettres de Paul. Persécutés par Byzance ; leurs propres écrits sont presque tous perdus : on les connaît surtout par leurs adversaires (Pierre de Sicile, vers 870)."
+    },
+    {
+     "debut": 1140,
+     "fin": 1218,
+     "titre": "Pierre Valdo",
+     "fiche": "Les Vaudois : la Bible lue dans la langue du peuple. Persécutés."
+    },
+    {
+     "debut": 1328,
+     "fin": 1384,
+     "titre": "John Wycliffe",
+     "fiche": "Angleterre : première Bible complète en anglais."
+    },
+    {
+     "debut": 1369,
+     "fin": 1415,
+     "titre": "Jan Hus",
+     "fiche": "Bohême. Brûlé à Constance en 1415. Luther se reconnaîtra en lui."
+    },
+    {
+     "debut": 1483,
+     "fin": 1546,
+     "titre": "Martin Luther",
+     "fiche": "Allemagne, Wittenberg, 1517 : la justification par la foi (Romains 1:17)."
+    },
+    {
+     "debut": 1484,
+     "fin": 1531,
+     "titre": "Ulrich Zwingli",
+     "fiche": "Suisse : Réforme à Zurich dès 1519."
+    },
+    {
+     "debut": 1496,
+     "fin": 1561,
+     "titre": "Anabaptistes, Menno Simons",
+     "fiche": "Baptême des croyants, dès 1525 à Zurich."
+    },
+    {
+     "debut": 1494,
+     "fin": 1536,
+     "titre": "William Tyndale",
+     "fiche": "Traduit le Nouveau Testament en anglais ; étranglé et brûlé en 1536."
+    },
+    {
+     "debut": 1514,
+     "fin": 1572,
+     "titre": "John Knox",
+     "fiche": "Réforme en Écosse."
+    },
+    {
+     "debut": 1509,
+     "fin": 1564,
+     "titre": "Jean Calvin",
+     "fiche": "Réforme à Genève à partir de 1536. Réf. : Institution de la religion chrétienne."
+    },
+    {
+     "debut": 1700,
+     "fin": 1760,
+     "titre": "Zinzendorf, les Moraves",
+     "fiche": "Herrnhut, réveil de 1727. Des Moraves conduisent Wesley à la foi."
+    },
+    {
+     "debut": 1703,
+     "fin": 1791,
+     "titre": "John Wesley",
+     "fiche": "Angleterre. Conversion le 24 mai 1738 ; la sanctification ; le méthodisme. Réf. : Journal de Wesley."
+    },
+    {
+     "debut": 1714,
+     "fin": 1770,
+     "titre": "George Whitefield",
+     "fiche": "Grand Réveil en Angleterre et en Amérique (1740)."
+    },
+    {
+     "debut": 1792,
+     "fin": 1875,
+     "titre": "Charles Finney",
+     "fiche": "Grands réveils aux États-Unis (1825-1835)."
+    },
+    {
+     "debut": 1834,
+     "fin": 1892,
+     "titre": "Charles Spurgeon",
+     "fiche": "Le « prince des prédicateurs », Londres."
+    },
+    {
+     "debut": 1847,
+     "fin": 1907,
+     "titre": "John Alexander Dowie",
+     "fiche": "Guérison divine ; fonde Zion City (1901). Bosworth et d'autres pionniers pentecôtistes y passent."
+    },
+    {
+     "debut": 1859,
+     "fin": 1947,
+     "titre": "Smith Wigglesworth",
+     "fiche": "Angleterre, apôtre de la foi et de la guérison."
+    },
+    {
+     "debut": 1837,
+     "fin": 1899,
+     "titre": "D. L. Moody",
+     "fiche": "Évangéliste à Chicago et en Grande-Bretagne."
+    },
+    {
+     "debut": 1867,
+     "fin": 1900,
+     "titre": "Mouvement de sainteté",
+     "fiche": "Héritiers de Wesley aux États-Unis. Seymour en vient."
+    },
+    {
+     "debut": 1873,
+     "fin": 1929,
+     "titre": "Charles Parham",
+     "fiche": "Topeka, 1er janvier 1901 : le parler en langues. Seymour suit son école biblique à Houston en 1905."
+    },
+    {
+     "debut": 1870,
+     "fin": 1922,
+     "titre": "William Seymour",
+     "fiche": "Azusa Street, Los Angeles, 1906-1909 : le réveil de Pentecôte, élève de Parham."
+    },
+    {
+     "debut": 1877,
+     "fin": 1958,
+     "titre": "F. F. Bosworth",
+     "fiche": "Baptisé du Saint-Esprit en 1906 ; campagnes de guérison dès 1912. Il rejoint les campagnes de Branham en 1948 : Branham n'est pas sorti de lui, ils ont travaillé ensemble."
+    },
+    {
+     "debut": 1918,
+     "fin": 2009,
+     "titre": "Oral Roberts",
+     "fiche": "Né le 24 janvier 1918, mort le 15 décembre 2009."
+    },
+    {
+     "debut": 1918,
+     "fin": 2018,
+     "titre": "Billy Graham",
+     "fiche": "Né le 7 novembre 1918, mort le 21 février 2018."
+    },
+    {
+     "debut": 1906,
+     "fin": 1973,
+     "titre": "Gordon Lindsay",
+     "fiche": "Organise les campagnes de Branham (1947-1949) ; fonde « La Voix de la guérison » (1948) et l'institut Christ for the Nations à Dallas."
+    },
+    {
+     "debut": 1923,
+     "fin": 2013,
+     "titre": "T. L. Osborn",
+     "fiche": "Évangéliste de guérison. Grandes campagnes en Afrique, en Asie et en Amérique latine dès les années 1950, souvent devant des foules immenses."
+    },
+    {
+     "debut": 1911,
+     "fin": 1970,
+     "titre": "A. A. Allen",
+     "fiche": "Évangéliste de guérison sous tente, à partir de 1949 ; fonde Miracle Valley en Arizona."
+    },
+    {
+     "debut": 1909,
+     "fin": 1965,
+     "titre": "William Branham",
+     "fiche": "Né en 1909, pasteur baptiste à Jeffersonville, campagnes de guérison à partir de 1946. Réf. : Malachie 4:5 sur ta feuille."
+    }
+   ]
+  }
+ ]
 }

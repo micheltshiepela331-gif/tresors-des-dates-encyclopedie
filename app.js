@@ -226,7 +226,18 @@ const zoomBy = f => animateTo(c, k * f);
 document.getElementById("zin").onclick = () => zoomBy(2);
 document.getElementById("zout").onclick = () => zoomBy(.5);
 document.getElementById("all").onclick = () => animateTo((MINY + MAXY) / 2, (W - 20) / (MAXY - MINY));
-document.querySelectorAll("[data-go]").forEach(b => b.onclick = () => { const [a, z] = b.dataset.go.split(",").map(Number); animateTo((a + z) / 2, (W - 20) / (z - a)); });
+/* Menu des thèmes : un seul bouton, la liste s'ouvre et se referme après un choix */
+const thBtn = document.getElementById("th-btn"), thMenu = document.getElementById("th-menu");
+const themes = open => { thMenu.hidden = !open; thBtn.setAttribute("aria-expanded", open); thBtn.textContent = open ? "Thèmes ▴" : "Thèmes ▾"; };
+thBtn.onclick = () => themes(thMenu.hidden);
+document.addEventListener("pointerdown", ev => { if (!thMenu.hidden && !ev.target.closest(".themes")) themes(false); });
+document.addEventListener("keydown", ev => { if (ev.key === "Escape") themes(false); });
+document.querySelectorAll("[data-go]").forEach(b => b.onclick = () => {
+  const [a, z] = b.dataset.go.split(",").map(Number);
+  themes(false);
+  thBtn.textContent = "Thème : " + b.textContent + " ▾";
+  animateTo((a + z) / 2, (W - 20) / (z - a));
+});
 function layout() {
   const narrow = innerHeight > innerWidth && innerWidth < 700;
   const t = pref === null ? narrow : pref;

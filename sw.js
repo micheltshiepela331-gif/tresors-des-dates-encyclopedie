@@ -1,5 +1,5 @@
 // Trésor des dates — fonctionnement sans Internet
-const CACHE = "tresor-des-dates-v1";
+const CACHE = "tresor-des-dates-v2";
 const FICHIERS = ["./", "index.html", "style.css", "donnees.js", "app.js", "manifest.json", "icon-192%20(1).png", "icon-512%20(1).png"];
 
 self.addEventListener("install", e => {

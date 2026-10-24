@@ -1,5 +1,12 @@
-<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<!doctype html><html lang="fr"><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
 <title>Trésor des dates</title>
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#2A1A0E">
+<link rel="icon" href="icon-192%20(1).png">
+<link rel="apple-touch-icon" href="icon-192%20(1).png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Trésor des dates">
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -126,6 +133,34 @@ body.turned .hint { display: none; }
 body.turned #detail { position: absolute; right: 14px; bottom: 14px; width: min(46%, 380px); max-height: 48%; overflow: auto; z-index: 5; padding: 10px 12px; box-shadow: 0 6px 22px rgba(0,0,0,.28); }
 body.turned #detail:not(.has) { display: none; }
 body.turned #d-close { display: block; }
+.fs-btn { position: absolute; top: 8px; right: 56px; z-index: 4; width: 44px; height: 44px; padding: 0; display: grid; place-items: center; background: transparent; border: 0; color: rgba(240,213,140,.8); opacity: .75; -webkit-tap-highlight-color: transparent; }
+.fs-btn:hover { box-shadow: none; } .fs-btn:active { opacity: 1; }
+.fs-btn svg { width: 24px; height: 24px; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; filter: drop-shadow(0 1px 3px rgba(0,0,0,.7)); }
+.fs-btn .fs-out { display: none; } body.fs .fs-btn .fs-in { display: none; } body.fs .fs-btn .fs-out { display: inline; }
+/* Plein écran : la ligne occupe tout l'écran, presque sans cadre */
+body.turned #stage { padding: 4px 6px; }
+body.turned #stage > section:first-child { padding: 4px; border-radius: 4px; }
+body.fs #stage { padding: 0; }
+body.fs #stage > section:first-child { padding: 2px 4px; border: 0; border-radius: 0; box-shadow: none; }
+#accueil { position: absolute; inset: 0; z-index: 70; display: grid; place-items: center; padding: 12px; background: radial-gradient(ellipse at 50% 40%, rgba(58,36,20,.96), rgba(30,18,9,.98)); }
+#accueil[hidden] { display: none !important; }
+.ac-card { width: min(640px, 100%); max-height: 100%; overflow: auto; box-sizing: border-box; text-align: center; display: grid; gap: 8px; padding: 10px 14px; }
+.ac-card h2 { font-family: var(--hand); font-weight: 700; font-size: clamp(40px, 9vmin, 64px); line-height: 1; margin: 0; background: linear-gradient(180deg,#FFF1C4,#D4AF37 70%,#A9821E); -webkit-background-clip: text; background-clip: text; color: transparent; }
+.ac-by { font-family: var(--mono); font-size: 12px; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
+.ac-card p { margin: 0; font-size: 15px; line-height: 1.5; color: var(--fg); text-align: left; }
+.ac-card .ac-hint { font-size: 13px; color: var(--muted); }
+.ac-go { justify-self: center; margin-top: 4px; background: var(--gold) !important; color: #2A1A0E !important; border-color: var(--gold) !important; font-weight: 600; font-size: 16px; padding: 9px 22px; }
+.ac-copy { font-family: var(--mono); font-size: 11px; color: var(--muted); }
+.ac-open { position: absolute; top: 8px; right: 104px; z-index: 4; width: 44px; height: 44px; padding: 0; display: grid; place-items: center; background: transparent; border: 0; color: rgba(240,213,140,.8); opacity: .75; font: italic 600 22px var(--body); text-shadow: 0 1px 4px rgba(0,0,0,.7); -webkit-tap-highlight-color: transparent; }
+.ac-open:hover { box-shadow: none; } .ac-open:active { opacity: 1; }
+#params { position: absolute; inset: 0; z-index: 65; display: grid; place-items: center; background: rgba(20,12,6,.6); -webkit-backdrop-filter: blur(3px); backdrop-filter: blur(3px); padding: 10px; }
+#params[hidden] { display: none !important; }
+.pm-list { display: grid; gap: 8px; }
+.pm-list button { display: flex; align-items: center; gap: 12px; width: 100%; text-align: left; border-radius: 10px; padding: 10px 12px; font-size: 16px; background: rgba(0,0,0,.2); }
+.pm-list svg { width: 24px; height: 24px; flex: 0 0 24px; fill: none; stroke: var(--gold); stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
+.pm-list small { display: block; font-size: 12px; color: var(--muted); }
+.fs-out { display: none; } body.fs .fs-in { display: none; } body.fs .fs-out { display: inline; }
+#accueil .ac-x { position: absolute; top: 8px; right: 8px; width: 36px; height: 36px; padding: 0; }
 </style>
 
 <div class="wrap">
@@ -142,7 +177,7 @@ body.turned #d-close { display: block; }
       <select id="go" aria-label="Aller à une période"><option value="">Périodes ▾</option><option value="-4250,-2050">Création → Abraham</option><option value="-2200,-1350">Patriarches, Exode</option><option value="-1460,-1040">De l'Exode à Saül</option><option value="-1080,-570">Les rois</option><option value="-640,-20">Babylone → Rome</option><option value="-370,-130">Alexandre et ses généraux</option><option value="-1500,100">La Bible écrite</option><option value="40,100">Le Nouveau Testament écrit</option><option value="-2150,2030">Les maîtres de Jérusalem</option><option value="-3300,2030">Civilisations du monde</option><option value="980,1900">Grandes découvertes</option><option value="1740,2030">Grandes inventions</option><option value="-200,1560">Papier et imprimerie</option><option value="1085,1300">Les croisades</option><option value="-70,140">Les Césars</option><option value="0,620">Empereurs et papes</option><option value="-40,140">Jésus, apôtres</option><option value="27,35">La vie de Jésus</option><option value="32,69">Les voyages de Paul</option><option value="300,620">De Nicée à 606</option><option value="100,2030">L'Église</option><option value="1300,1970">Réforme et réveils</option><option value="-480,60">70 semaines de Daniel</option><option value="1890,2115">L'avenir annoncé</option></select>
       <span class="lvl" id="lvl"></span>
     </div>
-    <div id="svgbox"><svg id="bgline" aria-hidden="true"></svg><svg id="line" role="img" aria-label="Ligne du temps qu'on peut zoomer, de la Création à aujourd'hui"></svg><svg id="needle" aria-hidden="true"></svg><button class="av-open" id="av-open" aria-label="Donner votre avis"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4.5 5.5h15v10h-8l-4.5 3.5v-3.5h-2.5z"/><path d="M8.5 9.5h7M8.5 12.2h4.5"/></svg></button><div class="zfloat zright"><button class="z" id="zero" aria-label="Revenir à l'an 0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M19.5 12a7.5 7.5 0 1 1-2.2-5.3"/><path d="M17.6 3.2v3.7h-3.7"/><text x="12" y="15.4" text-anchor="middle" font-size="9" font-weight="700" fill="currentColor" stroke="none" font-family="var(--mono)">0</text></svg></button></div><div class="zfloat"><button class="z" id="zin" aria-label="Zoomer"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></button><button class="z" id="zout" aria-label="Dézoomer"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14"/></svg></button></div></div>
+    <div id="svgbox"><svg id="bgline" aria-hidden="true"></svg><svg id="line" role="img" aria-label="Ligne du temps qu'on peut zoomer, de la Création à aujourd'hui"></svg><svg id="needle" aria-hidden="true"></svg><button class="av-open" id="set-open" aria-label="Paramètres"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="3.2"/><path d="M12 2.8v2.4M12 18.8v2.4M2.8 12h2.4M18.8 12h2.4M5.5 5.5l1.7 1.7M16.8 16.8l1.7 1.7M5.5 18.5l1.7-1.7M16.8 7.2l1.7-1.7"/><circle cx="12" cy="12" r="6.3"/></svg></button><div class="zfloat zright"><button class="z" id="zero" aria-label="Revenir à l'an 0"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M19.5 12a7.5 7.5 0 1 1-2.2-5.3"/><path d="M17.6 3.2v3.7h-3.7"/><text x="12" y="15.4" text-anchor="middle" font-size="9" font-weight="700" fill="currentColor" stroke="none" font-family="var(--mono)">0</text></svg></button></div><div class="zfloat"><button class="z" id="zin" aria-label="Zoomer"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></button><button class="z" id="zout" aria-label="Dézoomer"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14"/></svg></button></div></div>
     <div class="hint">Le cercle rouge reste au milieu : faites glisser la ligne dessous ; + et − zooment sur lui · Faites glisser pour avancer · pincez, ou utilisez + et −, pour zoomer · en vue en largeur, glissez aussi de côté pour voir les autres bandes</div>
   </section>
 
@@ -153,6 +188,29 @@ body.turned #d-close { display: block; }
     <p id="d-n"></p>
     <p class="was" id="d-x" hidden></p>
   </section>
+  <div id="params" hidden role="dialog" aria-modal="true" aria-labelledby="pm-t">
+    <div class="av-card">
+      <button class="av-x" id="pm-close" aria-label="Fermer">×</button>
+      <h2 id="pm-t">Paramètres</h2>
+      <div class="pm-list">
+        <button id="ac-open"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 11v6M12 7.5v.5"/></svg><span>Présentation<small>Le titre, l'auteur et l'explication des couleurs</small></span></button>
+        <button id="fs"><svg viewBox="0 0 24 24" aria-hidden="true"><path class="fs-in" d="M4 9V4h5M15 4h5v5M20 15v5h-5M9 20H4v-5"/><path class="fs-out" d="M9 4v5H4M20 9h-5V4M15 20v-5h5M4 15h5v5"/></svg><span id="fs-l">Plein écran<small>Cacher les barres du téléphone</small></span></button>
+        <button id="av-open"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4.5 5.5h15v10h-8l-4.5 3.5v-3.5h-2.5z"/><path d="M8.5 9.5h7M8.5 12.2h4.5"/></svg><span>Donner votre avis<small>Une erreur, une date à ajouter, une idée</small></span></button>
+      </div>
+      <div class="ac-copy" style="text-align:center">© 2026 Michel Tshiepela — Tous droits réservés</div>
+    </div>
+  </div>
+  <div id="accueil" hidden role="dialog" aria-modal="true" aria-labelledby="ac-t">
+    <button class="ac-x" id="ac-x" aria-label="Fermer">×</button>
+    <div class="ac-card">
+      <div class="ac-by">Michel Tshiepela</div>
+      <h2 id="ac-t">Trésor des dates</h2>
+      <p>Une seule ligne, de la Création à aujourd'hui. Zoomez pour faire apparaître les détails : d'abord les grands tournants, puis les rois, les prophètes, Alexandre à Jérusalem, la reconstruction du temple… Touchez un nom pour lire sa fiche. Le temple, sa construction et sa destruction, est en rouge. Les grands fléaux de l'humanité sont en violet. Le grand point rouge marque l'indépendance d'Israël en 1948. Zoomez fort pour voir la référence biblique ou historique de chaque événement ; au bout de la ligne, la zone dorée montre ce qui est annoncé.</p>
+      <p class="ac-hint">Faites glisser la ligne sous le cercle rouge · + et − pour zoomer · ⚙ Paramètres pour le plein écran, votre avis et cette présentation.</p>
+      <button class="ac-go" id="ac-go">Ouvrir la ligne du temps</button>
+      <div class="ac-copy">© 2026 Michel Tshiepela — Tous droits réservés</div>
+    </div>
+  </div>
   <div id="avis" hidden role="dialog" aria-modal="true" aria-labelledby="av-t">
     <div class="av-card">
       <button class="av-x" id="av-close" aria-label="Fermer">×</button>
@@ -1394,4 +1452,40 @@ layout(); k = 1.8 * (W - 20) / (MAXY - MINY); c = 0; clamp(); render(); // l'aig
 
 
 
+<script>
+// Paramètres : présentation, plein écran et avis réunis dans un seul menu.
+(function () {
+  const pm = document.getElementById("params"), ac = document.getElementById("accueil");
+  const closePm = () => { pm.hidden = true; };
+  document.getElementById("set-open").onclick = () => { pm.hidden = false; };
+  document.getElementById("pm-close").onclick = closePm;
+  pm.addEventListener("pointerdown", ev => { if (ev.target === pm) closePm(); });
+  document.getElementById("ac-open").onclick = () => { closePm(); ac.hidden = false; };
+  document.getElementById("ac-go").onclick = () => { ac.hidden = true; };
+  document.getElementById("ac-x").onclick = () => { ac.hidden = true; };
+  document.getElementById("av-open").addEventListener("click", closePm);
+  document.getElementById("fs").addEventListener("click", closePm);
+})();
+</script>
+<script>
+// Plein écran : cache la barre du téléphone et la barre de navigation.
+(function () {
+  const d = document, el = d.documentElement, b = d.getElementById("fs");
+  const req = el.requestFullscreen || el.webkitRequestFullscreen;
+  if (!req) { b.hidden = true; return; } // iPhone : non disponible dans le navigateur
+  const isFs = () => !!(d.fullscreenElement || d.webkitFullscreenElement);
+  const sync = () => { if (!isFs()) unlockH(); d.body.classList.toggle("fs", isFs()); document.getElementById("fs-l").firstChild.nodeValue = isFs() ? "Quitter le plein écran" : "Plein écran"; };
+  // En plein écran, le téléphone se met vraiment à l'horizontale (comme YouTube) : le clavier s'ouvre alors dans le bon sens.
+  const lockH = () => { try { const o = screen.orientation; if (o && o.lock) o.lock("landscape").catch(() => {}); } catch (e) {} };
+  const unlockH = () => { try { const o = screen.orientation; if (o && o.unlock) o.unlock(); } catch (e) {} };
+  const enter = () => { try { const r = req.call(el, { navigationUI: "hide" }); if (r && r.then) r.then(lockH, () => {}); else setTimeout(lockH, 300); } catch (e) {} };
+  const exit = () => { try { (d.exitFullscreen || d.webkitExitFullscreen).call(d); } catch (e) {} };
+  b.onclick = () => isFs() ? exit() : enter();
+  d.addEventListener("fullscreenchange", sync); d.addEventListener("webkitfullscreenchange", sync);
+  // Dès le premier toucher, l'application passe en plein écran.
+  const first = ev => { if (!b.contains(ev.target) && !isFs()) enter(); };
+  d.addEventListener("pointerup", first, { once: true });
+})();
+</script>
+<script>if ("serviceWorker" in navigator) { navigator.serviceWorker.register("sw.js"); }</script>
 </body></html>

@@ -1,0 +1,84 @@
+name: Fabriquer APK
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['index.html']
+
+permissions:
+  contents: write
+
+jobs:
+  apk:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Prendre les fichiers du dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Installer Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 17
+
+      - name: Préparer le projet Android
+        run: |
+          mkdir app && cd app
+          npm init -y
+          npm install @capacitor/core@6.2.0 @capacitor/cli@6.2.0 @capacitor/android@6.2.0
+          mkdir www
+          cp ../index.html www/index.html
+          npx cap init "Trésor des dates" com.michel.tresordesdates --web-dir www
+          npx cap add android
+          for d in android/app/src/main/res/mipmap-*dpi; do
+            cp "../icon-192 (1).png" "$d/ic_launcher.png"
+            cp "../icon-192 (1).png" "$d/ic_launcher_round.png"
+          done
+          rm -rf android/app/src/main/res/mipmap-anydpi-v26
+          # Toujours à l'horizontale, et en plein écran
+          sed -i 's/android:name=".MainActivity"/android:name=".MainActivity" android:screenOrientation="sensorLandscape"/' android/app/src/main/AndroidManifest.xml
+          sed -i 's#<item name="windowNoTitle">true</item>#<item name="windowNoTitle">true</item><item name="android:windowFullscreen">true</item>#' android/app/src/main/res/values/styles.xml
+          sed -i "s/versionCode 1$/versionCode ${{ github.run_number }}/" android/app/build.gradle
+          sed -i "s/versionName \"1.0\"/versionName \"1.${{ github.run_number }}\"/" android/app/build.gradle
+
+      - name: Construire et signer l'APK
+        env:
+          KEYSTORE_B64: ${{ secrets.KEYSTORE_B64 }}
+          KS_PASS: ${{ secrets.KS_PASS }}
+        run: |
+          cd app/android
+          chmod +x gradlew
+          if [ -n "$KEYSTORE_B64" ]; then
+            ./gradlew assembleRelease --no-daemon
+            echo "$KEYSTORE_B64" | tr -d ' \r\n' | base64 -d > cle.jks
+            BT=$(ls -d "$ANDROID_HOME"/build-tools/* | sort -V | tail -1)
+            "$BT/zipalign" -p -f 4 app/build/outputs/apk/release/app-release-unsigned.apk aligne.apk
+            "$BT/apksigner" sign --ks cle.jks --ks-pass env:KS_PASS --ks-key-alias shop --key-pass env:KS_PASS --out ../../tresor-des-dates.apk aligne.apk
+            rm -f cle.jks
+          else
+            echo "Pas de clé trouvée : APK de test."
+            ./gradlew assembleDebug --no-daemon
+            cp app/build/outputs/apk/debug/app-debug.apk ../../tresor-des-dates.apk
+          fi
+
+      - name: Publier l'APK
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create "v1.${{ github.run_number }}" tresor-des-dates.apk \
+            --title "Trésor des dates 1.${{ github.run_number }}" \
+            --notes "APK Android fabriqué automatiquement."
+
+      - name: Mettre l'APK sur le site
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add tresor-des-dates.apk
+          git commit -m "APK Trésor des dates 1.${{ github.run_number }}"
+          git push
